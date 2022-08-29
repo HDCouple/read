@@ -112,13 +112,7 @@ ISBN：9787535794369
 
 你对复杂性科学感到好奇吗？想不想探索一番呢？让我们出发吧。
 
-
-
-
-
-致谢
-
-
+# 致谢
 受圣塔菲研究所（SFI）邀请主持复杂系统暑期学校和为乌拉姆纪念讲座演讲的经历激发了我写这本书的念头，在此向圣塔菲研究所表示感谢。同时也要感谢SFI多年来为我提供了极具启发而且富有成效的科学氛围。SFI大家庭中的众多科学家慷慨地分享了他们的思想，给了我很多灵感，这里无法将他们一一列举，在此向他们全体表示感谢。还要感谢SFI的工作人员，我在研究所工作期间，他们真诚友善地给予了我帮助。
 
 感谢Bob Axelrod、Liz Bradley、Jim Brown、Jim Crutchfield、Doyne Farmer、Stephanie Forrest、Bob French、Douglas Hofstadter、John Holland、Greg Huber、Ralf Juengling、Garrett Kenyon、Tom Kepler、David Krakauer、Will Landecker、Manuel Marques-Pita、Dan Mc Shea、John Miller、Jack Mitchell、Norma Mitchell、Cris Moore、David Moser、Mark Newman、Norman Packard、Lee Segel、Cosma Shalizi、Eric Smith、Kendall Springer、J.Clint Sprott、Mick Thomure、Andreas Wagner、Chris Wood。他们热情地为我答疑，对书稿提出意见，并帮助我对书的内容有了更清晰的认识。当然，如果书中有任何不当之处，作者文责自负。
@@ -129,31 +123,15 @@ ISBN：9787535794369
 
 最后，感谢我的家人：我的父母Jack和Norma Mitchell、兄弟Jonathan Mitchell以及我的丈夫Kendall Springer，感谢他们给予我的爱和支持。感谢Jacob和Nicholas Springer，虽然他们的到来延误了这本书的写作，但他们也给我们的生活带来了新的欢乐和惹人喜爱的复杂性。
 
-
-
-
-
 # 1　背景和历史
-
-
-科学已经探索了微观和宏观世界；我们对所处的方位已经有了很好的认识。亟待探索的前沿领域就是复杂性。
-
-——斐杰斯（Heinz Pagels），
-
-《理性之梦》（Te Dreams of Reason）
-
-
-
-
+> 科学已经探索了微观和宏观世界；我们对所处的方位已经有了很好的认识。亟待探索的前沿领域就是复杂性。  
+——斐杰斯（Heinz Pagels）  
+《理性之梦》（Te Dreams of Reason）  
 
 ## 第1章　复杂性是什么
-
-
-一些思想是由简单的思想组合而成，我称此为复杂；比如美、感激、人、军队、宇宙等。
-
-——洛克（John Locke），
-
-《人类理解论》（An Essay Concerning Human Understanding）
+> 一些思想是由简单的思想组合而成，我称此为复杂；比如美、感激、人、军队、宇宙等。  
+——洛克（John Locke）  
+《人类理解论》（An Essay Concerning Human Understanding）  
 
 巴西：亚马孙雨林。几十万只行军蚁（army ant）在行进。没有谁掌控这支军队，不存在指挥官。单个蚂蚁几乎没有什么视力，也没有多少智能，但是这些行进中的蚂蚁聚集在一起组成了扇形的蚁团，一路风卷残云，吃掉遇到的一切猎物。不能马上吃掉的就会被蚁群带走。在行进了一天并摧毁了足球场大小的浓密雨林中的一切食物后，蚂蚁会修筑夜间庇护所——由工蚁连在一起组成的球体，将幼蚁和蚁后围在中间保护起来。天亮后，蚁球又会散成一只只蚂蚁，各就各位进行白天的行军。
 
