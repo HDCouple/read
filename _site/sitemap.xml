@@ -161,8 +161,16 @@
 <lastmod>2022-08-28T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/complexity/</loc>
+<lastmod>2022-08-29T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/alan-turing-the-enigma/</loc>
+<lastmod>2022-08-30T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/wiki/template/</loc>
-<lastmod>2022-08-29T21:32:01+08:00</lastmod>
+<lastmod>2022-08-30T11:39:44+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -196,5 +204,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page5/</loc>
 </url>
 </urlset>
