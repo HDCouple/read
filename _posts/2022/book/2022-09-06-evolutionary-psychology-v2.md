@@ -53,7 +53,7 @@ ISBN 978-7-5617-5271-5
 
 
 
-中文版序言
+# 中文版序言
 
 
 D·M·巴斯
@@ -91,7 +91,7 @@ It is a tremendously exciting time to be working in the field of evolutionary ps
 
 
 
-序　言
+# 序言
 
 
 从科学史的角度来看，在当今时代，能够成为一名进化心理学家是一件特别令人兴奋的事情。大多数科学家都只是在那些确立已久的范式下进行研究工作。相反，进化心理学是一门革命性的新科学，它是心理学和进化生物学的现代理论的真正综合。通过对这个领域的仔细考察，我希望这本书能够以一种适宜的方式来完成一次科学革命，并为新千年的心理学发展奠定良好的基础。自从《进化心理学——心理的新科学》的第一版在1999年出版以来，进化心理学领域又涌现出了许多新的研究。有关进化心理学的新杂志陆续创刊发行，而主流的心理学杂志中有关进化心理学的文章数量也在稳步上升。世界各地的大学都纷纷开设了进化心理学这门新的课程。尽管科学知识中的诸多隔阂依然存在，但是每一次新的发现总会提出很多新的问题和领域值得我们去探索。进化心理学是一个充满活力、令人兴奋的领域，它充满了经验性的发现和理论上的创新。事实上，正如哈佛大学Steven Pinker教授所言：“在对人的研究中，如果想要对人类经验的某些主要领域——比如美、母性、亲属关系、道德、合作、性行为、攻击性——进行解释，那么只有进化心理学才能提供比较连贯的理论。”（Pinker, 2002, p. 135）
@@ -110,7 +110,7 @@ It is a tremendously exciting time to be working in the field of evolutionary ps
 
 
 
-致　谢
+# 致谢
 
 
 能够完成这本书，我必须感谢那些对本书内容作过直接评论的同事。此外，我还要感谢那些对我自己在进化心理学领域进行长达20多年的探索历程中产生过重大影响的人。我对进化的兴趣始于20世纪70年代中期的地质学本科课程。当时，我第一次知道有些理论是专门来解释事物的起源的。我在进化心理学上的第一次探索，是1975年的一篇学期论文。在那篇论文中，我通过对灵长类的比较研究（现在看起来很可笑），从而推测男人已经进化了一种追求地位的动机，这主要是因为更高的地位能够带来更多的性接触机会。
@@ -133,11 +133,7 @@ It is a tremendously exciting time to be working in the field of evolutionary ps
 
 还要感谢Cindy。
 
-
-
-
-
-第一部分　进化心理学基础理论
+# 第一部分　进化心理学基础理论
 
 
 这两章介绍进化心理学的基础理论知识。第一章主要追溯导致进化心理学产生的科学运动。在这章的开篇，我们描述了进化论发展历史中的里程碑事件：从达尔文以前的进化论，一直到当今生物学界所广泛接受的现代进化论。接下来，我们考察进化论所受到的三种普遍误解。最后，我们回顾心理学领域的重大事件，从达尔文对弗洛伊德精神分析理论的影响，一直到现代认知心理学的主要观点。
@@ -148,7 +144,7 @@ It is a tremendously exciting time to be working in the field of evolutionary ps
 
 
 
-第一章　导致进化心理学产生的科学运动
+## 第一章　导致进化心理学产生的科学运动
 
 
 在遥远的将来，我会看到许多更加重要的研究领域就此打开。心理学将会拥有全新的基础，这个基础对于我们逐步获得每种心理能力都是必需的。
@@ -177,7 +173,7 @@ It is a tremendously exciting time to be working in the field of evolutionary ps
 
 
 
-进化思想史上的里程碑事件
+### 进化思想史上的里程碑事件
 
 我们对进化思想史的考察，将从达尔文之前的进化思想开始，然后是从那时起一直到20世纪末这段时间，进化思想在其发展过程中出现过的重大事件。
 
@@ -439,7 +435,7 @@ Trivers的三篇重要论文，都发表于20世纪70年代早期。第一篇提
 
 
 
-对进化理论的常见误解
+### 对进化理论的常见误解
 
 尽管选择的进化理论看起来非常简单，但这些理论还是产生了大量的误解。也许正是由于这种简洁性，才使得人们在浅尝之后——比如在读了一两篇通俗文章之后——就认为他们已经完全理解了进化理论。其实，即使是进化生物学领域的专业人员，有时也会陷入这些误区的泥潭。
 
@@ -475,7 +471,7 @@ Trivers的三篇重要论文，都发表于20世纪70年代早期。第一篇提
 
 
 
-现代人类起源的里程碑事件
+### 现代人类起源的里程碑事件
 
 在探索现代人类心智的艰难历程当中，最引人入胜的工作之一就是努力去揭示那些在我们人类的进化过程中曾经发生过的重大历史事件。表1.1列出了这些里程碑事件中的一部分。从表中可以得知，最有趣的事情莫过于时间跨度是如此之大。从地球上的第一个生命出现开始，到我们人类现在所生活的21世纪，足足花去了将近37亿年的时间。
 
@@ -555,7 +551,7 @@ OOA理论则完全相反。该理论认为，现代人类都是最近在同一�
 
 
 
-心理学领域中的里程碑事件
+### 心理学领域中的里程碑事件
 
 自从达尔文于1859年出版《物种起源》以来，进化生物学一直在不断地发生变化，而心理学则在另一条道路上缓慢前行。Sigmund Freud在达尔文成名几十年之后才开始崭露头角，他深受达尔文自然选择的进化理论的影响。William James也是如此。但是在20世纪20年代，心理学界出现了一个大转折——心理学远离了进化理论，而被激进的行为主义统治了大约半个世纪之久。随后，许多重要的研究发现又使得激进的行为主义难以为继，从而迫使心理学重新回归进化理论的怀抱。在这一节，我们将简要回顾进化理论在心理学领域产生的影响。
 
@@ -663,7 +659,7 @@ Harry Harlow的实验表明，尽管所谓的“一级强化”（通过食物�
 
 
 
-小　结
+### 小结
 
 进化生物学的历史上曾经发生过很多重大的事件。进化是指有机体随着时间发生的变化，它在达尔文出现之前就一直存在。但是在达尔文之前，没有哪一种理论能够解释有机体的变化是如何发生的。达尔文的自然选择理论是他对进化生物学的最高贡献，该理论包括三种必要成分：变异、遗传和选择。当某些遗传变异比其他遗传变异带来了更高的繁殖成功率时，自然选择就会发生。简而言之，自然选择被定义为由于遗传变异的不同繁殖成功率，从而导致有机体的性状随着时间发生变化。
 
@@ -699,7 +695,7 @@ Harry Harlow的实验表明，尽管所谓的“一级强化”（通过食物�
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Darwin, C. (1859). On the origin of species. London: Murray.
 
@@ -721,7 +717,7 @@ Williams, G. C. (1966). Adaptation and natural selection. Princeton, NJ: Princet
 
 
 
-第二章　作为新科学的进化心理学
+## 第二章　作为新科学的进化心理学
 
 
 
@@ -747,7 +743,7 @@ Williams, G. C. (1966). Adaptation and natural selection. Princeton, NJ: Princet
 
 
 
-人性的起源
+### 人性的起源
 
 关于复杂适应性机制的起源的三种理论
 
@@ -889,7 +885,7 @@ Trivers的亲代投资理论的基本要旨已经得到了来自大量物种的�
 
 
 
-人性的核心：进化心理机制的基本原理
+### 人性的核心：进化心理机制的基本原理
 
 在这一节，我们主要从进化心理学的视角来讨论人性的核心组成。首先，所有的物种（包括人类）都有一种能被描述出来并加以解释的本性。其次，我们为进化的心理机制给出了一个定义，这些机制正是构成人性的核心单元。最后，我们将考察进化的心理机制的某些重要属性。
 
@@ -1007,7 +1003,7 @@ Chiappe和MacDonald的主要观点是，在人类的进化历史中，人类必�
 
 
 
-检验进化假设的方法
+### 检验进化假设的方法
 
 一旦形成了关于进化心理机制的清晰的系统化假设，并且得出了与之相连的具体预测之后，下一步的工作就是对它们进行实际的检验。进化心理学家在研究中采用了广泛的科学方法。正如我们即将看到的那样，进化心理学的科学基础并不依赖于某种单一的方法，而是将来自各种方法和数据来源的证据进行会聚和整合（见表2.3）。
 
@@ -1059,7 +1055,7 @@ Chiappe和MacDonald的主要观点是，在人类的进化历史中，人类必�
 
 
 
-检验进化假设的数据来源
+### 检验进化假设的数据来源
 
 进化心理学家拥有大量的数据来源，来检验他们形成的进化假设。这一节简要介绍其中的几种数据来源。
 
@@ -1115,7 +1111,7 @@ Chiappe和MacDonald的主要观点是，在人类的进化历史中，人类必�
 
 
 
-确认适应性问题
+### 确认适应性问题
 
 和其他物种一样，人类在进化历史中也面临着数量巨大的适应性问题，并且产生了许多非常复杂的适应性机制。所以，接下来的关键问题就是：我们如何确定这些适应性问题到底是什么？
 
@@ -1177,7 +1173,7 @@ Chiappe和MacDonald的主要观点是，在人类的进化历史中，人类必�
 
 
 
-小　结
+### 小结
 
 这一章涵盖了四个主题：（1）形成关于我们进化心理机制的假设的逻辑；（2）进化过程的产物；（3）进化形成的心理机制的特征；（4）我们检验这些假设所能采用的科学程序。
 
@@ -1201,7 +1197,7 @@ Chiappe和MacDonald的主要观点是，在人类的进化历史中，人类必�
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Buss, D. M., Haselton, M. G., Shackelford, T. K., Bleske, A., & Wakefield, J. C. (1998). Adaptations, exaptations, and spandrels. American Psychologist, 53, 533—548.
 
@@ -1217,7 +1213,7 @@ Tooby, J., & Cosmides, L. (1992). Psychological foundations of culture. In J.Bar
 
 
 
-第二部分　生存问题
+# 第二部分　生存问题
 
 
 这个部分仅仅包含一个章节的内容，这一章主要介绍了人类用以解决各种生存问题的适应器。达尔文创造了一个短语——恶劣的自然条件（the hostile forces of nature）——来描绘那些阻碍生存的各种力量。我们的祖先正是由于成功地克服了这些力量，从而得以繁衍生息。在第三章的开头，我们讨论了获取食物并对之加以选择的问题。关于我们的祖先是如何获取食物的问题，主要存在三种假设：狩猎假设、采集假设和食腐（scavenger）假设。我们也对这三种假设进行了分析探讨。接着，我们讨论了人类的另一种适应器，即对栖息之所（habitat）和生活环境的选择偏好。然后，我们分析了害怕、恐惧症、焦虑以及其他一些适应器。这些适应器是主要用来应付各种危险情境的，比如蛇和疾病等等。随后，我们探讨了一个十分有趣的问题——“人是否注定（programmed）要死”？在第三章的结尾，我们尝试着对一个真正的进化之谜进行了探讨，那就是“为什么有人会自杀”？
@@ -1226,7 +1222,7 @@ Tooby, J., & Cosmides, L. (1992). Psychological foundations of culture. In J.Bar
 
 
 
-第三章　克服恶劣的自然条件
+## 第三章　克服恶劣的自然条件
 
 ——人类的生存问题
 
@@ -1268,7 +1264,7 @@ Tooby, J., & Cosmides, L. (1992). Psychological foundations of culture. In J.Bar
 
 
 
-食物的获得和选择
+### 食物的获得和选择
 
 如果没有食物和水，我们将无法生存。“食物是构成或限制一个物种的适应系统的主要因素。”（Tooby & DeVore, 1987, p. 234）确实，在觉醒状态下，大部分动物花在寻找、捕猎和取食上的时间比其他活动都要多（Rozin, 1996）。就像寻找配偶对于繁衍的意义一样，寻找食物是生存所必需的。在现代社会，如果饿了，我们可以去商店或者餐馆寻找食物。但是对于我们漫游在热带大草原的祖先而言，寻找食物可没那么容易。从早上起床时的饥肠辘辘，到晚上睡觉时的吃饱喝足，我们的祖先必须跨越诸多障碍。
 
@@ -1500,7 +1496,7 @@ Silverman认为，寻找和采集可食用的坚果、浆果、水果和块茎�
 
 
 
-寻找栖息之所：居所和风景偏好
+### 寻找栖息之所：居所和风景偏好
 
 试着想象你正在进行一次野营旅行（Orians & Heerwagen, 1992）。早上醒来时，你腹中空空且急于小便。当你继续行走时，烈日当空，口干舌燥，你希望马上能够找到清澈的溪流以便解渴。但是，到了该扎营的时候了。你整理装备，环顾四周。你正在朝哪个方向行进？有些东西看起来美极了。这些引人入胜的美景意味着奔流的溪水、丰富的鱼类和可口的蔬菜，还有一个安全的宿营之地。当然，你肯定还是面临某些危险，比如野兽、悬崖和炎炎烈日。
 
@@ -1544,7 +1540,7 @@ Orians（1980，1986）提出了关于居所偏好的热带大草原假设（sav
 
 
 
-抵御捕食者和环境中的其他危险：害怕、恐惧症、焦虑和“进化的记忆”
+### 抵御捕食者和环境中的其他危险：害怕、恐惧症、焦虑和“进化的记忆”
 
 每个人都曾面临过某种危急情境，因而也必然有过焦虑和害怕的体验。害怕这种情绪对人类的适应性价值是显而易见的，它让我们及时处理所面临的危险，以便存活下来。这种观点已经得到了广泛的认可，并反映在最近的一本书当中。这本书名叫《害怕：保护我们免受伤害的生存信号》，曾在《纽约时报》畅销书排行榜上雄踞数周之久（De Becker, 1997）。这本书主要告诫大家应该聆听害怕的直觉特征，因为它是我们避开危险的最重要的向导。
 
@@ -1651,7 +1647,7 @@ Marks（1987）概括了害怕和焦虑为我们提供保护的四个步骤：
 
 
 
-人类注定会死？
+### 人类注定会死？
 
 由于生存对于繁殖是如此重要，所以我们才拥有这么多的适应器来让我们得以存活。但是，我们为什么又免不了一死呢？为什么自然选择没有塑造出某种机制让我们长生不老，或者至少多活几百年呢？另外，为什么有人会自杀？因为自杀行为看起来似乎和进化是背道而驰的呀。在本章的最后一节，我们来探讨这些令人迷惑的问题。
 
@@ -1689,7 +1685,7 @@ Williams（1957）以这种现象为出发点，形成了关于衰老的基因�
 
 
 
-小　结
+### 小结
 
 很多恶劣的自然条件——比如食物短缺、毒素、捕食者、寄生虫、疾病以及极端的气候等——反复不断地困扰着我们的祖先。人类已经进化了许多适应性的机制来克服这些障碍，以便能够存活下来。获得食物是最重要的生存问题之一。食物的获得和消耗是非常艰难而复杂的问题。除了食物短缺之外，有机体还必须面对的问题就是，该吃哪些食物，不该吃哪些食物，以及如何获得那些能吃的食物。人类进化成杂食动物，不仅食用植物，而且还以许多动物为食。人类较为明显的适应器包括：对富含卡路里的食物表现出特定的偏好；拥有特定的机制来让我们避免摄入有毒的东西（比如对粪便的厌恶反应）；拥有特定的机制来排出毒素（比如呕吐、咳嗽、打喷嚏、腹泻和妊娠反应等）。人类还采用香料来杀死食物中滋生的细菌，这一实践活动很有可能是通过文化交流而传播开来的。人类使用香料的普遍现象支持了杀菌假设。我们之所以喜欢喝酒，有可能是起源于我们祖先对成熟水果的偏爱，因为熟透的水果中往往包含有少量的乙醇。
 
@@ -1711,7 +1707,7 @@ Williams（1957）以这种现象为出发点，形成了关于衰老的基因�
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Hawkes, K., O'Connell, J. F., & Blurton Jones, N.　G. (2001a). Hunting and nuclear families. Current Anthropology, 42, 681—709.
 
@@ -1733,7 +1729,7 @@ Tooby, J., & DeVore, I. (1987). The reconstruction of hominid behavioral evoluti
 
 
 
-第三部分　性行为和择偶行为的挑战
+# 第三部分　性行为和择偶行为的挑战
 
 
 由于差异繁殖是推动进化过程的动力，所以与繁殖相关的心理机制就成了选择的特别强有力的目标。如果选择没有塑造出那些被设计来解决由性和择偶提出的适应性问题的心理机制，那么进化心理学还没诞生就要“失业”了。在这一部分，我们将讨论择偶问题，并考察进化心理学已经在该领域建立的经验基础。
@@ -1748,7 +1744,7 @@ Tooby, J., & DeVore, I. (1987). The reconstruction of hominid behavioral evoluti
 
 
 
-第四章　女性的长期择偶策略
+## 第四章　女性的长期择偶策略
 
 
 
@@ -1772,7 +1768,7 @@ Tooby, J., & DeVore, I. (1987). The reconstruction of hominid behavioral evoluti
 
 
 
-择偶偏好的进化的理论背景
+### 择偶偏好的进化的理论背景
 
 这一部分将讨论对于理解择偶偏好的进化至关重要的三个理论问题。第一个问题是进化生物学中最大的谜团之一：有性繁殖是如何进化而来的？第二个问题是有性繁殖物种的两种性别——雄性和雌性——的定义，以及亲代投资（parental investment）会对择偶特征产生何种影响。第三个问题涉及作为进化的心理机制的择偶偏好。
 
@@ -1828,7 +1824,7 @@ Tooby, J., & DeVore, I. (1987). The reconstruction of hominid behavioral evoluti
 
 
 
-女性择偶偏好的内容
+### 女性择偶偏好的内容
 
 了解理论背景后，让我们来看看女性择偶的具体内容（见表4.1）。就像前面讨论所说，择偶是一项复杂的任务，我们不能期望由一个简单的答案就了解女性想要的是什么。这是一个长期存在而且备受关注的问题，也许没有任何一个其他的主题受到过如此多的关注，然而现在我们或许已经找到了某些合理而且确定的答案。
 
@@ -2122,7 +2118,7 @@ La Cerra（1994）研究发现女性觉得和孩子积极互动的男人作为�
 
 
 
-女性择偶偏好的背景影响因素
+### 女性择偶偏好的背景影响因素
 
 从进化心理学的观点来看，择偶偏好并不是盲目产生的，并非与背景或情景无关。就像人类对食物的需求（例如，成熟的水果）也依赖于背景（例如，这个人是饱还是饿）一样，女性的择偶偏好也在一定程度上依赖于相关背景。目前为止，人们探索了四种背景影响因素：女性在寻找配偶之前拥有的资源，择偶的时间背景（要求有承诺的还是随意的择偶），生理周期以及女性自身的择偶价值。
 
@@ -2174,7 +2170,7 @@ La Cerra（1994）研究发现女性觉得和孩子积极互动的男人作为�
 
 
 
-女性的择偶偏好如何影响实际的择偶行为
+### 女性的择偶偏好如何影响实际的择偶行为
 
 进化而来的偏好势必影响实际的择偶决策，因为只有实际行为才能影响繁殖活动。然而有很多原因导致实际择偶行为并不能与个人偏好完全一致。确实，由于种种原因人们不是总能得到他们想要的东西。首先，非常合乎心意的潜在配偶的数量是有限的。其次，个人的配偶价值往往也限制了与高配偶价值的异性的接触机会。一般而言，只有少数最漂亮的女性才能吸引最迷人的男性，反之亦然。再次，父母和其他亲戚有时也会影响个人决策，而不管个人偏好如何。尽管存在这些因素，女性在进化历程中的择偶偏好必然并已然对她们实际的择偶行为产生了影响，否则这些偏好就不会进化而来。下面是偏好影响择偶决策的一些证据来源。
 
@@ -2202,7 +2198,7 @@ La Cerra（1994）研究发现女性觉得和孩子积极互动的男人作为�
 
 
 
-小　结
+### 小结
 
 我们现在已经大致解开了人类女性在长期择偶中的偏好之谜。现代女性继承了她们成功的祖先择偶时的明智和谨慎。较之于善于择偶的女性，那些不加区分就选择配偶的女性可能会更少成功地生育后代。一个长期配偶能够给女性带来一笔宝贵的资产，挑选合适的人选也必须作出相当复杂的努力。女性形成的众多择偶偏好内容各异，但都与资源相关，以帮助解决重要的适应性问题。
 
@@ -2232,7 +2228,7 @@ La Cerra（1994）研究发现女性觉得和孩子积极互动的男人作为�
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Buss, D. M. (2003). The evolution of desire: Strategies of human (revised edition). New York: Free Press.
 
@@ -2248,7 +2244,7 @@ Trivers, R. L. (1972). Parental investment and sexual selection. In B. Campbell 
 
 
 
-第五章　男性的长期择偶策略
+## 第五章　男性的长期择偶策略
 
 
 
@@ -2268,7 +2264,7 @@ Trivers, R. L. (1972). Parental investment and sexual selection. In B. Campbell 
 
 
 
-男性择偶偏好的进化理论背景
+### 男性择偶偏好的进化理论背景
 
 这一部分涵盖了两个主题的理论背景。第一个研究主题是男性为什么会结婚——远古男性从婚姻中能得到哪些潜在的适应性收益？第二个研究主题是男性多种欲望的复杂性以及性选择如何产生了特殊的男性择偶偏好。
 
@@ -2326,7 +2322,7 @@ Symons（1979）; Williams（1975）。
 
 
 
-男性择偶偏好的内容
+### 男性择偶偏好的内容
 
 在某些方面男性和女性的择偶偏好非常类似。和女性一样，男性也希望对方聪慧、善良、善解人意而且健康（Buss, 2003）。同样，男性也希望对方和自己有共同的价值标准、类似的生活态度、性格以及宗教信仰。但是远古男性面临着一系列与远古女性不同的适应性择偶问题，因此据预测，他们的后代即现代男性就会拥有一些不同的择偶偏好，这正是适应的结果。而在这些偏好中，首当其冲且判断女性繁殖期的最有力线索就是她们的年龄。
 
@@ -2608,7 +2604,7 @@ NS表明性别差异不明显。
 
 
 
-男性择偶行为的背景影响因素
+### 男性择偶行为的背景影响因素
 
 在这一部分我们将讨论两种背景因素对男性择偶行为的影响。首先，我们发现在实际择偶活动中个人愿望很少能够完全达成。如第四章中讨论的，当我们讨论女性的需求时，“配偶价值”高的男性就有更多的选择机会。拥有地位和财富的男性最受女性欢迎，他们才最有可能将自己的愿望转化成实际的择偶行为。
 
@@ -2642,7 +2638,7 @@ NS表明性别差异不明显。
 
 
 
-男性偏好对实际择偶行为的影响
+### 男性偏好对实际择偶行为的影响
 
 这一部分我们将讨论男性的长期择偶偏好对行为的影响。首先我们来看一项征婚广告的研究，看男性是否对那种拥有男性所希求的品质的女性有更多的反馈。其次，我们来看年龄偏好与实际的择偶决策之间的关系。最后，我们看看男性的择偶偏好如何影响女性的择偶策略，女性是否试图以符合男性欲望的方式来吸引男性。
 
@@ -2690,7 +2686,7 @@ NS表明性别差异不明显。
 
 
 
-小　结
+### 小结
 
 已婚的远古男性拥有许多优势。他们更有可能找到一个性伴侣，特别是一个更具吸引力的伴侣。同时，结婚使他们更确定自己的父亲身份，因为他们拥有妻子的持续的、专属的或支配性的性接触。在适应过程中，男性也从婚姻中受益，他们对家庭的投资和父爱的保护，增加了他们孩子生存与繁殖的成功率。
 
@@ -2708,7 +2704,7 @@ NS表明性别差异不明显。
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Kenrick, D. T., & Keefe, R. C. (1992). Age preferences in mates reflect sex differences in reproductive strategies. Behavioral and Brain Sciences, 75, 15—133.
 
@@ -2724,7 +2720,7 @@ Williams, G. C. (1975). Sex and evolution. Princeton, NJ: Princeton University P
 
 
 
-第六章　短期的性关系策略
+## 第六章　短期的性关系策略
 
 
 ［女人］和心爱的人私奔虽然事属罕见，但还是存在的……因此我们发现……女人在婚姻关系中并非处于通常认为的那种卑微的地位。不管在婚前还是在婚后，她们都可能引诱中意的男子，有时也会拒绝她们不喜欢的人。
@@ -2751,7 +2747,7 @@ Williams, G. C. (1975). Sex and evolution. Princeton, NJ: Princeton University P
 
 
 
-男性的短期择偶理论
+### 男性的短期择偶理论
 
 现在我们开始讨论短期择偶的理论。首先，我们将看到男性短期择偶的进化适应的逻辑，以及为什么男女两性的心理差异会拉大到现在的距离。其次，我们探讨男性为短期择偶所付出的潜在代价。最后，我们讨论，男性要成功维持短期择偶所必须解决的特殊的适应性问题。
 
@@ -2804,7 +2800,7 @@ Williams, G. C. (1975). Sex and evolution. Princeton, NJ: Princeton University P
 
 
 
-短期择偶的心理机制进化的证据
+### 短期择偶的心理机制进化的证据
 
 性关系必须经过双方同意才能发生，而短暂性关系也不可能由远古男性单方面挑起。我们至少可以这样说，某些远古女性在某些时候参与过这种事情，因为如果历史上每个女性都从一而终，从来没有外遇发生，那么男性发生短暂性关系的机会就根本不存在（Smith, 1984）。当然，强奸现象排除在外——这将在第十一章中讨论。
 
@@ -2946,7 +2942,7 @@ Williams, G. C. (1975). Sex and evolution. Princeton, NJ: Princeton University P
 
 
 
-女性的短期择偶
+### 女性的短期择偶
 
 这一部分我们转向对女性的研究。首先，我们提供女性在长期进化历程中可能参与短期择偶的证据。其次，我们探讨远古女性从短期择偶中获得的适应性收益。再者，我们研究女性在短期择偶中付出的代价。最后，我们考察关于女性短期择偶收益的各种假设的经验证据。
 
@@ -3040,7 +3036,7 @@ Glass和Wright（1992）研究了对外遇的17种可能的“辩护”，从“
 
 
 
-短期择偶的背景影响因素
+### 短期择偶的背景影响因素
 
 短期择偶的个体差异
 
@@ -3078,7 +3074,7 @@ Glass和Wright（1992）研究了对外遇的17种可能的“辩护”，从“
 
 
 
-小　结
+### 小结
 
 几乎整个20世纪有关择偶的科学研究都集中于婚姻。然而人类解剖学、生理学以及心理学的研究几乎都忽略了绵延人类历史中的风流韵事。科学家们显然能看到这种短期关系带给男性的繁殖收益，却看不到女性从中获得的众多收益。短期关系必然要求一个乐意合作的女性，而女性要乐意于此必然是因为能从中获得收益。
 
@@ -3094,7 +3090,7 @@ Glass和Wright（1992）研究了对外遇的17种可能的“辩护”，从“
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Ellis, B. J., & Symons, D. (1990). Sex differences in fantasy: An evolutionary psychological approach. Journal of Sex Research, 27, 527—556.
 
@@ -3110,7 +3106,7 @@ Surbey, M. K., & Conohan, C. D. (2000). Willingness to engage in casual sex: The
 
 
 
-第四部分　亲代抚育和亲属关系的挑战
+# 第四部分　亲代抚育和亲属关系的挑战
 
 
 这一部分包括两章，一章关于亲代抚育问题，另一章关于亲属关系问题。有机体一旦成功穿越生存的障碍，就必须解决择偶和繁殖问题，接下来的挑战就是为繁殖的结晶而努力，因为孩子是父母基因的“载体”。第七章开篇就提出了为何几乎所有物种中母亲都比父亲对子女抚养投入更多这一难题。由此开始探讨亲代抚育的模式，集中于三个重要问题：子女与父母的基因的相似程度，子女把父母的关爱转换成适应性的能力，父母面临的是为子女还是为其他适应性难题投资的权衡问题。最后一部分为几乎人人都曾经历过的两代冲突现象提供了一种进化论的解释。
@@ -3121,7 +3117,7 @@ Surbey, M. K., & Conohan, C. D. (2000). Willingness to engage in casual sex: The
 
 
 
-第七章　亲代抚育问题
+## 第七章　亲代抚育问题
 
 
 我的母亲说他是我的父亲。然而我不知道。因为没有人知道谁是自己的生父。
@@ -3152,7 +3148,7 @@ Surbey, M. K., & Conohan, C. D. (2000). Willingness to engage in casual sex: The
 
 
 
-为什么母亲为子女提供的照顾比父亲更多？
+### 为什么母亲为子女提供的照顾比父亲更多？
 
 进化心理学家John Alcock（1993）描述了一部有关非洲猎犬的电影，它讲述了一只名叫Solo的特殊猎犬所遭遇的生活及与恶势力的故事。Solo是他母亲唯一的后人。因为其母地位低下，她和孩子容易受到别人的凌辱。一个接着一个，Solo的同胞相继被群内一只母犬杀死，这只猎犬是他母亲昔日的对手。Solo母亲的反抗是徒劳的，无法把孩子从凶残的对手手中救出。然而令人吃惊的是，当母犬拼死营救幼子的时候，父亲只是被动地站在一旁置若罔闻！
 
@@ -3204,7 +3200,7 @@ Surbey, M. K., & Conohan, C. D. (2000). Willingness to engage in casual sex: The
 
 
 
-亲代抚育的进化视角
+### 亲代抚育的进化视角
 
 本章开篇就指出，子孙后代是选择所塑造的载体，父母的基因由此传递到下一代，但是并非所有的后代都会繁殖。那些擅于生存或者择偶前景更好的后代才是成功传递父母基因的更好的载体。有的后代更可能从亲代抚育中获得收益。作为一项普遍法则，亲代抚育机制中很容易体现出选择倾向——一种针对后代的优先投资分配，以牺牲其他投资分配形式为代价——结果便增加了父母的适应性。从定义中可以看出，亲代抚育的选择性会对某些后代更为有利，这种情况被称为父母偏心（parental favoritism）。换一种说法就是，选择将会有利于这样一种亲代机制的进化，即父母更青睐那些对其投资有更高繁殖回报的后代（Daly & Wilson, 1995）。尽管父子关系比母子关系更弱，但对于更高的繁殖回报，父亲应该和母亲同样敏感，这几乎是所有文化中的通则（Mackey & Daly, 1995）。
 
@@ -3498,7 +3494,7 @@ Aka的父亲们每天搂抱孩子的次数显然比其他文化里的父亲要�
 
 
 
-父母——子女冲突的理论
+### 父母——子女冲突的理论
 
 进化理论告诉我们，孩子是父母繁殖成效的主要载体。如果说孩子对父母是如此重要，你也许会奇怪为什么你和父母之间会产生冲突。那么接下来你也许会惊奇地看到，进化实际上也能够说明父母和子女之间的冲突（Trivers, 1974）。
 
@@ -3566,7 +3562,7 @@ Daly和Wilson（1988）用一个数字表示的例子来阐述其中的逻辑。
 
 
 
-小　结
+### 小结
 
 从进化心理学的视角来看，后代是父母基因的载体，因此选择应该青睐被设计来确保后代生存和繁殖的亲代机制。亲代抚育的心理机制已经被证明也存在于许多非人类物种上。一个最有趣的谜团就是，为什么母亲往往比父亲提供更多的亲代抚育。有三种假设给出了解释：（1）父子关系的不确定假设——男性比女性投入更少是因为他们对假定的后代贡献基因的概率更少（母子关系的确定性是100％，而父子关系的确定性低于100％）；（2）遗弃假设——谁可以率先遗弃子女，由于许多物种都是体内受精，因此雄性可以成为率先遗弃孩子的人；（3）择偶机会的代价假设——付出亲代投资的男性的代价高于女性，因为这种投资使他们丧失了其他的择偶机会。尽管这三个因素都可能说明亲代投资量中全部的性别差异，但当前证据更为支持的是父子关系不确定假设和择偶机会代价假设。
 
@@ -3582,7 +3578,7 @@ Daly和Wilson（1988）用一个数字表示的例子来阐述其中的逻辑。
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Bjorklund, D. F., & Pellegrini, A. D. (2002). The origins of human nature: Evolutionary developmental psychology. Washington, DC: American Psychological Association.
 
@@ -3598,7 +3594,7 @@ Trivers, R. (1974). Parent-offspring conflict. American Zoologist, 14, 249—264
 
 
 
-第八章　亲属关系问题
+## 第八章　亲属关系问题
 
 
 
@@ -3624,7 +3620,7 @@ Trivers, R. (1974). Parent-offspring conflict. American Zoologist, 14, 249—264
 
 
 
-内含适应性理论及其应用
+### 内含适应性理论及其应用
 
 这一节我们先介绍Hamilton规则，也就是内含适应性的理论公式。从这个视角出发，我们将会明白，父母对自己子女表现出来的偏爱，可以被看作是对内含自己基因拷贝的“载体”表现出偏爱的一种特例。然后，我们将探讨这个公式用来说明诸如合作、冲突、冒险和悲痛等主题时所得出的精妙结果。
 
@@ -3692,7 +3688,7 @@ Hamilton规则的理论应用
 
 
 
-支持内含适应性理论应用的实证依据
+### 支持内含适应性理论应用的实证依据
 
 相对而言，亲属心理学在科学界并没有得到多大的重视。尽管内含适应性理论已经衍生了大量的理论应用，但实际的研究报告却寥寥无几。不过，有几种用于探讨人类和其他动物的研究方法还是非常有前途的，而且为我们揭示进化形成的心理机制提供了丰富的资料。在这一节中，我们将着重介绍其中最重要的研究结果。
 
@@ -4105,9 +4101,9 @@ J. & Hartley, I. R.（2002）《家庭内部的冲
 
 
 
-小　结
+### 小结
 
-在这一章的开头，我们深入探讨了Hamilton（1964）的内含适应性理论，以及Hamilton公式c<rb。比如，利他行为的进化条件是，利他者所付出的代价，必须小于受惠者所获得的收益与两人之间的遗传相关度的乘积。简而言之，内含适应性理论为这个问题——利他行为如何得以进化——提供了答案。同时，它将达尔文的经典适应性（个体的繁殖成功率）的定义扩展为内含适应性（个体的繁殖成功率，加上他的行为对遗传亲属的影响b并乘上他和亲属之间的遗传相关度r）。
+在这一章的开头，我们深入探讨了Hamilton（1964）的内含适应性理论，以及Hamilton公式 c < rb。比如，利他行为的进化条件是，利他者所付出的代价，必须小于受惠者所获得的收益与两人之间的遗传相关度的乘积。简而言之，内含适应性理论为这个问题——利他行为如何得以进化——提供了答案。同时，它将达尔文的经典适应性（个体的繁殖成功率）的定义扩展为内含适应性（个体的繁殖成功率，加上他的行为对遗传亲属的影响b并乘上他和亲属之间的遗传相关度r）。
 
 接下来我们提出了内含适应性理论在人类身上的理论应用。这些应用包括：（1）应该存在一组特定的涉及亲属关系的进化心理机制，这些机制能用于解决同胞、半同胞、祖父母、祖孙和姑姨叔舅等亲属所带来的不同的适应性问题；（2）性别和世代是区分亲属的主要类别，因为这两个维度限定了一个人的适应性载体的重要特征（比如男性亲属的繁殖数量的上限要高于女性亲属；年轻亲属的繁殖价值要高于年老亲属）；（3）亲属之间的亲近感是有大小之分的，而遗传相关度则是这种亲近感的主要预测指标；（4）合作行为和亲属关系的稳定性是遗传相关度的函数；（5）年老的亲属会鼓励年轻成员向遗传亲属（比如年老亲属的同胞）表现出更多的利他行为，而这超出了年轻成员本来的利他意愿；（6）一个人的家庭角色将是他（她）的自我认同的主要成分；（7）在无亲属关系的情况下，人们将会利用亲属称谓词来影响或控制其他人（比如“兄弟，能给点儿零钱吗”）。
 
@@ -4135,7 +4131,7 @@ J. & Hartley, I. R.（2002）《家庭内部的冲
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Burnstein, E., Crandall, C., & Kitayama, S. (1994). Some neo-Darwinian decision rules for altruism: Weighing cures for inclusive fitness as a function of the biological importance of the decision. Journal of Personality and Social Psychology, 67, 773—789.
 
@@ -4151,7 +4147,7 @@ Hamilton, W. D. (1964). The genetical evolution of social behavior. I and II. Jo
 
 
 
-第五部分　群居问题
+# 第五部分　群居问题
 
 
 群居生活是人类整个适应过程的关键组成部分。进化心理学认为，人类拥有许多专门用于解决群居问题的进化心理机制。这个部分包含四章的内容，每一章所涉及到的群居问题都是不一样的。
@@ -4168,7 +4164,7 @@ Hamilton, W. D. (1964). The genetical evolution of social behavior. I and II. Jo
 
 
 
-第九章　合作联盟
+## 第九章　合作联盟
 
 
 如果你想和一个人交朋友，不要急于相信他，应该先确定他是否可靠。因为有些人只是图一时之利才和你结交，这种关系绝不会持续到你有困难的时候。……另外，有些人只是酒肉朋友，而不是患难之交。……当你不幸落难时，他们不会前来帮忙，仿佛人间蒸发。……真正的朋友是一种强有力的防护，是一笔巨大的财富。没有什么比一个真正的朋友更加珍贵。
@@ -4187,7 +4183,7 @@ Hamilton, W. D. (1964). The genetical evolution of social behavior. I and II. Jo
 
 
 
-合作行为的进化
+### 合作行为的进化
 
 很多人都会为了朋友而作出某些牺牲，这种现象并不罕见。人们每天都在以各种不同的方式帮助着他们的朋友，有时只是提供一些小小的建议，有时则是给身处危难中的朋友提供切实的帮助。朋友之间的利他行为是一个非常深奥的难题，因为自然选择总是充满了残酷的竞争。我们常说自然选择是自私的，是因为它是一个反馈的过程。在这个过程当中，一个有机体因为拥有某些设计特征所以比群体中其他人更具繁殖优势。但是，为朋友作出牺牲的人难免要付出代价，而朋友却会从中受益。所以其中的问题就是，这种友谊和利他行为是如何得以进化的呢？
 
@@ -4201,7 +4197,7 @@ Hamilton, W. D. (1964). The genetical evolution of social behavior. I and II. Jo
 
 
 
-互惠式的利他行为理论
+### 互惠式的利他行为理论
 
 研究者提出了一个理论来解决利他主义难题，这就是互惠式的利他行为理论（reciprocal altruism）。自问世以来，这个理论不断得到丰富和扩充，而且已经产生了很大影响（Axelrod, 1984; Axelrod & Hamilton, 1981; Cosmides & Tooby, 1992; Trivers, 1971; Williams, 1966）。互惠式的利他行为理论认为，只要利他者能够在将来的某个时刻从受惠者那里获得回馈式的收益，那么促使人类在非亲属之间产生利他行为的心理机制就能够得以进化。
 
@@ -4267,7 +4263,7 @@ Axelrod推荐的第二个策略是引导他人的互惠行为。通过引导他�
 
 
 
-大自然中的合作行为
+### 大自然中的合作行为
 
 在进化过程中，虽然每一个物种都要面对许多独特的适应性问题，但是不同的物种也要处理一些共同的问题，并且采用相似的解决方案。所以，考察非人类的物种是否进化了合作行为，对于我们将会大有裨益。下面我们从吸血蝙蝠这个特别的例子开始讨论，然后是狒狒和黑猩猩，它们在种系发生学上和人类更为接近。
 
@@ -4577,7 +4573,7 @@ Bleske和Buss的研究未能对友谊的利益效应和进化功能作出明确�
 
 
 
-小　结
+### 小结
 
 在本章的开头，我们考察了利他行为这个问题。利他行为的设计特征是：尽管利他者会付出一定的代价，但是受惠者却能够从中获益。看起来利他行为似乎违反了Hamilton规则，那么利他行为又是如何得以进化的呢？研究者一直对此迷惑不解。其中一种解决方案，就是互惠式的利他行为理论。互惠式的利他行为理论认为，只要受惠者将来对利他者给予相应的回馈，那么利他行为——包括那些促使我们向无血缘关系的人提供帮助的心理机制——就能够得以进化。但是，互惠式的利他行为必须面临一个最重要的适应性问题，那就是欺骗。欺骗是指受惠者获得了收益，但是后来却没有给予相应的回报。
 
@@ -4599,7 +4595,7 @@ Robert Axelrod采用计算机模拟了一套循环赛实验，来解决这个欺
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Axelrod, R. (1984). The evolution of cooperation. New York: Basic Books.
 
@@ -4615,7 +4611,7 @@ Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly Review of
 
 
 
-第十章　攻击与战争
+## 第十章　攻击与战争
 
 
 从进化的观点来看，暴力的主要原因在于雄性。
@@ -4644,7 +4640,7 @@ Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly Review of
 
 
 
-攻击是适应性问题的一种解决方案
+### 攻击是适应性问题的一种解决方案
 
 不管是攻击行为的起源，还是其他的行为现象，进化心理学都不会只有一种理论假设来给予解释。其实，进化心理学常常会提出几种假设，让它们以科学的方式相互竞争。下面，我们将详细介绍几个主要的理论假设，看看攻击行为到底进化来解决什么样的适应性问题（Buss & Shackelford, 1997b）。
 
@@ -4720,7 +4716,7 @@ Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly Review of
 
 
 
-为什么男性比女性更具攻击性？
+### 为什么男性比女性更具攻击性？
 
 在芝加哥1965—1980年的所有凶杀案件中，86％的凶手都是男性（Daly & Wilson, 1988）。而且，在男性凶手的案件中，80％的受害者也是男性。尽管这个比例在不同的文化中会存在某些差异，但是跨文化的统计结果得出了惊人相似的结论。在接受研究的所有文化中，绝大多数凶手都是男性，而且他们的伤害对象大部分也是男性。所以，要想对攻击作出完整的理论解释，我们必须要解释这两个事实：为什么男性的凶杀事件远远多于女性？为什么大多数的受害者也是男性？
 
@@ -4750,7 +4746,7 @@ Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly Review of
 
 
 
-关于攻击行为的不同适应性模式的经验证据
+### 关于攻击行为的不同适应性模式的经验证据
 
 在概述了大量的理论背景之后，下面我们将转而讨论有关人类攻击行为的经验证据。从攻击行为的进化理论中得出的最直接的预测就是，男性比女性更有可能使用暴力和攻击行为。所以，我们讨论的第一组证据就是关于这个预测的。然后，我们将讨论攻击行为在四种不同的组合中（男对男、男对女、女对男、女对女）都具有哪些不同的特征。下面我们从男性对男性的攻击行为入手，来考察这些问题。
 
@@ -5112,7 +5108,7 @@ Palmer和Tilley（1995）提到，在一项随机样本的调查中，研究者�
 
 
 
-小　结
+### 小结
 
 从进化心理学的视角来看，攻击行为并不是一种铁板一块的现象。其实，它是一组行为策略，只有在高度特殊化的情境条件下才会显现出来。攻击行为的潜在心理机制之所以得到了进化，是因为它能够解决很多非常独特的适应性问题，比如获得资源、同性竞争、提升社会等级以及留住配偶等。
 
@@ -5142,7 +5138,7 @@ Palmer和Tilley（1995）提到，在一项随机样本的调查中，研究者�
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Buss, D. M., & Shackelford, T. K.(1997). Human aggression in evolutionary psychological perspective. Clinical Psychology Review，17, 605—619.
 
@@ -5158,7 +5154,7 @@ Wilson, M., & Daly, M. (1985). Competitiveness, risking-taking, and violence: Th
 
 
 
-第十一章　两性冲突
+## 第十一章　两性冲突
 
 
 
@@ -5188,7 +5184,7 @@ Wilson, M., & Daly, M. (1985). Competitiveness, risking-taking, and violence: Th
 
 
 
-策略冲突理论
+### 策略冲突理论
 
 人与人之间的冲突是社会交往中的一个常见特征，它有多种表现形式。在第十章，我们研究了同性冲突的许多特点，包括竞争者之间的相互诋毁、身体暴力和战争。这些都是进化观点中可以预测的冲突形式。同性成员的相互竞争常常是为了获取相同的资源：异性以及吸引异性所需的资源。
 
@@ -5210,7 +5206,7 @@ Wilson, M., & Daly, M. (1985). Competitiveness, risking-taking, and violence: Th
 
 
 
-性行为的发生与发生时间上的冲突
+### 性行为的发生与发生时间上的冲突
 
 在性行为的发生与发生时间（occurrence and timing of sex）上的分歧，也许是男女之间最常见的冲突。在一项研究中，要求121名大学生连续记录四个星期的约会活动，47％的人报告说在所期望的性亲密度（sexual intimacy）的水平上曾经发生过一次或多次分歧（Byers & Lewis, 1988）。这种分歧总是显示出一种可预测的性别差异。例如，在澳大利亚一项对大学生的研究中，217名女生中有53％的人报告说至少有一名男性曾经“高估她们想要的性亲密度”，而72名男生中有45％的人报告说至少有一名女性曾经“低估他们想要的性亲密度”（Paton & Mannison, 1995, p. 447）。
 
@@ -5396,7 +5392,7 @@ Science 授权采用。
 
 
 
-性嫉妒中的冲突
+### 性嫉妒中的冲突
 
 在第五章中，我们已经探讨了男性的长期择偶偏好，其中包括对婚姻期间始终忠贞的伴侣的偏好。根据假设，该偏好是用于解决——至少在一定程度上解决——父子关系的不确定性这一适应性问题的。这种偏好也表明，男性十分在意配偶和其他男性的性接触。的确，在第六章中我们也看到，女性可能从外遇中得到许多潜在的好处，例如资源、好的基因和更好的配偶。这些方面的思虑也成了两性冲突的一个深刻来源，丈夫期望完全占有配偶，而妻子可能渴望和其他男性的性接触。简而言之，两性在通奸（cuckoldry）的问题上存在着潜在的冲突。
 
@@ -5480,7 +5476,7 @@ N＝样本大小。
 
 
 
-从警惕到暴力——留住配偶的策略
+### 从警惕到暴力——留住配偶的策略
 
 许多证据已经表明，男性进化出了一种产生嫉妒体验的强有力的心理机制，这使我们得以理解人类如何解决部分或者完全失去伴侣的适应性问题。然而，只有当心理机制产生能够真正解决适应性问题的行为输出时，它才能进化而来。在嫉妒问题上，行为输出必须（1）防止伴侣背叛行为的发生；（2）降低伴侣背叛的可能性。有两项研究（Buss, 1988c; Buss & Shackelford, 1997c）对从警惕到暴力的留住配偶（mate-retention）策略进行了研究，以此来探讨嫉妒的行为表现。
 
@@ -5634,7 +5630,7 @@ N＝样本大小。
 
 
 
-有关资源的冲突
+### 有关资源的冲突
 
 为了寻找一个在政治权力和物质资源领域男性不占统治地位的社会，科学家们已经尝试多年。尽管很多人听说过有关女人统治男人的社会的传言，但在文献中并无这样的记载。主张女权的人类学家也广罗证据，但最终宣布这种文化并不存在（Ortner, 1974）。当然，不同的社会，在两性的社会和经济地位不平等的程度上还是存在差异的。
 
@@ -5674,7 +5670,7 @@ N＝样本大小。
 
 
 
-小　结
+### 小结
 
 男女之间的冲突遍布社会生活的方方面面，从约会的分歧到婚姻中的感情困扰。这些冲突为什么会发生，以何种形式发生，对此进化心理学家提出了一些关键的看法。首先是策略冲突理论，该理论认为当个人阻碍或破坏了他人为某种目的而设计的策略实施时，就会产生冲突。如果一位女性采用的是长期择偶策略，而碰巧一位男性采用的是短期择偶策略，他们各自都要成功完成目标就必然会产生冲突。根据该假设，诸如愤怒、困扰和嫉妒等消极情绪都是进化而来的策略冲突的警报器。
 
@@ -5700,7 +5696,7 @@ N＝样本大小。
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Buss, D. M. (2000). The dangerous passion: Why jealousy is as necessary as love and sex. New York: Free Press.
 
@@ -5716,7 +5712,7 @@ Thornhill, R., & Palmer, C.(2000). A natural history of rape: Biological bases o
 
 
 
-第十二章　地位、声望和社会支配
+## 第十二章　地位、声望和社会支配
 
 
 
@@ -5746,7 +5742,7 @@ Thornhill, R., & Palmer, C.(2000). A natural history of rape: Biological bases o
 
 
 
-支配等级的形成过程
+### 支配等级的形成过程
 
 蟋蟀能够记住自己的战绩（Dawkins, 1989）。如果一只蟋蟀经常获胜，那么它在后来的决斗中将会变得更具攻击性。相反，如果一只蟋蟀经常落败，那么它将会变得特别顺从，避免和其他蟋蟀发生冲突。进化生物学家Richard Alexander制作了一个无敌的蟋蟀“模特”，通过实验的方法证明了上述现象（Alexander, 1961）。如果一只蟋蟀被“模特”蟋蟀打败了，那么它在随后的决斗中遇到真正的蟋蟀时，往往更有可能再次败北。似乎每一只蟋蟀都能对自己和其他蟋蟀的战斗能力进行评估和比较，然后根据比较的结果来行事。一段时间之后，支配等级就出现了。每一只蟋蟀都拥有相应的等级次序，低等级的蟋蟀要屈服于高等级的蟋蟀。
 
@@ -5764,7 +5760,7 @@ Thornhill, R., & Palmer, C.(2000). A natural history of rape: Biological bases o
 
 
 
-人类以外的动物的支配和地位
+### 人类以外的动物的支配和地位
 
 在鳌虾的世界里，如果两只鳌虾还没有决出胜负，那它们绝对不可能生活在同一片领地（Barinaga, 1996）。两只鳌虾小心翼翼地相互环绕，打量对方的体型大小。然后，它们会大战一场，试图把对手干掉。战斗结束之后，获胜的鳌虾变成了统治者，开始在它的“领地”里神气活现地徘徊。而落败的鳌虾则逃到边缘地带，避免和处于支配地位的鳌虾再次接触。
 
@@ -5786,7 +5782,7 @@ Thornhill, R., & Palmer, C.(2000). A natural history of rape: Biological bases o
 
 
 
-支配和地位的进化理论
+### 支配和地位的进化理论
 
 一个关于支配和地位的进化理论，除了需要解释群体中存在的等级差异现象之外，还必须详细地阐明个体在提升自己的地位等级时所要解决的适应性问题。在理想情况下，一个好的理论应该能够预测人们在谋求社会等级时所采取的具体策略。比如说，学术界人士获取地位和等级的方法就与街区的小混混完全不同，“如果一位教授在学术会议上挥舞弹簧刀，那总归有点不合时宜。不过，学术会议总是充满了尖锐的提问、机敏的回答、学究式的愤怒、恶意的谩骂、义愤填膺的反驳，以及在学术评论和授奖委员会中的强权手段”（Pinker, 1997, p. 498）。
 
@@ -6024,7 +6020,7 @@ Feather（1994）主持了一系列的研究工作，他让被试阅读很多关
 
 
 
-小　结
+### 小结
 
 本章主要探讨了社会地位和支配行为的进化心理学，这些现象在动物界（从鳌虾到人类）中十分常见。支配等级是指，在一个群体当中，有些成员比另一些成员拥有更多的机会去接触那些对个体的生存和繁衍都非常重要的资源。支配等级给动物带来了一系列的适应性问题，而动物已经进化了相应的方案来解决这些问题，比如激发个体获得更高等级的动机，以及选择合适的服从策略等等。在有些物种当中，体型的大小是决定个体支配等级的重要因素，但是在灵长目动物（比如人类和黑猩猩）中，寻求同盟的社会技能是个体能否获取较高地位的关键因素。一般情况下，个体的地位等级越高，他就拥有更多的机会去获取那些生存和繁衍所必需的重要资源。
 
@@ -6044,7 +6040,7 @@ Denise Cummins提出了支配理论来解释我们身上专门用于获取支配
 
 
 
-推　荐　读　物
+### 推荐读物
 
 Barkow, J. (1989). Darwin, sex and status: Biological approaches to mind and culture. Toronto: University of Toronto Press.
 
@@ -6060,7 +6056,7 @@ Sloman, L., & Gilbert, P. (Eds.)(2000). Subordination and defeat: An evolutionar
 
 
 
-第六部分　一门整合的心理科学
+# 第六部分　一门整合的心理科学
 
 
 在这个结论性的部分，我们从进化的视角对心理学的各个领域给予了评论。第十三章揭示了进化的视角是如何让我们对心理学的主要分支产生了更深刻的理解的，这些心理学分支包括认知心理学、社会心理学、发展心理学、人格心理学、临床心理学和文化心理学等。我们认为，当前各个心理学领域之间的界线和隔阂具有很大的人为性。但是，进化心理学超越了这些藩篱，并且向我们表明，如果以人类在漫长的进化历史中所面临的适应性问题为中心，我们可以将整个心理学领域更好地组织起来。
@@ -6069,7 +6065,7 @@ Sloman, L., & Gilbert, P. (Eds.)(2000). Subordination and defeat: An evolutionar
 
 
 
-第十三章　走向统一的进化心理学
+## 第十三章　走向统一的进化心理学
 
 
 
@@ -6097,7 +6093,7 @@ Sloman, L., & Gilbert, P. (Eds.)(2000). Subordination and defeat: An evolutionar
 
 
 
-进化认知心理学
+### 进化认知心理学
 
 从定义上来讲，所有的心理机制都是信息加工装置，它们专门用于解决各种适应性问题。但是，由于人类在进化过程中所面临的适应性问题在本质上都属于社会性问题，所以认知心理学应该研究我们是如何加工有关他人的信息的。从进化心理学的视角来看，整个认知系统就是一组相互关联的信息加工装置。这些复杂的信息加工装置各自拥有专门的功能，用于解决特殊的适应性问题。
 
@@ -6265,7 +6261,7 @@ Pinker指出，儿童在生命早期（通常是3岁）就能够非常流利地�
 
 
 
-进化社会心理学
+### 进化社会心理学
 
 在过去几百万年的进化历史中，人类所面临的许多非常重要的适应性问题从本质上来讲都属于社会性问题，比如争取社会地位，形成长期的社会交换关系，使用语言和他人交流并影响他人，形成短期和长期的配偶关系，在一群联盟者和竞争者中获得社会声誉，以及处理各种各样的亲属关系等等。正因为这么多的适应性问题都属于社会性问题，所以人类的心理应该包含有大量专门用于解决社会性问题的心理机制。从这个意义上来讲，进化心理学有很大一部分就是进化社会心理学（Simpson & Kenrick, 1997）。
 
@@ -6329,7 +6325,7 @@ Julie和Mark是兄妹，他们趁暑假一起去法国旅行。有一天晚上�
 
 
 
-进化发展心理学
+### 进化发展心理学
 
 发展心理学和其他的心理学分支不同，它并没有自己独特的研究内容。其实，它只是从时间的角度、一生发展的角度和个体发生的角度来考察每一种心理现象。你既可以研究人格发展、社会性发展、道德发展、知觉发展和认知发展，也可以研究发展精神病理学。所以，发展心理学和其他传统的心理学分支不同，它的特点在于它的研究视角（时间维度），而不是它的研究内容。因为很少有心理机制在个体出生时就已经发育完全了，所以发展的视角对于我们正确地描述和理解每一种心理机制是非常必要的（Bjorklund & Pellegrini, 2002）。
 
@@ -6383,7 +6379,7 @@ Chisholm认为，这种机制得以进化的远古环境既不像很多依恋理
 
 
 
-进化人格心理学
+### 进化人格心理学
 
 人格心理学可能是范围最广而且最具包容性的心理学分支。从心理学史的角度来看，所有“重大”的人格理论在其核心观点中都有关于人性（human nature）内容的假设，比如性冲动和攻击性冲动（Sigmund Freud）、自我实现（Abraham Maslow）、追求优越感（Adler）以及追逐地位和亲密感（David MacClelland; Henry Murray; Jerry Wiggins）。这些关于人性的心理特征的基本假设，正是建构这些重要的人格理论的核心所在。
 
@@ -6445,7 +6441,7 @@ Tooby和Cosmides（1990）创造了“反应性遗传”（reactive heritability
 
 
 
-进化临床心理学
+### 进化临床心理学
 
 心理障碍是临床心理学中的核心概念之一。所以，明确心理障碍的具体标准对于心理科学及其应用和发展非常重要。有了明确的标准之后，我们就能以此为框架，对个体的正常和异常状况进行测评和诊断，并且提出行之有效的治疗方案。
 
@@ -6493,7 +6489,7 @@ Tooby和Cosmides（1990）创造了“反应性遗传”（reactive heritability
 
 
 
-进化文化心理学
+### 进化文化心理学
 
 有些心理学家一直死守着“文化一生物学”这种错误的二分法，好像这两者之间存在某种因果竞争一样。诸如“文化凌驾于生物学之上”和“动物拥有本能，人类拥有文化”的观点，正是这种错误二分法的具体表现。进化心理学站在一种真正的交互作用的立场上，向我们揭示了这些二分法为什么是错误的。正如我们即将在本节所看到的那样，“文化”不能被看作为一种单独的因素，因为文化本身也必须以进化形成的心理机制为基础。
 
@@ -6585,7 +6581,7 @@ Pinker对音乐也持有类似的看法：“我觉得音乐就是听觉式的�
 
 
 
-走向统一的心理学
+### 走向统一的心理学
 
 在这一章中，我们主要讨论了进化心理学是如何慢慢渗透到主流的心理学分支的，其中包括认知心理学、社会心理学、发展心理学、人格心理学、临床心理学，以及文化心理学。另外，现已证明，进化心理学对其他的心理学分支也颇有价值，比如组织与工业心理学（Colarelli, 1998; Nicholson, 1997）、教育心理学（Geary, 2002）和环境心理学（Kaplan, 1992）等等。进化心理学的影响范围越来越广泛，它的触角已经伸向了其他的学科领域，比如对法律（Jones, 1999）、宗教（Kirkpatrick, 1999; Pinker, 1997）、艺术（Feist, 2001）和经济学（Kurzban et al., 2001; Saad & Gill, 2001; Wang, 2001）的进化分析，对数学推理（Brase, 2002）、精神病理学（McGuire & Troisi, 1998）和社会学（Hopcroft, 2002; Kanazawa, 2001）的进化研究，以及对社会认知（Andrews, 2001; DeKay & Shackelford, 2000）和认知神经科学（Barkley, 2001; Gazzaniga, 1999）等交叉学科的影响等等。
 
@@ -6595,11 +6591,7 @@ Pinker对音乐也持有类似的看法：“我觉得音乐就是听觉式的�
 
 进化心理学提出了一系列的概念工具，这不仅使当今的心理科学摆脱了四分五裂的局面，而且还把心理学和其他的生命科学联系起来，朝着更为广阔的科学综合迈进了一步。通过这些重要的工具，进化心理学让我们尝试着去揭示一些永恒的谜团：人类是从何而来的？人类是如何达到现在的状态的？还有，让我们成其为人的心理机制又是什么？
 
-
-
-
-
-推　荐　读　物
+### 推荐读物
 
 Crawford, C., Krebs, D. L. (Eds.). (1998). Handbook of evolutionary psychology: Ideas, issues, and applications. Mahwah, NJ: Erlbaum.
 
@@ -6615,1708 +6607,9 @@ Simpson, J. A., & Kenrick, D. T. (1997). Evolutionary social psychology. Mahwah,
 
 
 
-参考文献
 
 
-Abbey, A. (1982). Sex differences in attributions for friendly behavior: Do males misperceive females' friendliness? Journal of Personality and Social Psychology, 32, 830—838.
-
-Abbey, A., & Melby, C. (1986). The effects of nonverbal cues on gender differences in perceptions of sexual intent. Sex Roles, 15, 283—298.
-
-Aharon, I., Etcoff, N., Ariely, D., Chabris, C. F., O'Connor, E. & Breiter, H. C. (2001). Beautiful faces have variable reward value: fMRI and behavioral evidence. Neuron, 32, 537—551.
-
-Ahmad, Y., & Smith, P. K. ( 1994). Bullying in schools and the issue of sex differences. In J. Archer (Ed.), Male violence (pp. 70—83). London: Routledge.
-
-Alcock, J. (1989). Animal behavior: An evolutionary approach (4th ed.). Sunderland, MA: Sinauer.
-
-Alcock, J. (1993). Animal behavior: An evolutionary approach (5th ed.). Sunderland, MA: Sinauer.
-
-Alcock, J, (2001). Animal behavior: An evolutionary approach (7th ed.). Sunderland, MA: Sinauer.
-
-Alexander, R. D. (1961). Aggressiveness, territoriality, and sexual behavior in field crickets. Behaviour, 17, 130—223.
-
-Alexander, R. D. (1979). Darwinism and human affairs. Seattle: University of Washington Press.
-
-Alexander, R. D. (1987). The biology of moral systems. Hawthorne, NY: Aldine DeGruyter.
-
-Alexander, R. D., Hoodland, J. L., Howard, R. D., Noonan, K. M., & Sherman, P. W. (1979). Sexual dimorphisms and breeding systems in pinnepeds, ungulates, primates, and humans. In N. A. Chagnon & W. Irons (Eds.), Evolutionary biology and human social be havior. North Scituate, MA: Duxbury Press.
-
-Alexander, R. D., & Noonan, K. M. (1979). Concealment of ovulation, parental care, and human social evolution. In N. A. Chagnon & W. Irons (Eds.), Evolutionary biology and human social behavior (pp. 402—435). North Scituate, MA: Duxbury Press.
-
-Allee, W. N., Collias, N., & Lutherman, C. (1939). Modification of the social order in flocks of hens by the injection of testosterone propionate. Physiological Zoology, 12, 412—440.
-
-Allman, W. F. (1994). The stone age present. New York: Simon & Schuster.
-
-Allport, G. W., & Postman, L. (1947). The psychology of rumor. New York: Holt.
-
-American Psychiatric Association (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC: Author.
-
-Anderson, K. G., Kaplan, H., Lam, D., & Lancaster, J. (1999). Paternal care by genetic fathers and stepfathers II: Reports by Xhosa high school students. Evolution and Human Behavior, 20, 433—451.
-
-Anderson, K. G., Kaplan, H., & Lancaster, J. (1999). Paternal care by genteic fathers and stepfathers. I: Reports from Albuquerque men. Evolution and Human Behavior, 20, 405—431.
-
-Andrews, P. W. (2001). The psychology of social chess and the evolution of attribution mechanisms: Explaining the fundamental attribution error. Evolution and Human Behavior, 22, 11—29.
-
-Appleton, J. (1975). The experience of landscape. New York: Wiley.
-
-Archer, J. (1988). The behavioural biology of aggression. Cambridge, UK: Cambridge University Press.
-
-Archer, J. (1988). The nature of grief. London: Routledge.
-
-Ardener, E. W., Ardener, S. G., & Warmington, W. A. (1960). Plantation and village in the Cameroons. London: Oxford University Press.
-
-Ardry, R. (1966). The territorial imperative. New York: Atheneum.
-
-Argyle, M. (1994). The psychology of social class. New York: Routledge.
-
-Athanasiou, R., Shaver, P., & Tavris, C. (1970, July). Sex. Psychology Today, pp. 37—52.
-
-Alran, S. (1990). The cognitive foundations of natural history. New York: Cambridge University Press.
-
-Atran, S. (1998). Folk biology and the anthropology of science: Cognitive universals and cultural particulars. Behavioral and Brain Sciences, 21, 547—609.
-
-Atzwanger, K. (1995, June). Biological aspects of driving behavior. Paper presented to the Annual Conference of the Human Behavior and Evolution Society, Santa Barbara, CA.
-
-Avis, J., & Harris, P. L. (1991). Belief-desire reasoning among Baka children: Evidence for a universal conception of mind. Child Development, 62, 460—467.
-
-Axelrod, R. (1984). The evolution of cooperation. New York: Basic Books.
-
-Axelrod, R., & Hamilton, W. D. (1981). The evolution of cooperation. Science, 211, 1390—1396.
-
-Bahrick, H. P., Bahrick, P. O., & Wittlinger, R. P. (1975). Fifty years of memory for names and faces: A cross—sectional approach. Journal of Experimental Psychology, 104, 54—75.
-
-Bailey, J. M. (1998). Can behavior genetics contribute to evolutionary behavioral science? In C. Crawford & D. L. Krebs (Eds.), Handbook of evolutionary psychology (pp. 221—234). Mahwah, NJ: Erlbaum.
-
-Bailey, J. M,, Kim, P. Y., Hills, A., & Linsenmeier, J. A. W. (1997). Butch, femme, or straight acting? Partner preferences of gay men and lesbians. Journal of Personality and Social Psychology, 73, 960—973.
-
-Bailey, J. M., Kirk, K. M., Zhu, G., Dunne, M. P., & Martin, N. G. (2000). Do individual differences in sociosexuality represent genetic or environmentally contingent strategies? Evidence from the Australian Twin Registry. Journal of Personality and Social Psychology, 78, 537— 545.
-
-Bailey, J. M., Pillard, R. C., Dawood, K., Miller, M. B., Farrer, L. A., Trivedi, S., & Murphy, R. L. (1999). A family history study of sexual orientation using three independent samples. Behavior Genetics, 29, 79—86.
-
-Baize, H. R., & Schroeder, J. E. (1995). Personality and mate selection in personal ads: Evolutionary preferences in a public mate selection process. Journal of Social Behavior and Personality, 10, 517—536.
-
-Baker, R. R., & Bellis, M. A. (1995). Human sperm competition. London: Chapman & Hall.
-
-Baldwin, J. D. (1995). Continua outperform dichotomies. Behavioral and Brain Sciences, 18, 543—544.
-
-Barash, D. P., & Lipton, J. E. (1997). Making sense of sex. Washington, DC: Island Press/Shearwater Brooks.
-
-Barber, N. (1995). The evolutionary psychology of physical attractiveness: Sexual selection and human morphology. Ethology and Sociobiology, 16, 395—424.
-
-Barinaga, M. (1996). Social status sculpts activity of crayfish neurons. Science, 271 290—291.
-
-Barclay, A. M. (1973). Sexual fantasies in men and women Medical Aspects of Human Sexuality, 7, 205—216.
-
-Barkley, R. A. (2001). The executive functions of self-regulation: An evolutionary neuropsychological perspective. Neuropsychology Review, 11, 1—29.
-
-Barkow, J. (1989). Darwin, sex, and status: Biological approaches to mind and culture. Toronto: University of Toronto Press.
-
-Baron-Cohen, S., Leslie, A., & Frith, U. (1985). Does the autistic child have a "theory of mind"? Cognition, 21, 37—46.
-
-Barrett, H. C. (1999). Human cognitive adaptations to predators and prey. Ph. D. Dissertation, University of California at Santa Barbara.
-
-Barrett, H. C. (2002). Children's early understanding of death: An evolutionary approach. Manuscript submitted for publication.
-
-Barrett, L., Dunbar, R. I. M., & Lycett, J. (2002). Human evolutionary psychology. Princeton, NJ: Princeton University Press.
-
-Bassett, J., Pearcey, S., & Dabbs, J. M., Jr. (2001). Jealousy and partner preference among butch and femme lesbians. Psychology, Evolution, and Gender, 3 (2), 155—165.
-
-Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117, 497—529.
-
-Baumeister, R. F. (2000). Gender differences in erotic plasticity: The female sex drive as socially flexible and responsive. Psychological Bulletin, 126, 347—374.
-
-Belluck, P. (1997). A woman's killer is likely to be her partner, a study finds. New York Times.
-
-Belsky, J. (1997). Attachment, mating, and parenting: An evolutionary interpretation. Human Nature, 8, 361—381.
-
-Belsky, J., Steinberg, L., & Draper, P. (1991). Childhood experience, interpersonal development, and reproductive strategy: An evolutionary theory of socialization. Child Development, 62, 647—670.
-
-Berlin, B. (1992). Ethnobiological classification. Princeton, NJ: Princeton University Press.
-
-Berlin, B., Breedlove, D., & Raven, P. (1973). General principles of classification and nomenclature in field biology. American Anthropologist, 75, 214—242.
-
-Bernhardt, P. C. (1997). Influences of serotonin and testosterone in aggression and dominance: Convergence with social psychology. Current Directions in Psychological Science, 6, 44—53.
-
-Berscheid, E., & Walster, E. (1974). Physical attractiveness. In L. Berkowitz (Ed.), Advances in experimental social psychology (pp. 157—215). New York: Academic Press.
-
-Bertenthal, B. I., Campos J. J., & Caplovilz, K. S. (1983). Self-produced locomotion: An organizer of emotional, cognitive, and social development in infancy. In R. N. Emde & R. Harmon (Eds.), Continuities and discontinuities in development. New York: Plenum.
-
-Betzig, L. L. (1986). Despotism and differential reproduction: A Darwinian view of history. Hawthorne, NY: Aldine.
-
-Betzig, L. (1989). Causes of conjugal dissolution. Current Anthropology, 30, 654—676.
-
-Betzig, L. (1992). Roman polygyny. Ethology and Sociobiology, 13, 309—349.
-
-Betzig, L. (1993). Sex, succession, and stratification in the first six civilzations. In L. Ellis (Ed.), Social stratification and socioeconomic inequality (pp. 37—74). Westport, CT: Praeger.
-
-Billing, J., & Sherman, P. W. (1998). Antimicrobial functions of spices: Why some like it hot. Quarterly Review of Biology, 73, 3—49.
-
-Bjorklund, D. F. (1997). The role of immaturity in human development. Psychological Bulletin, 122, 153—169.
-
-Bjorklund, D. F., & Kipp, K. (1996). Parental investment theory and gender differences in the evolution of inhibition mechanisms. Psychologiy Bulletin, 120, 163—188.
-
-Bjorklund, D. F., & Pellegrini, A. D. (2002). The origins of human nature: Evolutionary developmental psychology. Washington, DC: American Psychological Association.
-
-Bjorkqvist, K., Lagerspetz, K. M. J., & Kaukiainen, A. (1992). Do girls manipulate and boys fight? Developmental trends in regard to direct and indirect aggression. Aggressive Behavior, 18, 117—127.
-
-Bleske, A. L., & Buss, D. M. (2001 ). Opposite sex friendship: Sex differences and similarities in initiation, selection, and dissolution. Personality and Social Psychological Bulletin, 27, 1310—1323.
-
-Bobrow, D., & Bailey, J. M. (2001). Is male homosexuality maintained via kin selection? Evolution and Human Behavior, 22, 361—368.
-
-Boehm, C. (1999). Hierarchy in the forest: The evolution of egalitarian behavior. Cambridge, MA: Harvard University Press.
-
-Boone, J. (1986). Parental investment and elite family structure in preindustrial states: A case study of late medieval-early modem Portuguese genealogies. American Anthropologist, 88, 859—878.
-
-Borgerhoff Mulder, M. (1988). Kipsigis bridewealth payments. In L. L. Betzig, M. Borgerhoff Mulder, & P. Turke (Eds.), Human reproductive behavior (pp. 65—82). New York: Cambridge University Press.
-
-Borgerhoff Mulder, M. (1998). Brothers and sisters: How sibling interactions affect optimal parental allocations. Human Nature, 9, 119—162.
-
-Bossong, B. (2001). Gender and age differences in inheritance patterns. Why men leave more to their spouses and women more to their children: An experimental analysis. Human Nature, 12, 107—122.
-
-Bouchard, T. J., Jr., & Loehlin, J. C. (2001). Genes, evolution, and personality. Behavior Genetics, 31, 243—273.
-
-Bouissou, M. F. (1978). Effects of injections of testosterone propionate on dominance relationships in a group of cows. Hormones and Behavior, 11, 388—400.
-
-Bowlby, J. (1969 ). Attachment and loss: Vol. 1. New York: Basic Books.
-
-Boyd, R., & Richardson, P. J. (1992). Punishment allows the evolution of cooperation (or anything else) in sizable groups. Ethology and Sociobiology, 13, 171—195.
-
-Boyer, P., & Heckhausen, J. (2000). Introductory notes. American Behavioral Scientist, 43, 717—925.
-
-Boyle, J. (1977). A sense of freedom. London: Pan Books.
-
-Brandes, J. (1967). First trimester nausea and vomiting as related to outcome of pregnancy. Obstetrics and Gynecology, 30, 427—431.
-
-Brantingham, P. J. (1998). Hominid-camivore coevolution and invasion of the predatory guild. Journal of Anthropological Archeology, 17, 327—353.
-
-Brase, G. L. (2002)? "Bugs" built into the system: How privileged representations influence mathematical reasoning across the lifespan. Learning and Individual Differences, 12, 391—409.
-
-Bredart, S., & French, R. M. (1999). Do babies resemble their fathers more than their mothers? A failure to replicate Christenfeld and Hill (1995). Evolution and Human Behavior, 20, 129—135.
-
-Brewin, C. R. (1988). Cognitive foundations of clinical psychology. London: Erlbaum.
-
-Brown, D. E. (1991). Human universals. New York: McGraw-Hill.
-
-Brown, D. E., & Chia-yun, Y. (n. d.). "Big man" as a statistical universal. Department of Anthropology, University of California, Santa Barbara.
-
-Brown, K. R. (1998). An evolutionary account of women's workplace status. Managerial and Decision Economics, 19, 427—440.
-
-Brown, K. R. (2001). Women at war: An evolutionary perspective. Buffalo Law Review, 49, 51—247.
-
-Brown, K. R. (2002). Biology at work: Rethinking sexual equality. New Brunswick, NJ: Rutgers University Press.
-
-Brown, R. M., Dahlen E., Mills, C., Rick, J., & Biblarz, A. (1999). Evaluation of an evolutionary model of selfpreservation and self-destruction. Suicide and Life Threatening Behavior, 29, 58—71.
-
-Brown, W. M., & Moore, C. (2000). Is prospective altruist-detection an evolved solution to the adaptive problem of subtle cheating in cooperative ventures? Supportive evidence using the Wason selection task. Evolution and Human Behavior, 21, 25—37.
-
-Bugental, D. B. (2000). Acquisition of the algorithms of social life: A domain-based approach. Psychological Bulletin, 126, 187—219.
-
-Bugos, P. E., & McCarthy, L. M. (1984). Ayoreo infanticide: A case study. In G. Hausfater & S. B. Hrdy (Eds.), Infanticide: Comparative and evolutionary perspectives (pp. 503—520). NY: Aldine de Gruyter.
-
-Burbank, V. K. ( 1992 ). Sex, gender, and difference: Dimensions of aggression in an Australian aboriginal community. Human Nature, 3, 251—278.
-
-Burch, R. L., & Gallup, G. G., Jr. (2000). Perceptions of paternal resemblance predict family violence. Evolution and Human Behavior, 21, 429—435.
-
-Burnstein, E., Crandall, C., & Kitayama, S. (1994). Some neo-Darwinian decision rules for altruism: Weighing cues for inclusive fitness as a function of the biological importance of the decision. Journal of Personality and Social Psychology, 67, 773—789.
-
-Buss, A. H. (1961). The psychology of aggression. New York: Wiley.
-
-Buss, D. M. (1981). Sex differences in the evaluation and performance of dominant acts. Journal of Personality and Social Psychology, 40, 147—154.
-
-Buss, D. M. (1987). Sex differences in human mate selection criteria: An evolutionary perspective. In C. Crawford, D. Krebs, & M. Smith (Eds.), Sociobiology and psychology: Ideas, issues, and applications (pp. 335—352). Hillsdale, NJ: Erlbaum.
-
-Buss, D. M. (1988a). Love acts: The evolutionary biology of love. In R. J. Sternberg & M. L. Barnes (Eds.), The psychology of love (pp. 100—118). New Haven, CT: Yale University Press.
-
-Buss, D. M. (1988b). The evolution of human intrasexual competition: Tactics of mate attraction. Journal of Personality and Social Psychology, 54, 616—628.
-
-Buss, D. M. (1988c). From vigilance to violence: Tactics of mate retention. Ethology and Sociobiology, 9, 291—317.
-
-Buss, D. M. (1989a). Sex differences in human mate preferences: Evolutionary hypotheses testing in 37 cultures Behavioral and Brain Sciences, 12, 1—49.
-
-Buss, D. M. (1989b). Conflict between the sexes: Strategic interference and the evocation of anger and upset. Journal of Personality and Social Psychology, 56, 735—747.
-
-Buss, D. M. (1991). Conflict in married couples: Personality predictors of anger and upset. Journal of Personality, 59, 663—688.
-
-Buss, D. M. (1994a). The strategies of human mating. American Scientist, 82, 238—249.
-
-Buss, D. M. (1994b). The evolution of desire: Strategies of human mating. New York: Basic Books.
-
-Buss, D. M. (1995a). Evolutionary psychology: A new paradigm for psychological science. Psychological Inquiry, 6, 1—49.
-
-Buss, D. M. (1995b, June). Human prestige criteria. Paper presented to the Human Behavior and Evolution Society Annual Meeting, University of California, Santa Barbara, CA.
-
-Buss, D. M. (1996a). Sexual conflict: Evolutionary insights into feminist and the "battle of the sexes." In D. M. Buss & N. M. Malamuth (Eds.), Sex, power, conflict: Evolutionary and feminist perspectives (pp. 296—318). New York: Oxford University Press.
-
-Buss, D. M. (1996b). The evolutionary psychology of human social strategies. In E. T. Higgins & A. W. Kruglanski (Eds.), Social psychology: Handbook of basic principles (pp. 3—38). New York: Guilford.
-
-Buss, D. M. (2000a). The dangerous passion: Why jealousy is as necessary as love and sex. New York: Free Press.
-
-Buss, D. M. (2000b). The evolution of happiness. American Psychologist, 55, 15—23.
-
-Buss, D. M. (2001). Cognitive biases and emotional wisdom in the evolution of conflict between the sexes. Current Directions in Psychological Science, 10, 219—223.
-
-Buss, D. M. (2003). The evolution of desire: Strategies of human mating (Revised Edition). New York: Free Press. Buss, D. M., Abbott, M., Angleitner, A., Asherian, A., Biaggio, A., and 45 other co-authors (1990). International preferences in selecting mates: A study of 37 cultures. Journal of Cross-Cultural Psychology, 21, 5—47.
-
-Buss, D. M., & Barnes, M. F. (1986). Preferences in human mate selection. Journal of Personality and Social Psychology, 50, 559—570.
-
-Buss, D. M., & Dedden, L. A. (1990). Derogation of competitors. Journal of Social and Personal Relationships, 7, 395—422.
-
-Buss, D. M., & Duntley, J. (1998). Evolved hmicide modules. Paper presented to the Annual Meeting of the Human Behavior and Evolution Society, Davis, California, July 10.
-
-Buss, D. M., & Greilling, H. (1999). Adaptive individual differences. Journal of Personality, 67, 209—243.
-
-Buss, D. M., Haselton, M. G., Shackelford, T. K., Bleske, A., & Wakefield, J. C. (1998). Adaptations, exaptations, and spandrels. American Psychologist, 53, 533—548.
-
-Buss, D. M., Larsen, R. J, & Westen, D. (1996). Sex differences in jealousy: Not gone, not forgotten, and not explained by alternative hypotheses. Psychological Science, 7, 373—375.
-
-Buss, D. M., Larsen, R., Westen, D., & Semmelroth, J. (1992). Sex differences in jealousy: Evolution, physiology, and psychology. Psychological Science, 3, 251—255.
-
-Buss, D. M., & Schmitt, D. P. (1993). Sexual strategies theory: An evolutionary perspective on human mating Psychological Review, 100, 204—232.
-
-Buss, D. M., & Shackelford, T. K. (1997a). Susceptibility to infidelity in the first year of marriage. Journal of Research in Personality, 31, 1—29.
-
-Buss, D. M., & Shackelford, T. K. (1997b). Human aggression in evolutionary psychological perspective. Clinical Psychology Review, 17, 605—619.
-
-Buss, D. M., & Shackelford, T. K. (1997c). From vigilance to violence: Mate retention tactics in married couples. Journal of Personality and Social Psychology, 72, 346—361.
-
-Buss, D. M., & Shackelford, T. K. (1997d). Susceptibility to infidelity in the first year of marriage. Journal of Research in Personality, 31, 193—221.
-
-Buss, D. M., Shackelford, T. K., Haselton, M. G., & Bleske, A. (1997). The Evolutionary psychology of mental disorder. Unpublished manuscript, Department of Psychology, University of Texas, Austin.
-
-Buss, D. M., Shackelford, T. K. Kirkpatrick, L. A., Choe, J., Hasegawa, M., Hasegawa, T., & Bennett, K. (1999). Jealousy and the nature of beliefs about infidelity: Tests of competing hypotheses about sex differences in the United States, Korea, and japan. Personal Relationships, 6, 125—150.
-
-Buss, D. M., Shackelford, T. K. Kirkpatrick, L. A., & Larsen, R. J. (2001). A half century of American mate preferences. Journal of Marriage and the Family, 63, 491—503.
-
-Buttery, R. G., Guadagni, D. G., Ling, L. C., Siefert, R. M., & Lipton W. (1976). Additional volatile components of cabbage, broccoli, and cauliflower. Journal of Agricultural and Food Chemistry, 24, 829—832.
-
-Buunk, B. P., Angleitner, A., Oubaid, V., & Buss, D. M. (1996). Sex differences in jealousy in evolutionary and cultural perspective: Tests from the Netherlands, Germany, and the United States. Psychological Science, 7, 359— 363.
-
-Buunk, B. P., & Brenninkmeyer, V. (2000). Social comparison processes among depressed individuals: Evidence for the evolutionary perspective on involuntary subordinate strategies? In L. Sloman & P. Gilbert (Eds.), Subordination and defeat: An evolutionary approach to mood idsorders and their therapy (pp. 147—164). Mahwah, NJ: Erlbaum.
-
-Buunk, B. P., & Hupka, R. B. (1987). Cross-cultural differences in the elicitation of sexual jealousy. Journal of Sex Research, 23, 12—22.
-
-Byers, E. S., & Lewis, K. (1988). Dating couples' disagreements over desired level of sexual intimacy. Journal of Sex Research, 24, 15—29.
-
-Byrne, R. W., & Whiten, A. (1988). Machiavellian intelligence: social expertise and the evolution of intellect in monkeys, apes and humans. Oxford, England: Clarendon Press. Campbell, A. (1993). Men, women, and aggression. New York: Basic Books.
-
-Campbell, A. (1995). A few good men: Evolutionary psychology and female adolescent aggression. Ethology and Sociobiology, 16, 99—123.
-
-Campbell, A. (1999). Staying alive: Evolution, culture, and women's intrasexual aggression. Behavioral and Brain Sciences, 22, 203—252.
-
-Campbell, A. (2002). A mind of her own: The evolutionary psychology of women. Oxford, England: Oxford University Press.
-
-Campbell, L., Simpson, J. A., Stewart, M., & Manning, J. G. (2000). The formation of status hierarchies in leaderless groups: The role of male waist-to-hip ratio. Human Nature, 13, 345—362.
-
-Cameron, C., Oskamp, S., & Sparks, W. (1978). Courtship American style: Newspaper advertisements. Family Coordinator, 26, 27—30.
-
-Campos, L. de S., Otta, E., & Siqueira, J. de O. (2002). Sex differences in mate selection strategies: Content analyses and responses to personal advertisements in Brazil. Evolution and Human Behavior, 23, 395—406.
-
-Gann, A., Mangum, J. L., & Wells, M. (2001). Distress in response to relationship infidelity: The roles of gender and attitudes about relationships. Journal of Sex Research, 38, 185—190.
-
-Carbonell, J. L. (1984). Sex roles and leadership revisited. Journal of Applied Psychology, 69, 44—49.
-
-Carlson, C. A. (1984). Intrafamilial homicide: A sociobiological perspective. Unpublished bachelor's thesis, McMaster University, Hamilton, Ontario, Canada.
-
-Carroll, J. (1995). Evolution and literary theory. Columbia: University of Missouri press.
-
-Cartwright, J. (2000). Evolution and human behavior. Cambridge, MA: MIT Press.
-
-Cashdan, E. (1989)? Hunters and gatherers: Economic behavior in bands. In S. Plattner (Ed.), Economic Anthropology (pp. 21—48). Stanford, CA: Stanford University Press.
-
-Cashdan, E. (1995). Hormones, sex, and status in women. Hormones and Behavior, 29, 354—366.
-
-Cashdan, L. (1998). Are men more competitive than women? British Journal of Social Psychology, 37, 213— 229.
-
-Chagnon, N. A. (1981). Terminological kinship, genealogical relatedness and village fissioning among the Yanomamö Indians. In R. D. Alexander & D. W. Tinkle (Eds.), Natural selection and social behavior, (pp. 490—508). New York: Chiron Press.
-
-Chagnon, N. A. (1983). Yanomamö: The ficrce people (3rded.). New York: Holt, Rinehart, & Winston.
-
-Chagnon, N. A. (1988). Life histories, blood revenge, and warfare in a tribal population. Science, 239, 985—992.
-
-Chagnon, N. A. (1992). Yanomamö The last days of Eden. San Diego, CA: Harcourt Brace Jovanovich.
-
-Chagnon, N. A., & Bugos, P. E. (1979). Kin selection and conflict: An analysis of a Yanomamö ax fight. In N. A. Chagnon & W. Irons (Eds.), Evolutionary biology and human social behavior: An anthropolgical perspective (pp. 213—249). North Scituate, MA: Duxbury Press.
-
-Charnov, E. (1993). Life history invariants Oxford: Oxford University Press.
-
-Chavanne, T. J., & Gallup, G. G., Jr. (1998). Variation in risk taking behavior among female college students as a function of the menstrual cycle. Evolution and Human Behavior, 19, 27—32.
-
-Chiappe, D., & MacDonald, K. (in press). The evolution of domain-general mechanisms in intelligence and learning. Psychological Inquiry.
-
-Chisholm, J. S. (1996). The evolutionary ecology of attachment organization. Human Nature, 7, 1—38.
-
-Christenfeld, N. J. S., & Hill, E. A. (1995). Whose baby are you? Nature, 378, 669.
-
-Chomsky, N. (1957). Syntactic structures. The Hague: Mouton & Co.
-
-Chomsky, N. (1991)? Linguistics and cognitive science: Problems and mysteries. In A. Kasher (Ed.), The Chomskyan turn (pp. 26—53). Cambridge, MA: Basil Black-well.
-
-Cieza de Leon, P. (1959). The Incas. Norman: University of Oklahoma Press.
-
-Clarke, R. D., & Hatfield, E. (1989). Gender differences in receptivity to sexual offers. Journal of Psychology and Human Sexuality, 2, 39—55.
-
-Cleckley, H. (1982). The mask of sanity. New York: New American Library.
-
-Clutton-Brock, T. H. (1991). The evolution of parental care. Princeton, NJ: Princeton University Press.
-
-Colarelli, S. M. (1998). Psychological interventions in organizations: An evolutionary perspective. American Psychologist, 53, 1044—1056.
-
-Collias, N. W., & Collias, E. C. (1970). The behavior of the West African village weaverbird. Ibis, 112, 457—480.
-
-Connolly, J. M., Mealey, L., & Slaughter, V. (2000). The development of waist-to-hip ratio preferences. Perspectives in Human Biology, 5, 19—29.
-
-Cosmides, L. L., & Tooby, J. (1989). Evolutionary psychology and the generation of culture. Part II. Case study: A computational theory of social exchange. Ethology and Sociobiology, 10, 51—97.
-
-Cosmides, L., & Tooby, J. (1992). Cognitive adaptations for social exchange. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 163—228). New York: Oxford University Press.
-
-Cosmides, L., & Tooby, J. (1994a). Beyond intuition and instinct blindness: Toward an evolutionarily rigorous cognitive science. Cognition, 50, 41—77.
-
-Cosmides, L., & Tooby, J. (1994b). Origins of domain specificity: The evolution of functional organization. In S. Gelman & L. Hirshfeld (Eds.), Mapping the mind: Domain specificity in cognition and culture (pp. 85—116). New York: Cambridge University Press.
-
-Cosmides, L., & Tooby, J. (1996). Are humans good intuitive statisticians after all? Rethinking some conclusions from the literature on judgment under uncertainty. Cognition, 58, 1—73.
-
-Cosmides, L., & Tooby, J. (2002). Unraveling the enigma of human intelligence: Evolutionary psychology and the multi modular mind. In R. J. Sternberg & J. C. Kaufman (Eds.), The evolution of intelligence (pp. 145—198). Mahwah, NJ: Erlbaum.
-
-Cowley, G., & Underwood, A. (1997, December29). A lit tie help from serotonin. Newsweek, pp. 78—81.
-
-Cronin, H. (1991). The ant and the peacock. Cambridge, UK: Cambridge University Press.
-
-Cronk, L. (1994). Group selection's new clothes. Behavioral and Brain Sciences, 17, 615—617.
-
-Cross, J. F., & Cross. J. (1971). Age, sex, race, and the perception of facial beauty. Developmental Psychology, 5, 433—439.
-
-Cummins, D. D. (1998). Social norms and other minds: The evolutionary roots of higher cognition. In D. D. Cummins & C. Allen (Eds.), The evolution of mind (pp. 30—50). New York: Oxford University Press.
-
-Cummins, D. D. (1999). Cheater detection is modified by social rank: The impact of dominance on the evolution of cognitive functions. Evolution and Human Behavior, 20, 229—248.
-
-Cummins, D. D., & Allen, C. (Eds.)(1998). The evolution of mind. New York: Oxford University Press.
-
-Cunningham, M. R., Roberts, A. R., Wu, C-H, Barbee, A. P., & Druen, P. B. (1995). "Their ideas of beauty are, on the whole, the same as ours": Consistency and variability in the cross-cultural perception of female attractiveness. Journal of Personality and Social Psychology, 68, 261—279.
-
-Cutting, J. E., Profitt, D. R., & Kozlowski, L. T. (1978). A biomechanical invariant for gait perception. Journal of Experimental Psychology, 4, 357—372.
-
-Dabbs, J. M., Chang, E. L., Strong, R. A., & Milun, R. (1998). Spatial ability, navigation strategy, and geographic knowledge among men and women. Evolution and Human Behavior, 19, 89—98.
-
-Dabbs, J. M. & Ruback, R. B. (1988). Saliva testosterone and personality of male college students. Bulletin of the Psychonomic Society, 26, 244—247.
-
-Daly, M., Salmon, C., & Wilson, M. (1997). Kinship: The conceptual hole in psychological studies of social cognition and close relationships. In J. A. Simpson & D. T. Kenrick (Eds.), Evolutionary social psychology (pp. 265—296). Mahwah, NJ: Erlbaum.
-
-Daly, M., & Wilson, M. (1981). Abuse and neglect of children in evolutionary perspective. In R. D. Alexander & D. W. Tinkle (Eds.), Natural selection and social behavior (pp. 405—416). New York: Chiron.
-
-Daly, M., & Wilson, M. (1982). Whom are newborn babies said to resemble? Ethology and Sociobiology, 3, 69—78.
-
-Daly, M., & Wilson, M. (1983). Sex evolution, and behavior (2nd ed.). Boston: Willard Grant.
-
-Daly, M., & Wilson, M. (1985). Child abuse and other risks of not living with both parents. Ethology and Sociobiology, 6, 197—210.
-
-Daly, M., & Wilson, M. (1988). Homicide. Hawthorne, NY: Aldine.
-
-Daly, M., & Wilson, M. (1990). Is parent-offspring conflict sex-linked? Freudian and Darwinian models. Journal of Personality, 58, 163—189.
-
-Daly, M., & Wilson, M. (1994). Evolutionary psychology of male violence. In J. Archer (Ed.), Male violence (pp. 253—288). London: Routledge.
-
-Daly, M., & Wilson, M. (1995). Discriminative parental solictude and the relevance of evolutionary models to the analysis of motivational systems. In M. S. Gazzaniga (Ed.), The cognitive neurosciences (pp. 1269—1286). Cambridge, MA: MIT Press.
-
-Daly, M., & Wilson, M. (1996a). Violence against stepchildren. Current Directions in Psychological Science, 5, 77—81.
-
-Daly, M., & Wilson, M. (1996b). Evolutionary psychology and marital conflict: The relevance of stepchildren. In D. M. Buss & N. Malamuth (Eds.), Sex, power, conflict: Evolutionary and feminist perspectives (pp. 9—28). New York: Oxford University Press.
-
-Daly, M., Wilson, M., & Weghorst, S. J. (1982). Male sexual jealousy. Ethology and Sociobiology, 3, 11—27.
-
-Dannenmaier, W. D., & Thumin, F. J. (1964). Authority status as a factor in perceptual distortion of size. Journal of Social Psychology, 63, 361—365.
-
-Darwin, C. (1859). On the origin of species. London: Murray.
-
-Darwin, C. (1871). The descent of man and selection in relation to sex. London: Murray.
-
-Darwin, C. (1877). A biographical sketch of an infant. Mind, 2, 285—294.
-
-Dass, J. (1970). Maharaja. Delhi: Hind.
-
-Davis, B. M., & Gilbert, L. A. (1989). Effects of dispositional and situational influences on women's dominance expression in mixed-sex dyads. Journal of Personality and Social Psychology, 57, 294—300.
-
-Davis, J. N., & Daly, M. (1997). Evolutionary theory and the human family. The Quarterly Review of Biology, 72, 407—435.
-
-Dawkins, R. (1982). The extended phenotype. Oxford: W. H. Freeman & Co.
-
-Dawkins, R. (1982). The blind watchmaker. New York: Norton.
-
-Dawkins, R. (1989). The selfish gene (new ed.). New York: Oxford University Press.
-
-Dawkins, R. (1994). Burying the vehicle. Behavioral and Brain Sciences, 17, 617.
-
-Dawkins, R. (1996). Climbing mount improbable. New York: Norton.
-
-Deacon, T. (1997 ). The symbolic species: The coevolution of language and the human brain. Hammondsworth, England: Allen Lane.
-
-DeBecker, G. (1997). The gift of fear: Survival signals that protect us from, violence. Boston, MA: Little, Brown.
-
-de Catanzaro, D. (1991). Evolutionary limits to self-preservation. Ethology and Sociobiology, 12, 13—28.
-
-de Catanzaro, D. (1995). Reproductive status, family interactions, and suicidal ideation: Surveys of the general public and hig-risk group. Ethology and Sociobiology, 16, 385—394.
-
-DeGroat, B. (1997, April 1 ). Dating violence differs for teen-age girls, boys The University Record, p. 15.
-
-DeKay, W. T. (1995, July). Grandparental investment and the uncertainty of kinshin. Paper presented to the Seventh Annual Meeting of the Human Behavior and Evolution Society, Santa Barbara, CA.
-
-DeKay, W. T., & Buss, D. M. (1992). Human nature, indi-vidual differences, and the importance of context: Perspectives from evolutionary psychology. Current Directions in Psychological Science, 1, 184—189.
-
-DeKay, W. T., Buss D. M., & Stone, V. (unpublished ms). Coalitions mates, and friends: Toward an evolutionary psychology of relationship preferences. Department of Psychology, University of Texas, Austin.
-
-DeKay, W. T., & Shackelford, T. K. (2000). Toward an evolutionary approach to social cognition. Evolution and Cognition, 6, 185—195.
-
-Dennett, D. C. (1994). E pluribus unum? Behavioral and Brain Sciences, 17, 617—618.
-
-Dennett, D. C. (1995). Darwin's dangerous idea. New York: Simon & Schuster.
-
-DeSouza, E. R., Pierce, T., Zanelli, J, C., & Hutz, C. (1992). Perceived sexual intent in the U. S. and Brazil as a function of nature of encounter, subjects' nationality, and gender. Journal of Sex Research, 29, 251—260.
-
-DeSteno, D. A., & Salovey, P. (1996). Evolutionary origins of sex differences in jealousy: Questioning the "fitness" of the model. Psychological Science, 7, 367—372.
-
-DeVore, I., & Hall, K. R. L, (1965). Baboon ecology. In I. DeVore (Ed.), Primate behavior: Field studies of monkeys and apes (pp. 20—52). New York: Holt, Rinehart, & Winston.
-
-de Waal, F. (1982). Chimpanzee politics: Sex and power among apes. Baltimore, MD: Johns Hopkins University Press.
-
-de Waal, F. (1988). Chimpanzee politics. In R. W. Byrne & A. White (Eds.), Machiavellian intelligence (pp. 122—131). Oxford: Oxford University Press.
-
-Dickemann, M. (1979). Female infanticide, reproductive strategies and social stratification: A preliminary model. In N. A. Chagnon & W. Irons (Eds.), Evolutionary biology and human social behavior (pp. 312—367). North Scituate, MA: Duxbury Press.
-
-Dickemann, M. (1981). Paternal confidence and dowry competition: A biocultural analysis of purdah. In R. D. Alexander & D. W. Tinkle (Eds.), Natural selection and social behavior: Recent research and new theory (pp. 417—438). New York: Chiron Press.
-
-Dickens, G., & Trethowan, W. H. (1971). Cravings and aversions during pregnancy. Journal of Psychosomatic Research, 15, 259—268.
-
-Dijkstra, P., & Buunk, B. P. (2001). Sex differences in the jealousy-evoking nature of a rival's body build. Evolution and Human Behavior, 22, 335—241.
-
-Dobash, R. E., & Dobash, R. P. (1984). The nature and antecedents of violent events. British Journal of Criminology, 24, 269—288.
-
-Dobash, R. P., Dobash, R. E., Wilson, M., & Daly, M. (1992). The myth of sexual symmetry in marital violence. Social Problems, 39, 71—91.
-
-Dobzhansky, T. (1937). Genetics and the origins of species. New York: Columbia University Press.
-
-Dobzhansky, T. (1951). Genetics and the origin of species (3rd ed.). New York: Columbia University Press.
-
-Domjan, M. (1997). Behavioral systems and the demise of equipotentiality: Historical antecedents and evidence form sexual conditioning. In M. E. Bouton & M. S. Fanselow (Eds.), Learning, motivation, and cognition: The functional behaviorism of Robert C. Bolles (pp. 31—51). Washington, DC: American Psychological Association.
-
-Doran, T. F. et al. (1989). Journal of Pediatrics, 114, 1045—1048.
-
-Duberman, L. (1975). The reconstituted family: A study of remarried couples and their children. Chicago, IL: Nelson-Hall.
-
-Dudley, R. (2002). Fermenting fruit and the historical ecology of ethanol ingestion: Is alcoholism in modem humans an evolutionary hangover? Addiction, 97, 381—388.
-
-Dunbar, R. I. M. (1993). Coevolution of neocortical size, group size, and language in humans. Behavioral and Brain Sciences, 16, 681—735.
-
-Dunbar, R. I. M. (1996). Grooming, gossip, and the evolution of language. London: Faber & Faber.
-
-Duntley, J., & Buss, D. M. (1998). Evolved anti-homicide modules. Paper presented to the Annual Meeting of the Human Behavior and Evolution Society, Davis, CA. July 10.
-
-Dworkin, A. (1987). Intercourse. New York: Free Press. Eals, M., & Silverman, I. (1994). The hunger-gatherer theory of spatial sex differences: Proximate factors mediating the female advantage in recall of object arrays. Ethology and Sociobiology, 15, 95—105.
-
-Ehrlichman, H., & Eichenstein, R. (1992). Private wishes: Gender similarities and differences. Sex Roles, 26, 399—422.
-
-Eibl-Eibesfeldt, I. (1989). Human ethology. New York: Aldine de Gruyter.
-
-Eisenberg, N. (1986). Altruistic emotion, cognition, and behavior. Hillsdale, NJ: Erlbaum.
-
-Ekman, P. (1973). Cross-cultural studies of facial expression. In P. Ekman (Ed.), Darwin and facial expression: A century of research in review (pp. 169—222). New York: Academic Press.
-
-Elder, G. H., Jr. (1969). Appearance and education in marriage mobility. American Sociological Review, 34, 519—533.
-
-Ellis, B. J. (1992). The evolution of sexual attraction: Evaluative mechanisms in women. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 267—288). New York: Oxford.
-
-Ellis, B. J., & Garber, J. (2000). Psychosocial antecedents of variation in girls' pubertal liming: Maternal depression, stepfather presence, and marital and family stress. Child Development, 71, 485—501.
-
-Ellis, B. J., McFadyen-Ketchum, S., Dodge, K. A., Pettit, G. S., & Bates, J. E. (1999). Quality of early family relationships and individual differences in the timing of pubertal maturation in girls: A longitudinal test of an evolutionary model. Journal of Personality and Social Psychology, 77, 387—401.
-
-Ellis, B. J., & Symons, D. (1990). Sex differences in fantasy: An evolutionary psychological approach. Journal of Sex Research, 27, 527—556.
-
-Ellis, L. (1995). Dominance and reproductive success among nonhuman animals: A cross-species comparison. Ethology and Sociobiology, 16, 257—333.
-
-Emlen, S. T. (1995). An evolutionary theory of the family. Proceedings of the National Academy of Science, 92, 8092—8099.
-
-Essock-Vitale, S. M., & McGuire, M. T. (1985). Women's lives viewed from an evolutionary perspective. E. Patterns of helping. Ethology and Sociobiology, 6, 155—173.
-
-Euler, H. A., Hoier, S., & Rohde, P. A. (2001). Relationshipspecific closeness of intergenerational family ties. Journal of Cross-Cultural Psychology, 32, 147—149.
-
-Euler, H. A., & Weitzel, B. (1996). Discriminative grand-parental solicitude as reproductive strategy. Human Nature, 7, 39—59.
-
-Eysenck, H. J. (1976). sex and personality. Austin, TX: University of Texas Press.
-
-Faludi, S. (1991). Backlash: The undeclared war against American women. New York: Crown.
-
-Farkas, L. G. (1981). Anthropometry of the head and face in medicine. New York: Elsevier.
-
-Farrell, W. (1986). Why men are the way they are. New York: Berkeley Books.
-
-Feather, N. T. (1994). Attitudes toward achievers and reactions to their fall: Theory and research concerning tall poppies. Advances in Experimental Social Psychology, 26, 1—73.
-
-Fehr, E., Fischbacher, U., & Gachter, S. (2002). Strong reciprocity, human cooperation, and the enforcement of social norms. Human Nature, 13, 1—25.
-
-Feinsilber, M. (1997, December 6). Inflating personal histories irresistible to some. Austin American Statesman, p. A1.
-
-Feist, G. J. (Ed) (2001). Evolution, creativity, and aesthetics. Bulletin of Psychology and the Arts, 2, 1—42.
-
-Fenigstein, A., & Peltz, R. (2002). Distress over the infidelity of a child's spouse: A crucial test of evolutionary and socialization hypotheses. Personal Relationships, 9.
-
-Fessler, D. M. T. (2002). Reproductive immunosupression and diet. Current Anthropology, 43, 19—38.
-
-Fielden, J., Lutter, C., & Dabbs, J. (1994). Basking in glory: Testosterone changes in World Cup soccer fans. Unpublished manuscript, Psychology Department, Georgia State University.
-
-Figueredo, A. J. (1995). Preliminary report: Family deterrence of domestic violence in Spain. Department of Psychology, University of Arizona.
-
-Figueredo, A. J., Corral-Vedugo, V., Frias-Armenta, M., Bachar, K. J., White, J., McNeill, P. L., Kirener, B. R., & Caslell-Ruiz, I. del P. (2001). Blood, solidarity, status, and honor: The sexual balance of power and spousal abuse in Sonora, Mexico. Evolution and Human Behavior, 22, 295—328.
-
-Fisek, M. H., & Ofshe, R. (1970). The process of status evolution, Sociometry, 33, 327—346.
-
-Fisher, H. E. (1992). Anatomy of Love. New York: Norton.
-
-Fisher, J. D., Nadler, A., & Whitcher-Alagna, S. (1982). Recipient reactions to aid. Psychological Bulletin, 91, 27—54.
-
-Fisher, R. A. (1958). The genetical theory of natural selection (2nd ed). New York: Dover.
-
-Fisher, R. R. (1983). Transition to grand motherhood. International Journal of Aging and Human Development, 16, 67—78.
-
-Flaxman, S. M., & Sherman, P. W. (2000). Morning sickness: A mechanism for protecting mother and embryo. Quarterly Review of Biology, 75, 113—147.
-
-Flinn, M. (1988a). Mate guarding in a Caribbean village. Ethology and Sociobiology, 9, 1—28.
-
-Flinn, M. (1988b). Parent-offspring interactions in a Caribbean village: Daughter guarding. In L. Betzig, M. Borgerhoff Mulder, & P. Turke (Eds.), Human reproductive behavior: A Darwinian perspective (pp. 189—200). Cambridge, UK: Cambridge University Press.
-
-Flinn, M. V. (1992). Parental care in a Caribbean village. In B. Hewlett (Ed.), Father-child relations: Cultural and biosocial contexts (pp. 57—84). Chicago: Aldine.
-
-Fodor, J. A. (1983). The modularity of mind. Cambridge, MA: MIT Press.
-
-Ford, C. S., & Beach, F. A. (1951). Patterns of sexual behavior. New York: Harper & Row.
-
-Forrest, M. S., & Hokanson, J. E. (1975). Depression and autonomic arousal reduction accompanying selfpunitive behavior. Journal of Abnormal Psychology, 84, 346—357.
-
-Fournier, M. A., Moskowitz, D. S., & Zuroff, D. C. (2002 ). Social rank strategies in hierarchical relationships. Journal of Personality and Social Psychology, 83, 425—433.
-
-Fox, A. (1997, June). The assessment of fighting ability in humans. Paper presented to the Ninth Annual Meeting of the Human Behavior and Evolution Society, University of Arizona, Tucson, AZ.
-
-Frank, R. H. (1985). Choosing the right pond: Human behavior and the quest for status. New York: Oxford University Press.
-
-Frank, R. (1988). Passions within reason. New York: Norton.
-
-Frayser, S. (1985 ). Varieties of sexual experience: An anthropological perspective. New Haven, CT: HRAF Press.
-
-Freeman, D. (1983). Margaret Mead and Samoa: The making and unmaking of an anthropological myth. Cambridge, MA: Harvard University Press.
-
-Freud, S. (1953). The interpretation of dreams. In J. Strachey (Ed. and Trans.), standard edition (Vol. 4, pp. 1—338; Vol. 5, pp. 339—721). New York: Basic Books. (Original work published 1900).
-
-Friedman, B., & Duntley, J. D. (1998, July 12). Parentguarding: Offspring reactions to parental infidelity. Paper presented to the Tenth Annual Meeting of the Human Behavior and Evolution Society, Davis, CA.
-
-Friedman, H. S., Tucker, J. S., Schwartz, J. E., Tomlinson-Keasey, C., Martin, L. R., Wingared, D. L., & Criqui, M. H. (1995). Psychosocial and behavioral predictors of longevity: The aging and death of the "Termites." American Psychologist, 50, 69—78.
-
-Furnham, A., Tan, T., & McManus, C. (1997). Waist-to-hip ratio and preferences for body shape: A replication and extension. Personality and Individual Differences, 22, 539—549.
-
-Gangestad, S. W., & Buss, D. M. (1993). Pathogen prevalence and human mate preferences. Ethology and Sociobiology, 14, 89—96.
-
-Gangestad, S. W., & Simpson, J. A. (1990). Toward an evolutionary history of female sociosexual variation. Journal of Personality, 58, 69—96.
-
-Gangestad, S. W., Simpson, J. A., Cousins, A. J., Garver, C. E., & Christensen, N. (in press). Women's preferences for male behavioral displays change across the menstrual cycle. Psychological Science.
-
-Gangestad, S. W., & Thornhill, R. (1997). The evolutionary psychology of extrapair sex: The role of fluctuating asymmery. Evolution and Human Behavior, 18, 69—88.
-
-Gangestad, S. W., & Thornhill, R. (1997). Human sexual selection and developmental stability. In J. A. Simpson & D. T. Kenrick (Eds.), Evolutionary social psychology (pp. 169—195). Mahwah, NJ: Erlbaum.
-
-Gangestad, S. W., Thornhill, R., & Yeo, R. A. (1994). Facial attractiveness, developmental stability, and fluctuating asymmetry. Ethology and Sociobiology, 15, 73—85.
-
-Garcia, J., Ervin, F. R., & Koelling, R. A. (1966). Learning with prolonged delay of reinforcement. Psychonomic Science, 5, 121—122.
-
-Gardner, H. (1974). The shattered mind. New York: Random House.
-
-Gaulin, S. J. C., McBurney, D. H., & Brakeman-Wartell, S. L. (1997). Matrilateral biases in the investment of aunts and uncles. Human Nature, 8, 139—151.
-
-Gayford, J. J. (1975). Wife battering: A preliminary survey of 100 cases. London: British Medical Journal.
-
-Gazzaniga, M. (Ed.)(1999). The new cognitive neurosciences, 2nd ed. Cambridge, MA: MIT Press.
-
-Geary, D. C. (1996). Sexual selection and sex differences in mathematical abilities. Behavioral and Brain Sciences, 1996, 229—284.
-
-Geary, D. C. (2000). Evolution and proximate expression of human paternal investment. Psychological Bulletin, 126, 55—77.
-
-Geary, D. C. (2000). Principles of evolutionary educational psychology. Learning and Individual Differences, 12, 317—345.
-
-Geary, D. C., & Flinn, M. V. (2001). Evolution of human parental behavior and the human family. Parenting: Science and Practice, 1, 5—61.
-
-Geary, D. C., DeSoto, M. C., Hoard, M. K., Skaggs, S., & Cooper, M. L. (2001). Estrogens and relationship jealousy. Human Nature, 12, 299—320.
-
-Geary, D. C., & Huffman, K. J. (2002). Brain and cognitive evolution: Forms of modularity and functions of mind. Psychological Bulletin, 128, 667—698.
-
-Gelman, S., Coley, J., & Gottfried, G. (1994). Essentialist beliefs in children. In L. Hirshfeld & S. Gelman (Eds.), Mapping the mind. New York: Cambridge University Press.
-
-Gigerenzer, G. (1991). How to make cognitive illusions disappear: Beyond "heuristics and biases." In W. Stoebe & M. Hewstone (Eds.), European Review of Social Psychology, Vol. 2 (pp. 83—115). Chichester, England: Wiley.
-
-Gigerenzer, G. (1998). Ecological intelligence: An adaptation for frequencies. In D. D. Cummins & C. Allen (Eds.), The evolution of mind (pp. 9—29). New York: Oxford University Press.
-
-Gigerenzer, G., & Hug, K. (1992). Domain specific reasoning: Social contracts, cheating and perspective change. Cognition, 43, 127—171.
-
-Gilbert, D. T., & Malone, P. S. (1995). The correspondence bias. Psychological Bulletin, 117, 21—49.
-
-Gilbert, P. (1989). Human nature and suffering. Hillsdale, NJ: Erlbaum.
-
-Gilbert, P. (1990). Changes: Rank, status and mood. In S. Fischer & C. L. Cooper (Eds.), On the move: The psychology of change and transition (pp. 33—52). New York: Wiley.
-
-Gilbert, P. (2000a). The relationship of shame, social anxiety and depression: The role of the evaluation of social rank. Clinical Psychology and Psychotherapy, 7, 174—189.
-
-Gilbert, P. (2000b). Varieties of submissive behavior as forms of social defenes: Their evolution and role in depression. In L. Sloman & P. Gilbert (Eds.), Subordination and defeat: An evolutionary approach to mood disorders and their therapy (pp. 3—46). Mahwah, NJ: Erlbaum.
-
-Gillis, J. S. (1982). Too tall, too small. Champaign, IL: Institute for Personality and Ability Tesing.
-
-Gintis, H. (2000). Strong reciprocity in human sociality. Journal of Theoretical Biology, 206, 169—179.
-
-Gintis, H., Smith, E., & Bowles, S. (in press). Costly signaling and cooperation. Journal of Theoretical Biology.
-
-Gladue, B. A. (1991). Aggressive behavioral characteristics, hormones, and sexual orientation in men and women. Aggressive Behavior, 17, 313—326.
-
-Gladue, B. A., Boechler, M., & McCaul, K. (1989). Hormonal response to competition in human males. Aggressive Behavior, 15, 409—422.
-
-Gladue, B. A., & Delaney, J. J. (1990). Gender differences in perception of attractiveness of men and women in bars. Personality and Social Psychology Bulletin, 16, 378—391.
-
-Glantz, K., & Pearce, J. (1989 ). Exiles from Eden: Psychotherapy from an evolutionary perspective. New York: Norton.
-
-Glass, B., Temekin, O., Straus, W., Jr., (Eds.). (1959). Forerunners of Darwin. Baltimore, MD: Johns Hopkins University Press.
-
-Glass, S. P., & Wright, T. L. (1985). Sex differences in type of extramarital involvement and marital dissatisfaction. Sex Roles, 12, 1101—1120.
-
-Glass, S. P., & Wright, T. L. (1992). Justifications for extramarital relationships: The association between attitudes, behaviors, and gender. Journal of Sex Research, 29, 361—387.
-
-Godfrey, H. C. J. (1999). Parent-offspring conflict. In L. Keller (Ed.), Levels of selection in evolution (pp. 100—120). Princeton, NJ: Princeton University Press.
-
-Goldsmith, H. H., & Harman, C. (1994). Temperament and attachment: Individuals and relationships. Current Directions in Psychological Science, 3, 53—57.
-
-Goldstein, J. H.,（1986). Aggression and crimes of violence (2nd ed.). New York: Oxford University Press.
-
-Gottesman, I. L. (1991). Schizophrenia genesis. New York: W. H. Freeman.
-
-Gough, H. G. (1964). Manual for the California Psychological Inventory (Rev. ed.). Palo Alto, CA: Consulting Psychologists Press.
-
-Gould, S. J. (1987). The limits of adaptation: Is Language a spandrel of the human brain? Paper presented to the Cognitive Science Seminar, Center for Cognitive Science, MIT, Cambridge, MA.
-
-Gould, S. J. (1991). Exaptation: A crucial tool for evolutionary psychology. Journal of Social Issues, 47, 43—58.
-
-Gould, S. J. (1997, October 9). Evolutionary psychology: An exchange. New York Review of Books, XLIV, 53—58.
-
-Gould, S. J., & Eldredge, N. (1977). Punctuated equilibria: The tempo and mode of evolution reconsidered. Paleobiology, 3, 115—151.
-
-Gove, P. B. (Ed.). (1986). Webster's third new international dictionary of the English language unabridged. Springfield, MA: Merriam-Webster.
-
-Grafen, A. (1990). Biological signals as handicaps. Journal of Theoretical Biology, 144, 517—546.
-
-Grafen, A. (1991). Modelling in behavioural ecology. In J. R. Krebs & N. B. Davies (Eds.), Behavioural ecology, 3rd ed. (pp. 5—31). Oxford, England: Blackwell.
-
-Graham, N. M., et al. (1990). Journal of Infectious Diseases, 162, 1277—1282.
-
-Grammer, K. (1992). Variations on a theme: Age dependent mate selection in humans. Behavioral and Brain Sciences. 15, 100—102.
-
-Grammer, K. (1996, June). The human mating game: The battle of the sexes and the war of signals. Paper presented to the Human Behavior and Evolution Society Annual Meeting, Northwestern University, Evanston, IL.
-
-Grammer, K., & Thornhill, R. (1994). Human facial attractiveness and sexual selection: The roles of averageness and symmetry. Journal of Comparative Psychology, 108, 233—242.
-
-Grant, P. R. (1991, October). Natural selection and Darwin's finches. Scientific American, 265, 82—87.
-
-Grayson, D. K. (1993). Differential mortality and the Donner Party disaster. Evolutionary Anthropology, 2, 151—159.
-
-Gregor, T. (1985). Anxious pleasures: The sexual lives of an Amazonian people, Chicago: University of Chicago Press.
-
-Greiling, H. (1995, July) Women's mate preferences across contexts. Paper presented to the Annual Meeting of the Human Behavior and Evolution Society, University of. California, Santa Barbara, CA.
-
-Greiling, H., & Buss, D. M. (2000). Women's sexual strategies: The hidden dimension of short-term extra-pair mating. Personality and Individual Differences, 28, 929—963.
-
-Gross, M. R. (1982). Sneakers, satellites and parentals: Polymorphic mating strategies in North American sunfishes. Zeitschrift fur Tierpsychologie, 60, 1—26.
-
-Gross, M. R., & Sargent, R. C. (1985). The evolution of male and female parental care in fishes. American Zoologist, 25, 807—822.
-
-Gross, M. R., & Shine, R. (1981). Parental care and mode of fertilization in ectothermic vertebrates. Evolution, 35, 775—793.
-
-Gutek, B. A. (1985). Sex and the workplace: The impact of sexual behavior and harassment on women, men, and the organization. San Francisco: Jossey-Bass.
-
-Gutierres, S. E., Kenrick, D. T., & Partch, J. (1994). Effects of others' dominance and attractiveness on self-ratings. Unpublished manuscript, Department of Psychology, Arizona State University, Tempe.
-
-Guttentag, M., & Second, P. (1983). Too many women? Beverly Hills, CA: Sage.
-
-Guttmacher, M. S. (1955). Criminal responsibility in certain homicide cases involving family members. In P. H. Hoch & J. Zubin (Eds.), Psychiatry and the law. New York: Grune and Stratton.
-
-Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. Psychological Review, 108, 814—834.
-
-Haidt, J. (in press). The moral emotions. In R. J. Davidson, K. Scherer, & H. H. Goldsmith (Eds.), Handbook of affective sciences. New York: Oxford University Press.
-
-Haidt, J., & Sabini, J. (2000). What exactly makes revenge sweet? Unpublished manuscript, University of Virginia.
-
-Haig, D. (1993). Genetic conflicts in human pregnancy. The Quarterly Review of Biology, 68, 495—532.
-
-Hames, R. B. (1988). The allocation of parental care among the Ye'kwana. In L. Betzig, M. Borgerhoff Mulder, & P. Turke (Eds.), Human reproductive behavior: A Darwinian perspective (pp. 237—252). Cambridge, UK: Cambridge University Press.
-
-Hamilton, W. D. (1964). The genetical evolution of social behavior. I and II. Journal of Theoretical Biology, 7, 1—52.
-
-Hamilton, W. D. (1987). Discriminating nepotism: Expectable, common, overlooked. In D. J. C. Fletcher & C. D. Michener (Eds.), Kin recognition in animals (pp. 417—437). New York: Wiley.
-
-Hamilton, W. D. (1996). Narrow roads of gene land. New York: W. H. Freeman.
-
-Hamilton, W. D., & Zuk, M. (1982). Heritable true fitness and bright birds: A role for parasites? Science, 218, 384—387.
-
-Hansen, R. D. (1980). Commonsense attribution. Journal of Personality and Social Psychology, 39, 996—1009.
-
-Harlow, H. F. (1971). Learning to love. San Francisco: Albion.
-
-Harpending, H. C., & Sobus, J. (1987). Sociopathy as an adaptation. Ethology and Sociobiology, 8, 63S—72S.
-
-Harris, C. L. (1992). Concepts in zoology. New York: HarperCollins.
-
-Hams, C. R. (2000). Psychophysiological responses to imagined infidelity: The specific innate modular view of jealousy reconsidered. Journal of Personality and Social Psychology, 87, 1082—1091.
-
-Hart, C. W., & Pilling, A. R. (1960). The Tiwi of North Australia. New York: Hart, Rinehart, & Winston.
-
-Hartung, J. (1987). Deceiving down: Conjectures on the management of subordinate status. In J. Lockart & D. L. Paulhus (Eds.), Self-deception: An adaptive mechanism? (pp. 170—185). Englewood Cliffs, NJ: Prentice-Hall.
-
-Haselton, M. G. (2003). The sexual overperception bias: Evidence of a systematic bias in men from a survey of naturally occurring events. Journal of Research in Personality, 37, 34—47.
-
-Haselton, M. G., & Buss, D. M. (1997, June). Errors in mind reading: Design flaws or design features? Paper presented to the Ninth Annual Meeting of the Human Behavior and Evolution Society, University of Arizona, Tucson, AZ.
-
-Haselton, M. G. & Buss, D. M. (2000). Error Management Theory: A new perspective on biases in cross-sex mind reading. Journal of Personality and Social Psychology, 78, 81—91.
-
-Haselton, M. G., & Buss, D. M. (2001). The affective shift hypothesis: The functions of emotional changes following sexual intercourse. Personal Relationships, 8, 357—369.
-
-Haselton, M. G. & Buss, D. M. (in press). Biases in social judgment: Design flaws or design features? To appear in J. Forgas, W. von Hippel, and K. Williams (Eds.), Responding to the Social World: Expicit and Implicit Processes in Social Judgments and Decisions. Cambridge, England: Cambridge University Press.
-
-Hatfield, E., & Rapson, R. L. (1993). Love, sex, and intimacy. New York: HarperCollins.
-
-Hatfield, E., & Rapson, R. L. (1996). Love and sex: Crosscultural perspectives. Boston: Allyn & Bacon.
-
-Hawkes, K. (1991). Showing off: Tests of another hypothesis about men's foraging goals. Ethology and Sociobiology, 11, 29—54.
-
-Hawkes, K., O'Connell, J. F., & Blurton Jones, N. G. (2001a). Hunting and nuclear families. Current Anthropology, 42, 681—709.
-
-Hawkes, K., O'Connell, J. F., & Blurton Jones, N. G. (2001b). Hadza meat sharing. Evolution and Human Behavior, 22, 113—142.
-
-Hawks, J. D., & Wolpoff, M. H. (2001). The four faces of Eve: Hypothesis compatibility and human origins. Quaternary International, 75, 41—50.
-
-Heerwagen, J. H. & Orians, G. H. (2002). The ecological world of children. In P. H. Kahn, Jr., & S. K. Kellert (Eds.), Children and nature: Psychological, sociocultural, and evolutionary investigations (pp. 29—64). Cambridge, MA: MIT Press.
-
-Hendersen, R. W. (1985). Fearful memories: The motivational significance of forgetting. In F. R. Brush & J. B. Overmier (Eds.), Affect, conditioning, and cognition: Essays on the determinants of behavior (pp. 43—53). Hillsdale, NJ: Erlbaum.
-
-Henrich, J., & Boyd, R. (2001). Why people punish defectors: Weak conformist transmission can stabilizecostly enforcement of norms in cooperative dilemmas. Journal of Theoretical Biology, 208, 79—89.
-
-Henss, R. (1992). Perceiving age and attractiveness in facial photographs. Unpublished manuscript, Psychologisches Institut, University of Saarland, Germany.
-
-Herrnstein, R. J. (1977). The evolution of behaviorism. American Psychologist, 32, 593—603.
-
-Hertwig, R., Davis, J. N., & Sulloway, F. J. (2002). Parental investment: How an equity motive can produce inequality. Psychological Bulletin, 128, 728—745.
-
-Hess, E. H. (1975). The tell-tale eye. New York: Van Nostrand Reinhold.
-
-Hewlett, B. S. (1991 ). Intimate fathers: The nature and context of Aka pygmy paternal infant care. Ann Arbor: University of Michigan Press.
-
-Hilberman, E., & Munson, K. (1978). Sixty battered women. Victimology, 2, 460—470.
-
-Hill, K. (1993). Life history theory and evolutionary anthropology. Evolutionary Anthropology, 2, 78—88.
-
-Hill, K., & Hurtado, A. M. (1989). Ecological studies among some South American foragers. American Scientist, 77, 436—443.
-
-Hill, K., & Hurtado, A. M. (1991). The evolution of premature reproductive senescence and menopause in human females. Human Nature, 2, 313—350.
-
-Hill, K., & Hurtado, A. M. (1996). Ache lif history. New York: Aldine De Gruyter.
-
-Hill, K., & Kaplan, H. (1988). Tradeoffs in male and female reproductive strategies among the Ache. In L. Betzig, M. Borgerhoff Mulder, & P. Turke (Eds.), Human reproductive behavior (pp. 277—306). New York: Cambridge University Press.
-
-Hilton, N. Z., Harris, G. T., & Rice, M. E. (2000). The functions of aggression by male teenagers. Journal of Personality and Social Psychology, 79, 988—994.
-
-Hinsz, V. B., Matz, D. C., & Patience, R. A. (2001). Does women's hair signal reproductive potential? Journal of Experimental Social Psychology, 37, 166—172.
-
-Hirsh, L. R. (1996, June ). "Quantity" and "quality" fathering strategies: Not all men follow in their fathers' footsteps. Paper presented to the Eighth Annual Meeting of the Human Behavior and Evolution Society, Evanston, IL.
-
-Hirshfeld, L. A., & Gelman, S. (1994). Mapping the mind: Domain specificity in cognition and culture. New York: Cambridge University Press.
-
-Hite, S. (1987). Women and love: A cultural revolution in progress. New York: Knopf.
-
-Hokanson, J. E. (1991). The effect of frustration and anxiety on overt aggression. Journal of Abnormal and Social Psychology, 62, 346—351.
-
-Holmberg, A. R. (1950). Nomads of the long bow: The Siriono of Eastern Bolivia. Washington, DC; U. S. Government Printing Office.
-
-Holmes, W. G., & Sherman, P. W. (1982). The ontogeny of kin recognition in two species of ground squirrels. American Zoologist, 22, 491—517.
-
-hooks, b. (1984). Feminist theory: From margin to center. Boston: South End Press.
-
-Hopcroft, R. L. (2002). The evolution of sex discrimination. Psychology, Evolution, and Gender, 4, 43—67.
-
-Horung, C. A., McCullough, C. B., & Sugimoto, T. (1981). Status relationships in marriage: Risk factors in spouse abuse. Journal of Marriage and the Family, 675—692.
-
-Hrdy, S. B. (1977). Infanticide as a primate reproductive strategy. American Scientist, 65, 40—49.
-
-Hrdy, S. B. (1999). Mother nature: A history of mothers, infants, and natural selection. New York: Pantheon Books.
-
-Hume, D. (1969). A treatise of human nature. London: Penguin. (Original work published 1739 & 1740).
-
-Hunt, M (1974). Sexual behavior in the 70's. Chicago: Playboy Press.
-
-Hurtado, A. M., Hill, K., Kaplan, H., & Hurtado, I. (1992). Trade-offs between female food acquisition and child care among Hiwi and Ache foragers. Human Nature, 3, 185—216.
-
-Huxley, J. S. (1942). Evolution: The modem synthesis. London: Allen & Unwin.
-
-Hyde, J. S. (1986). Gender differences in aggression. In J. S. Hyde & M. C. Linn (Eds.), The psychology of gender: Advances through meta-analysis. Baltimore, MD: Johns Hopkins University Press.
-
-Isaac, G. (1978). The food-sharing behavior of protohuman hominids. Scientific American, 238, 90—108.
-
-Jackson, D. N. (1967). Personality Research Form manual. Goshen, NY: Research Psychologists Press.
-
-Jackson, L. A. (1992). Physical appearance and gender: Sociobiological and sociocultural perspectives. Albany: State University of New York Press.
-
-Jagger, A. (1994). Living with contradictions: Controversies in feminist social ethics. Boulder, CO: Westview Press.
-
-James, W. (1962). Principles of psychology. New York: Dover. (Original work published 1890)
-
-Jankowiak, W. (Ed.). (1995 ). Romantic passion: A universal experience? New York: Columbia University Press. Jankowiak, W., & Fischer, R. (1992). A cross-cultural perspective on romantic love. Ethnology, 31, 149—155.
-
-Jankowiak, W. R., Hill, E. M., & Donovan, J. M. (1992). The effects of sex and sexual orientation on attractiveness judgments. Ethology and Sociobiology, 13, 13—85.
-
-Jencks, C. (1979). Who gets ahead? The determinants of economic success in America. New York: Basic Books.
-
-Johanson, D. (2001). Origins of modem humans: Multiregional or out of Africa? www.actionbiosciences.org.
-
-Johanson, J., & Edgar, B. (1996). From Lucy to language. New York: Simon & Schuster.
-
-Johnston, V. S., & Franklin, M. (1993). Is beauty in the eyes of the beholder? Ethology and Sociobiology, 14, 183—199.
-
-Johnston, V. S., Hagel, R., Franklin, M., Fink, B., & Grammer, K. (2001). Male facial attractiveness: Evidence for hormone-mediated adaptive design. Evolution and Human Behavior, 22, 251—267.
-
-Jones, B. C., Little, A. C., Penton-Voak, I. S., Tiddeman, B. P., Burt, D. M., & Perrett, D. I. (2001). Facial symmetry and judgments of apparent health: Support for a "good genes" explanation of the attractiveness-symmetry relationship. Evolution and Human Behavior, 22, 417—429.
-
-Jones, D. (1996). Physical attractiveness and the theory of sexual selection. Ann Arbor: University of Michigan Press. Jones, O. D. (1999). Sex, culture, and the biology of rape: Toward explanation and prevention. California Law Review, 87, 827—941.
-
-Judge, D. S. (1995). American legacies and the variable life histories of women and men. Human Nature, 6, 291—323.
-
-Kalma, A. (1991). Hierarchisation and dominance assessment at first glance. European Journal of Social Psychology, 21, 165—181.
-
-Kanazawa, S. (2001). Why we love our children. American Journal of Sociology, 106, 1761—1776.
-
-Kaplan, S. (1992). Environmental preference in a knowledge-eseeking, knowledge-using organism. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 581—598). New York: Oxford University Press.
-
-Kaplan, S., & Kaplan, R. (1982). Cognition and environment: Functioning in an uncertain world. New York: Praeger.
-
-Keenan, J. P., Gallup, G. G., Jr., Goulet, N., & Kulkarni, M. (1997). Attributions of deception in human mating strategies. Journal of Social Behavior and Personality, 12, 45—52.
-
-Keeley, L. H. (1996). War before civilization. New York: Oxford University Press.
-
-Keil, F. ( 1995). The growth of understandings of natural kinds. In D. Sperber, D. Premack, & A. Premack (Eds.), Causal cognition. Oxford, England: Clarendon Press.
-
-Keller, M. C., Nesse, R. M., & Hofferth, S. (2001). The Trivers-Willard hypothesis of parental investment: No effect in contemporary United States. Evolution and Human Behavior, 22, 343—360.
-
-Kenrick, D. T., Groth, G. E., Trost, M. R., & Sadalla, E. K. (1993). Integrating evolutionary and social exchange perspectives on relationships: Effects of gender, selfappraisal, and involvement level on mate selection. Journal of Personality and Social Psychology, 64, 951—969.
-
-Kenrick, D. T., & Keefe, R. C. (1992). Age preferences in mates reflect sex differences in reproductive strategies. Behavioral and Brain Sciences, 15, 75—133.
-
-Kenrick, D. T., Keefe, R. C., Gabrielidis, C., & Cornelius, J. S. (1996). Adolescents' age preferences for dating partners: Support for an evolutionary model of lifehistory strategies. Child Development, 67, 1499—1511.
-
-Kenrick, D. T., Neuberg, S. L., Zierk, K. L., & Krones, J. M. (1994). Evolution and social cognition: Contrast effects as a function of sex, dominance, and physical attractiveness. Personality and Social Psychology Bulletin, 20, 210—217.
-
-Kenrick, D. T., Sadalla, E. K., Groth, G., & Trost, M. R. (1990). Evolution, traits, and the stages of human courtship: Qualifying the parental investment model. Journal of Personality, 58, 97—116.
-
-Kenrick, D. T., & Sheets, V. (1993). Homicidal fantasies. Ethology and Sociobiology, 14, 231—246.
-
-Ketelaar, T., & Ellis, B. J. (2000). Are evolutionary explanations unfalsifiable? Evolutionary psychology and the Lakatosian philosophy of science. Psychological Inquiry, 11, 1—21.
-
-Kim, K. Smith, P. K., & Palermiti, A. (1997). Conflict in childhood and reproductive development. Evolution and Human Behavior, 18, 109—142.
-
-Kinsey, A. C., Pomeroy, W. B., & Marlin, C. E. (1953). Sexual behavior in the human female. Philadelphia: Saunders.
-
-Kirkpatrick, L. A. (1998). Evolution, pair-bonding, and reproductive strategies: A reconceptualization of adult attachment. In J. A. Simpson & W. S. Rholes (Eds.), Attachment theory and close relationships. New York: Guilford.
-
-Kirkpatrick, L. A. (1999). Toward an evolutionary psychology of religion and personality. Journal of Personality, 67, 921—952.
-
-Kirkpatrick, L., & Ellis, B. J. (2001). An evolutionary-psychological approach to self-esteem: Multiple domains and multiple functions. In M. Clark & G. Fletcher (Eds.), The Blackwell Handbook in Social Psychology, Vol. 2: Interpersonal Processes (pp. 411—436). Oxford, England: Blackwell Publishers.
-
-Kiyonari, T., Tanida, S., & Yamagishi, T. (2000). Social exchange and reciprocity: Confusion of a heuristic? Evolution and Human Behavior, 21, 411—427.
-
-Klein, R. G. (2000). Archeology and the evolution of human behavior. Evolutionary Anthropology, 9, 17—36.
-
-Klein, S., Cosmides, L., Tooby, J., & Chance, S. (in press). Decisions and the evolution of memory: Multiple systems, multiple functions. Psychological Review.
-
-Kluger, M. J. (1990). In P. A. MacKowiac (Eds.), Fever: Basic measurement and management. New York: Raven Press.
-
-Kluger, M. J. (1991). The adaptive value of fever. In P. A. MacKowiac (Ed.), Fever: Basic measurement and management (105—124). New York: Raven Press.
-
-Knauft, B. (1991). Violence and sociality in human evolution. Current Anthropology, 32, 391—428.
-
-Konner, M. (1990). Why the reckless survive. New York, NY: Viking.
-
-Korchmaros, J. D., & Kenny, D. A. (2001). Emotional closeness as a mediator of the effect of genetic relatedness on altruism. Psychological Science, 12, 262—265.
-
-Krebs, D. (1998). The evolution of moral behaviors. In C. Crawford & D. L. Krebs (Eds.), Handbook of evolutionary psychology: Ideas, issues, and applications (pp. 337—368). Mahwah, NJ: Erlbaum.
-
-Kurzban, R., & Leary, M. R. (2001). Evolutionary origins of stigmatization: The functions of social exclusion. Psychological Bulletin, 127, 187—208.
-
-Kurzban, R., McCabe, K., Smith, V., & Wilson, B. (2001). Incremental commitment in a real-time public goods game. Personality and Social Psychology Bulletin, 27, 1662—1672.
-
-Kyl-Heku, L. M., & Buss, D. M. (1996). Tactics as units of analysis in personality psychology: An illustration using tactics of hierarchy negotiation. Personality and Individual Differences, 21, 497—517.
-
-La Cerra, M. M. (1994). Evolved mate preferences in women: Psychological adaptations for assessing a man's willingness to invest in offspring. Unpublished doctoral dissertation, Department of Psychology, University of California, Santa Barbara.
-
-Lakoff, G., & Johnson, M. (1980). Metaphors we live by. Chicago: University of Chicago Press.
-
-Lalumiere, M. L., Chalmers, L. J., Quinsey, V. L., & Seto, M. C. (1996). A test of the mate deprivation hypothesis of sexual coercion. Ethology and Sociobiology, 17, 299—318.
-
-Lalumiere, M. L., & Quinsey, V. L. (1996). Sexual deviance, antisociality, mating effort, and the use of sexually coercive behaviors. Personality and Individual Differences, 21, 33—48.
-
-Lalumiere, M. L., Seto, M. C., & Quinesy, V. L. (1995 ). Selfperceived mating success and the mating choices of human males and females. Unpublished manuscript.
-
-Lamarck, J. B. (1809). Zoological Philosophy. New York: McMillan & Co. [English Translation in 1914].
-
-Lancaster, J. B., & King, B. J. (1985). An evolutionary perspective on menopause. In J. K. Brown & V. Kern (Eds.), In her prime: A new view of middle-aged women (pp. 13—20). Boston, MA: Bergin & Carvey.
-
-Landolt, M. A., Lalumiere, M. L., & Quinsey, V. L. (1995). Sex differences in intra-sex variations in human mating tactics: An evolutionary approach. Ethology and Sociobiology, 16, 3—23.
-
-Langlois, J. H., & Roggman, L. A. (1990). Attractive faces are only average. Psychological Science, 1, 115—121.
-
-Langlois, J. H., Roggman, L. A., Casey, R. J., Ritter, J. M., Rieser-Danner, L. A., & Jenkins, V. Y. (1987). Infant preferences for attractive faces: Rudiments of a stereotype. Developmental Psychology, 23, 363—369.
-
-Langlois, J. H., Roggman, L. A., & Reiser-Danner, L. A. (1990). Infants' differential social responses to attractive and unattractive faces. Developmental Psychology, 26, 153—159.
-
-Latané, B. (1981). The psychology of social impact. American Psychologist, 36, 343—356.
-
-Lauman, E. O., Gagnon, J. H., Michael, R. T., & Michaels, S. (1994). The social organization of sexuality: Sexual practices in the United States. Chicago: University of Chicago Press.
-
-Leach, E. (1966). Virgin birth. Proceedings of the Royal Anthropological Institute of Great Britain and Ireland, 39—49.
-
-Leakey, R., & Lewin, R. (1992). Origins reconsidered: In search of what makes us human. New York: Doubleday.
-
-Leary, M. R., & Downs, D. L. (1995). Interpersonal functions of the self-esteem motive: The self-esteem system as a sociometer. In M. H. Kernis (Ed.), Efficacy, agency, and self-esteem (pp. 123—144). New York: Plenum.
-
-Leary, M. R., Haupt, A. L., Strausser, K. S., & Chokel, J. T. (1998). Calibrating the sociometer: The relationship between interpersonal appraisals and state self-esteem. Journal of Personality and Social Psychology, 74, 1290—1299.
-
-Leary, M. R., & Shepperd, J. A. (1986). Behavioral self-handicaps versus self-reported handicaps: A conceptual note. Journal of Personality and Social Psychology, 51, 1265—1268.
-
-Le Boeuf, B. J., & Reiter, J. (1988). Lifetime reproductive success in northern elephant seals. In T. H. Glutton-Brock (Ed.), Reproductive success (pp. 344—362). Chicago: University of Chicago Press.
-
-Lee, R. B. (1979). The! Kung San: Men, women, and working in a foraging society. New York: Cambridge University Press.
-
-Lee, R., & DeVore, I. (Eds.). (1968). Man the hunter. Chicago: Aldine.
-
-Leslie, A. M. (1991). The theory of mind impairment in autism: Evidence for modular mechanisms of development? In A. Whiten (Ed.), The emergence of mind reading. Oxford: Blackwell.
-
-Levins, R. (1968). Evolution in changing environments. Princeton: University Press.
-
-Lewin, R. (1993). The origin of modem humans. New York: Scientific American Library.
-
-Lieberman, D., Tooby, J., & Cosmides, L. (in press). Does morality have a biological basis? An empirical test of the factors governing moral sentiments relating to incest. Proceedings of the Royal Society of London.
-
-Little, A. C., Penton-Voak, I. S., Burt, D. M., & Perrett, D. I. (2002). Evolution and individual differences in the perception of attractiveness: How cyclic hormonal changes and self-perceived attractiveness influence female preferences for male faces. In G. Rhodes & L. A. Zebrowitz (Eds.), Facial attractiveness: Evolutionary, cognitive, and social perspectives (pp. 59—90). Westport, CT: Ablex.
-
-Livingstone, K. (1998). The case for general mechanisms in concept formation. Behavioral and Brain Sciences, 21, 581—582.
-
-Lorenz, K. (1941). Vergleichende Bewegungsstudien an Anatiden. Journal of Ornithology, 89, 194—294.
-
-Lorenz, K. Z. (1965). Evolution and the modification of behavior. Chicago: University of Chicago Press.
-
-Low, B. S. (1989). Cross-cultural patterns in the training of children: An evolutionary perspective. Journal of Comparative Psychology, 103, 313—319.
-
-Low, B. S. (1991). Reproductive life in nineteenth century Sweden: An evolutionary perspective. Ethology and Sociobiology, 12, 411—448.
-
-Lykken, D. (1995). The antisocial personalities. Hillsdale, NJ: Erlbaum.
-
-Lynn, M., & Shurgot, B. A. (1984). Responses to lonely hearts advertisements: Effects of reported physical attractiveness, physique, and coloration. Rersonality and Social Psychology Bulletin, 10, 349—357.
-
-Maccoby, E. E. (1990). Gender and relationships: A developmental account. American Psychologist, 45, 513—520.
-
-Maccoby, E. E., & Jacklin, C. N. (1974). The psychology of sex differences. Stanford, CA: Stanford University Press.
-
-MacDonald, K. B. (Ed.). (1988). Sociobiological perspectives on human development. New York: Springer-Verlag.
-
-MacDonald, K. (1995). Evolution, the Five-Factor Model, and Levels of Personality. Journal of Personality, 63, 525—568.
-
-MacDonald, K. (1996). What do children want? A conceptualization of evolutionary influences on children's motivation in the peer group. International Journal of Behavioral Development, 19, 53—73.
-
-Mackey, W. C. Relationships between the human sex ratio and the woman's micro-environment: Four tests. Human Nature, 4, 175—198.
-
-Mackey, W. C., & Daly, R. D. (1995). A test of the man-child bond: The predictive potency of the teeter-totter effect. Genetic, Social, and General Psychology Monographs, 121, 424—444.
-
-Maggioncalda, A. N., & Sapolsky, R. M. (2002). Disturbing behaviors of the orangutan. Scientific American, 286, 60—65.
-
-Malamuth, N. M. (1981). Rape proclivity among males. Journal of Social Issues, 37, 138—157.
-
-Malamuth, N. M. (1996). The confluence model of sexual aggression: Feminist and evolutionary perspectives. In D. M. Buss & N. M. Malamuth (Eds.), Sex, power, conflict: Evolutionary and feminist perspectives (pp. 269—295). New York: Oxford University Press.
-
-Malamuth, N. M., Sockloskie, R., Koss, M., & Tanaka, J. (1991). The characteristics of aggressors against women: Testing a model using a national sample of college women. Journal of Consulting and Clinked Psychology, 59, 670—681.
-
-Malinowski, B. (1929). The sexual life of savages in North-Western Melanesia. London: Routledge.
-
-Mann, J. (1992). Nurturance or negligence: Maternal psychology and behavioral preference among preterm twins. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 367—390). New York: Oxford University Press.
-
-Man ordered to support child who isn't his. (1995, December 4). The New York Times, p. A13.
-
-Manson, J. H. (1992). Measuring female mate choice in Cayo Santiago rhesus macaques. Animal Behavior, 44, 405—416.
-
-Marks, I. (1987). Fears, phobias, and rituals: Panic, anxiety, and their disorders. New York: Oxford University Press.
-
-Marks, I. M., & Nesse, R. M. (1994). Fear and fitness: An evolutionary analysis of anxiety disorders. Ethology and Sociobiology, 15, 247—261.
-
-Marlow, F. (1999). Showoffs or providers? The parenting effort of Hadza men. Evolution and Human Behavior, 20, 391—404.
-
-Marlow, F., & Wetsman, A. (2001). Preferred waist-to-hip ratio and ecology. Personality and Individual Differences, 30, 481—489.
-
-Marr, D. (1982). Vision: A computational investigation into the human representation and processing of visual information. San Francisco: Freeman.
-
-Marth, G., Schuler, G., Yeh, R. Davenport, R., Agarwala, R., Church, D., Wheelan, S., Baker, J., Ward, M., Kholodov, M., Phan, L., Czbarka, E., Murvia, J., Cutler, D., Wooding, S., Rogers, A., Chakravarti, A., Harpending, H. C., Kwok, P. -Y., & Sherry, S. T. (2003). Sequence variations in the public human genome data reflect a bottlenecked population history. Proceedings of the National Academy of Sciences, 100, 376—381.
-
-Maslow, A. H. (1937). Dominance-feeling, behavior, and status. Psychological Review, 44, 404—429.
-
-Maynard Smith, J. (1982). Evolution and the theory of games. Cambridge, UK: Cambridge University Press.
-
-Maynard Smith, J., & Price G. (1973). The logic of animal conflict. Nature, 246, 15—18.
-
-Mayr, E. (1942). Systematics and the origin of species. New York: Columbia University Press.
-
-Mayr, E. (1982). The growth of biological thought. Cambridge, MA: Harvard University Press.
-
-Mazur, A., & Booth, A. (1998). Testosterone and dominance in men. Behavioral and Brain Science, 21, 353—363.
-
-Mazur, A., Booth, A., & Dabbs, J. (1992). Testosterone and chess competition. Social Psychology Quarterly, 55, 70—77.
-
-Nesse, R. M., & Williams, G. C. (1994). Why we get sick. New York: Times Books Random House.
-
-Neuhoff, J. G. (2001 ). An adaptive bias in the perception of looming auditory motion. Ecological Psychology, 13, 87—110.
-
-Neyer, F. J., & Lang, F. R. (2003). Blood is thicker than water: Kinship orientation across adulthood. Journal of Personality and Social Psychology, 84, 310—321.
-
-Nicholson, N. (1997). Evolutionary psychology: Toward a new view of human nature and organizational society. Human Relations, 50, 1053—1078.
-
-Nida, S. A., & Koon, J. (1983). They get better looking at closing time around here, too. Psychological Reports, 52, 657—658.
-
-Nisbett, R. E. (1993). Violence and U. S. regional culture. American Psychologist, 48, 441—449.
-
-Nisbett, R. E., & Ross, L. (1980). Human inference: Strategies and shortcomings of social judgment. Englewood Cliffe, NJ: Prentice-Hall.
-
-Nyquist, L. V., & Spence, J. T. (1986). Effects of dispositional dominance and sex role expectations on leadership behaviors. Journal of Personality and Social Psychology, 50, 97—98.
-
-O'Connor, L. E., Berry, J. W., Weiss, J., Schweitzer, D., & Sevier, M. (2000). Survivor guilt, submissive behaviour and evolutionary theory: The down-side of winning in social competition. British Journal of Medical Psychology, 73, 519—530.
-
-Oda, R. (2001). Sexually dimorphic mate preference in Japan. Human Nature y 12, 191—206.
-
-Öhman, A., Flykt, A., & Esteves, F. (2001). Emotion drives attention: Detecting the snake in the grass. Journal of Experimental Psychology: General, 130, 466—478.
-
-Olweus, D. (1978). Aggression in schools. New York: Wiley.
-
-Orians, G. (1980). Habitat selection: General theory and applications to human behavior. In J. S. Lockard (Ed.), The evolution of human social behavior (pp. 49—66). Chicago: Elsevier.
-
-Orians, G. (1986). An ecological and evolutionary approach to landscape aesthetics. In E. C. Penning-Rowsell & D. Lowenthal (Eds.), Landscape meaning and values (pp. 3—25). London: Allen & Unwin.
-
-Orians, G. H., & Heerwagen, J. H. (1992). Evolved responses to landscapes. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 555—579). New York: Oxford University Press.
-
-Ortner, S. B. (1974). Is female to male as nature is to nurture? In M. Z. Rosaldo & L. Lamphere (Eds.), Women, culture, and society (pp. 67—88). Stanford, CA: Stanford University Press.
-
-Orwell, G. (1946). Animal farm. New York: Harcourt, Brace & Company.
-
-Otta, E., Queiroz, R. da S., Campos, L. de S., da Silva, M. W. D., & Silveira, M. T. (1999). Age differences between spouses in a Brazilian marriage sample. Evolution and Human Behavior, 20, 99—103.
-
-Otterbein, K. (1979). The evolution of war. New Haven, CT: HRAF Press.
-
-Owens, L., Shute, R., & Slee, P. (2000). "I'm in and you're out..." Explanations for teenage girls' indirect aggression. Psychology, Evolution, and Gender, 2, 19—46.
-
-Packer, C. (1977). Reciprocal altruism in Papio anubis. Nature, 265, 441—443.
-
-Padilla, F. M. (1992). The gang as an American enterprise. New Brunswick, NJ: Rutgers University Press.
-
-Palmer, C. T., & Tilley, C. F. (1995). Sexual access to females as a motivation for joining gangs: An evolutionary approach. The Journal of Sex Research, 32, 213—217.
-
-Parker, G. A. (1974). Assessment strategy and the evolution of fighting behaviour. Journal of Theoretical Biology, 47, 223—243.
-
-Parker, G. A., Royle, N. J., & Hartley, I. R. (2002). Intrafamilial conflict and parental investment: A synthesis. Philosophical Transactions of the Royal Society of London B, 357, 295—307.
-
-Pashos, A. ( 2000 ). Does paternal uncertainty explain discriminative grandparental solicitude? A cross-cultural study in Greece and Germany. Evolution and Human Behavior, 21, 97—109.
-
-Paton, W., & Mannison, M. (1995). Sexual coercion in high school dating. Sex Roles, 33, 447—457.
-
-Patton, J. Q. (1997, June). Are warriors altruistic? Reciprocal altruism and war in the Ecuadorian Amazon. Paper presented at the Human Behavior and Evolution Society Meetings, University of Arizona, Tucson, AZ.
-
-Patton, J. Q. (2000). Reciprocal altruism and warfare: A case from the Ecuadorian Amazon. In L. Cronk, N. A. Chagnon, & W. Irons (Eds.), Adaptation and human behavior: An anthropological perspective (pp. 417—436). New York: Aldine de Gruyter.
-
-Pavlov, I. P. (1927). Conditioned reflexes, trans. G. V. Anrep. London: Oxford University Press.
-
-Pawlowski, B., & Dunbar, R. I. M. (1999a). Impact of market value on human mate choice decisions. Proceedings of the Royal Society of London B, 266, 281—285.
-
-Pawlowski, B., & Dunbar, R. I. M. (1999b). Withholding age as putative deception in mate search tactics. Evolution and Human Behavior, 20, 53—69.
-
-Mazur, A., Halpern, C., & Udry, J. R. (1994). Dominant looking male teenagers copulate earlier. Ethology and Sociobiology, 15, 87—94.
-
-Me Andrew, F. T. (2002). New evolutionary perspectives on altrusim: Multulevel-selection and costly-signaling theories. Current Directions in Psychological Science, 11, 79—82.
-
-McCracken, G. F. (1984). Communal nursing in Mexican free-tailed bat maternity colonies. Science, 223, 1090—1091.
-
-McCullough, J. M., & York Barton, E. (1990). Relatedness and mortality risk during a crisis year: Plymouth colony, 1620—1621. Ethology and Sociobiology, 12, 195—209.
-
-McGraw, K. J. (2002). Environmental predictors of geographic variation in human mating preferences. Ethology, 108, 303—317.
-
-McGuire, A. M. (1994). Helping behaviors in the natural environment: Dimensions and corelates of helping. Personality and Social Psychology Bulletin, 20, 45—56.
-
-McGuire, M. T., & Troisi, A. (1998). Darwinian psychiatry. New York: Oxford University Press.
-
-Mcknight, J. (1997). Straight science: Homosexuality, evolution and adaptation. New York: Routledge.
-
-McLain, D. K., Setters, D., Moulton, M. P., & Pratt, A. E. (2000). Ascription of resemblance of newborns by parents of nonrelatives. Evolution and Human Behavior, 21, 11—23.
-
-Mealey, L. (1995). The sociobiology of sociopathy: An integrated evolutionary model. Behavioral and Brain Sciences, 18, 523—599.
-
-Mealey, L., Daood, C., & Krage, M. (1996). Enhanced memory for faces of cheaters. Ethology and Sociobiology, 17, 119—128.
-
-Megaigee, E. I. (1969). Influence of sex roles on the manifestation of leadership. Journal of Applied Psychology, 53, 377—382.
-
-Mesquida, C. G., & Wiener, N. I. (1996). Human collective aggression: A behavioral ecology perspective. Ethology and Sociobiology, 17, 247—262.
-
-Mikach, S. M., & Bailey, J. M. (1999). What distinguishes women with unusually high numbers of sex partners? Evolution and Human Behavior, 20, 141—150.
-
-Milgram, S. (1974). Obedience to authority. New York: Harper & Row.
-
-Miller, G. (1991). Personal communication.
-
-Miller, G. F. (1998). How mate choice shaped human nature: A review of sexual selection and human evolution. In C. Crawford & D. Krebs (Eds.), Handbook of Evolutionary Psychology (pp. 87—129). Mahwah, NJ: Erlbaum.
-
-Miller, G. F. (in press). Sexual selection for cultural displays. In R. Dunbar, C. Knight, & C. Power (Eds.), Evolution of culture. Edinburgh: Edinburgh University Press.
-
-Miller, G. (2000). The mating mind. New York: Doubleday.
-
-Miller, L. C., & Fishkin, S. A. (1997). On the dynamics of human bonding and reproductive success: Seeking "windows" on the "adapted for" human environmental interface. In J. A. Simpson & D. T. Kenrick (Eds.), Evolutionary social psychology (pp. 197—235). Mahwah, NJ: Erlbaum.
-
-Miller, W. B. (1980). Gangs, groups and serious youth crime. In D. Shichor & D. H. Kelly (Eds.), Critical issues in juvenile delinquency (pp. 115—138). Lexington, MA: Lexington Books.
-
-Milton, K. (1999). A hypothesis to explain the role of meateating in human evolution. Evolutionary Anthropology, 8, 1—21.
-
-Mineka, S. (1992). Evolutionary memories, emotional processing, and the emotional disorders. The Psychology of Learning and Motivation, 28, 161—206.
-
-Mithen, S. (1996). The prehistory of the mind. London: Thames & Hudson.
-
-Morse, S. T., Gruzen, J., & Reis, H. (1976). The "eye of the beholder": A neglected variable in the study of physical attractiveness. Journal of Personality, 44, 209—225.
-
-Muehlenhard, C. L., & Linton, M. A. (1987). Date rape and sexual aggression in dating situations: Incidence and risk factors. Journal of Counseling Psychology, 2, 186—196.
-
-Mueller, U., & Mazur, A. (1996). Facial dominance of West Point cadets as a predictor of later military rank. Social Forces, 74, 823—850.
-
-Mulvihill, D. J., Tumin, M. M., & Curtis, L. A. (1969). Crimes of violence (Vol 11). Washington, DC: U. S. Government Printing Office.
-
-Muscarella, F. (2000). The evolution of homoerotic behavior in humans. Journal of Homosexuality, 40, 51—77.
-
-Nesse, R. M. (1990). Evolutionary explanations of emotions. Human Nature, 1, 261—289.
-
-Nesse, R. M. (1991. November/December). What good is feeling bad?: The evolutionary benefits of psychic pain. The Sciences, 30—37.
-
-Nesse, R. M. (2000). Is depression an adaptation? Archives of General Psychiatry, 57, 14—20.
-
-Rosenblatt, P. C. (1974). Cross-cultural perspectives on attractiveness. In T. L. Huston (Ed.), Foundations of interpersonal attraction (pp. 79—95). New York: Academic Press.
-
-Røskaft, E., Wara, A., & Viken, A. (1992). Reproductive success in relation to resource-access and parental age in a small Norwegian farming parish during the period 1700—1900. Ethology and Sociobiology, 13, 443—461.
-
-Ross, L. (1981). The "intuitive scientist" formulation and its developmental implications. In J. H. Flavell & L. Ross (Eds.), Social cognitive development (pp. 1—41). Cambridge, UK: Cambridge University Press.
-
-Rotundo, M., Nguyen, D. -H., & Sackett, P. R. (2001). A meta-analytic review of gender differences in perceptions of harassment. Journal of Applied Psychology, 86, 914—922.
-
-Rowe, D. C. (1995). Evolution, mating effort, and crime. Behavioral and Brain Sciences, 18, 573—574.
-
-Rozin, P. (1976). The selection of food by rats, humans and other animals. In J. Rosenblatt, R. A. Hinde, & E. Shaw (Eds.), Advances in the study of behavior: Vol 6 (pp. 21—76). New York: Academic Press.
-
-Rozin, P. (1996). Towards a psychology of food and eating: From motivation to module to model to marker, morality, meaning and metaphor. Current Directions in Psychological Science, 5, 18—24.
-
-Rozin, P. (2000). Evolution and adaptation in the understanding of behavior, culture, and mind. American Behavioral Scientist, 43, 970—986.
-
-Rozin, P., & Fallon, A. (1988). Body image, attitudes to weight, and misperceptions of figure preferences of the opposite sex: A comparison of men and women in two generations. Journal of Abnormal Psychology, 97, 342—345.
-
-Rozin, P., & Schull, J. (1988). The adaptive-evolutionary point of view in experimental Psychology. In R. C. Atkinson, R. J. Herrnstein, G. Lindzey, & R. D. Luce (Eds.), Stevens' handbook of experimental Psychology: Vol. 1. Perception and motivation (2nd ed., pp. 503—546). New York: Wiley.
-
-Rubin, P. H. (2000). Hierarchy. Human Nature, 11, 259—279.
-
-Saad, G., & Gill, T. (2001). Sex differences in the ultimatum game: An evolutionary Psychological perspective. Journal of Bioeconomics, 3, 171—194.
-
-Saal, F. E., Johnson, C. B., & Weber, N. (1989). Friendly or sexy? It may depend on whom you ask. Psychology of Women Quarterly, 13, 263—276.
-
-Safilios-Rothschild, C. (1969). Attitudes of Greek spouses toward marital infidelity. In G. Neubeck (Ed.), Extramarital relations (pp. 78—79). Englewood Cliffs, NJ: Prentice-Hall.
-
-Sagarin, B. J., Becker, D. V., Guadagno, R. E., Nicastle, L. D., & Millevoi, A. (in press). Sex differences (and similarities) in jealousy: The moderating influence of infidelity experience and sexual orientation. Evolution and Human Behavior.
-
-Salmon, C. A. (1999). On the impact of sex and birth order on contact with kin. Human Nature, 10, 183—197.
-
-Salmon, C., & Daly, M. (1996). On the importance of kin relations to Canadian women and men. Ethology and Sociobiology, 17, 289—297.
-
-Salmon, C. A., & Daly, M. (1998). Birth order and familial sentiment: Middleborns are different. Evolution and Human Behavior, 19, 299—312.
-
-Salovey, P., & Rodin, J. (1984). Some antecedents and consequences of social-comparison jealousy. Journal of Personality and Social Psychology, 47, 780—792.
-
-Scarr, S., & Salapatek, P. (1970). Patterns of fear development during infancy. Merrill-Palmer Quarterly, 16, 53—90.
-
-Schapera, I. (1940). Married life in an African tribe. London: Faber & Faber.
-
-Scheib, J. E. (1997, June). Context-specific mate choice criteria: Women's trade-offs in the contexts of long-term and extra-pair mateships. Paper presented to the Annual Meeting of the Human Behavior and Evolution Society, University of Arizona, Tucson, AZ.
-
-Schlager, D. (1995). Evolutionary perspectives on paranoid disorder. The Psychiatric Clinics of North America, 18, 263—279.
-
-Schmitt, A., & Atzwanger, K. (1995). Walking fast—ranking high: A sociobiological perspective on pace. Evolution and Human Behavior, 16, 451—462.
-
-Schmitt, D. P. (2001). Desire for sexual variety and mate poaching experiences across multiple languages and cultures. Paper presented to the Annual Meeting of the Human Behavior and Evolution Society, London, June.
-
-Schmitt, D. P., & Buss, D. M. (1996). Strategic self-promotion and competitor derogation: Sex and context effects on perceived effectiveness of mate attraction tactics. Journal of Personality and Social Psychology, 70, 1185—1204.
-
-Schmitt, D. P., Couden, A., & Baker, M. (2001). The effects of sex and temporal context on feelings of romantic desire: An experimental evaluation of sexual strategies theory. Personality and Social Psychology Bulletin, 27, 833—847.
-
-Schmitt, D. P., Shackelford, T. K., & Buss, D. M. (2001). Are men really more "oriented" toward short-term
-
-Pawlowski, B., & Koziel, S. (2002). The impact of trails offered in personal advertisements on response rates. Evolution and Human Behavior, 23, 139—149.
-
-Pawson, E., & Banks, G. (1993). Rape and fear in a New Zealand city. Area, 25, 55—63.
-
-Pedersen, F. A. (1991). Secular trends in human sex ratios: Their influence on individual and family behavior. Human Nature, 2, 271—291.
-
-Pennebaker, J. W., Dyer, M. A., Caulkins, R. S., Litowixz, D. L., Ackerman, P. L., & Anderson, D. B. (1979). Don't the girls get prettier at closing time: A country and western application to psychology. Personality and Social Psychology Bulletin, 5, 122—125.
-
-Penton-Voak, I. S., & Perrett, D. I. (2000). Female preference for male faces changes cyclically: Further evidence. Evolution and Human Behavior, 21, 39—48.
-
-Perrett, D. I., May, K. A., & Yoshikawa, S. (1994). Facial shape and judgments of female attractiveness. Nature, 368, 239—242.
-
-Perusse, D. (1993). Cultural and reproductive success in industrial societies: Testing the relationship at proximate and ultimate levels. Behavioral and Brain Sciences, 16, 267—322.
-
-Piddocke, S. (1965). The potlatch system of the southern Kwakiutl: A new perspective. Southwestern Journal of Anthropology, 21, 244—264.
-
-Pietrzak, R., Laird, J. D., Stevens, D. A., & Thompson, N. S. (2002). Sex differences in human jealousy: A coordinated study of forced-choice, continuous rating-scale, and Physiological responses on the same subjects. Evolution and Human Behavior y 23, 83—94.
-
-Pike, I. L. (200). The nutritional consequences of pregnancy sickness: A critique of a hypothesis. Human Nature, 11, 207—232.
-
-Pinker, S. (1994). The language instinct. New York: Morrow.
-
-Pinker, S. (1997). How the mind works. New York: Norton.
-
-Pinker, S. (2002). The blank slate: The modern denial of human nature. New York: Viking.
-
-Pinker, S., & Bloom, P. (1990). Natural language and natural selection. Behavioral and Brain Sciences, 13, 707—784.
-
-Platek, S. M., Burch, R. L., Panyavin, I. S., Wasserman, B. H., & Gallup, G. G., Jr. (2002). Reactions to children's faces: Resemblance affects males more than females. Evolution and Human Behavior, 23, 159—166.
-
-Platts, J. T. (1960). A dictionary of Urdu, Classical Hindi, and English. Oxford: Oxford University Press.
-
-Plomin, R., DeFries, J. C., & McClearn, G. E. (1990). Behavioral genetics: A primer (2nd ed.). New York: Freeman.
-
-Plomin, R., DeFries, J. C., & McClearn, G. E. (1997). Behavioral genetics: A primer (3rd ed.). New York: Freeman.
-
-Posner, R. A. (1992). Sex and reason. Cambridge, MA: Harvard University press.
-
-Pratto, F. (1996). Sexual politics: The gender gap in the bedroom, the cupboard, and the cabinet. In D. M. Buss & N. M. Malamuth (Eds.), Sex, power, conflict: Evolutionary and feminist perspectives (pp. 179—230). New York: Oxford University Press.
-
-Pratto, F., Sidanius, J., & Stallworth, L. M. (1993). Sexual selection and the sexual and ethnic basis of social hierarchy. In L. Ellis (Ed.), Social stratification and socioeconomic inequality (pp. 111—137). Westport, CT: Praeger.
-
-Price, M. E., Cosmides, L., & Tooby, J. (2002). Punitive sentiment as an anti-free rider Psychological device. Evolution and Human Behavior, 23, 203—231.
-
-Price, J. S., & Sloman, L. (1987). Depression as yielding behavior: An animal model based on Schjelderup-Ebb's pecking order. Ethology and Sociobiology, 8, 85—98.
-
-Profet, M.(1992). Pregnancy sickness as adaptation：A deterrent to maternal ingerstion of teratogens. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 327—366). New York: Oxford University Press.
-
-Quinsey, V. L., & Lalumiere, M. L. (1995). Evolutionary perspectives on sexual offending. Sexual Abuse: A Journal of Research and Treatment, 7, 301—315.
-
-Ramson, W. S. (1988). Australian national dictionary. Melbourne: Oxford University Press.
-
-Redford, D. (1984). Akhenaten: The heretic king. Princeton, NJ: Princeton University Press.
-
-Regalski, J. M., & Gualin, S. J. C. (1993). Whom are Mexican infants said to resemble? Monitoring and fostering paternal confidence in the Yucatan. Ethology and Sociobiology, 14, 97—113.
-
-Regan, P. C. (1998). Minimum mate selection standards as a function of perceived mate value, relationship context, and gender. Journal of Psychology and Human Sexuality, 10, 53—73.
-
-Relethford, J. H. (1998). Genetics of modem human origins and diversity. Annual Review of Anthropology, 27, 1—23.
-
-Ridley, M. (1996). Evolution (2nd ed.). Cambridge, MA: Blackwell Science.
-
-Rikowski, A., & Grammer, K. (1999). Human body odor, symmetry, and attractiveness. Proceedings of the Royal Society of London B, 266, 869—874.
-
-Singh, D., Vidaurri, M., Zambarano, R. J., & Dabbs, J. M. (1999). Lesbian erotic role identification: Behavioral, morphological, and hormonal correlates, Journal of Personality and Social Psychology, 76, 1035—1049.
-
-Singh, D., & Young, R. K. (1995). Body weight, waist- to-hip ratio, breasts, and hips: Role in judgments of female attractiveness and desirability for relationships. Ethology and Sociobiology, 16, 483—507.
-
-Sloman, L., & Gilbert, P. (Eds.) (2000). Subordination and defeat: An evolutionary approach to mood disorders and their therapy. Mahwah, NJ: Erlbaum.
-
-Small, M. (1992). The evolution of female sexuality and mate selection in humans. Human Nature, 3, 133—156.
-
-Smith, M. S., Kish, B. J., & Crawford, C. B. (1987). Inheritance of wealth as human kin investment. Ethology and Sociobiology, 8, 171—182.
-
-Smith, P. K. (1979). The ontogeny of fear in children. In W. Sluckin (Ed.), Fear in animals and man (pp. 164— 168). London: Van Nostrand.
-
-Smith, R. L. (1984). Human sperm competition. In R. L. Smith (Ed.), Sperm competition and the evolution of mating systems (pp. 601—659). New York: Academic Press.
-
-Smuts, B. B. (1985). Sex and friendship in baboons. New York: Aldine de Gruyter.
-
-Smuts, B. B. (1992). Men's aggression against women. Human Nature, 6, 1—32.
-
-Smuts, B. B. (1995). The evolutionary origins of patriarchy. Human Nature, 6, 1—32.
-
-Smuts, B. B., & Gubemick, D. J. (1992). Male-infant relationships in nonhuman primates: Paternal investment or mating effort? In B. S. Hewlett (Ed.), Father-child relations: Cultural and bio-social contexts (pp. 1—30). Hawthorne, NY: Aldine de Gruyter.
-
-Sober, E., & Wilson, D. S. (1998). Unto others: The evolution and Psychology of unselfish behavior. Cambridge, MA: Harvard University Press.
-
-Sprecher, S., Aron, A., Hatfield, E., Cortese, A., Potapova, E., & Levitskaya, A. (1994). Love: American style, Russian style, and Japanese style. Personal Relationships, 1, 349—369.
-
-Stanislaw, H., & Rice, F. J. (1988). Correlation between sexual desire and menstrual cycle characteristics. Archives of Sexual Behavior, 17, 499—508.
-
-Steams, S. (1992). The evolution of life histories. New York: Oxford University Press.
-
-Sternberg, R. (1986). A triangular theory of love. Psychological Review, 93, 119—135.
-
-Stevens, A., & Price, J. (1996). Evolutionary Psychiatry. London: Routledge.
-
-Stone, V. E., Cosmides, L., Tooby, J., Kroll, N., & Knight, R. T. (2002). Selective impairment of reasoning about social exchange in a patient with bilateral limbic system damage. Proceedings of the National Academy of Sciences, 99, 11531—11536.
-
-Strait, D. S., Grine, F. E., & Moniz, M. A. (1997). A reappraisal of early hominid phylogeny. Journal of Human Evolution, 32, 17—82.
-
-Strassman, B. I. (1981). Sexual selection, parental care, and concealed ovulation in humans. Ethology and Sociobiology, 2, 31—40.
-
-Stringer, C. (2002). The evolution of modem Humans: Where are we now? London: The Natural History Museum.
-
-Stringer, C., & McKie, R. (1996). African exodus: The origins of modem humanity. New York: Henry Holt.
-
-Strum, S. C. (1981). Processes and products of change: Baboon predatory behavior at Gilgil, Kenya. In R. Harding & G. Teleki (Eds.), Omnivorous primates (pp. 255—302). New York: Columbia University Press.
-
-Studd, M. V., & Gattiker, U. E. (1991). The evolutionary psychology of sexual harassment in organizations. Ethology and Sociobiology, 12, 249—290.
-
-Sugiyama, M. S. (1996). On the origins of narrative: Storyteller bias as a fitness-enhancing strategy. Human Nature, 7, 403—425.
-
-Sugiyama, L. S., Tooby, J., & Cosmides, L. (2002). Crosscultural evidence of cognitive adaptations for social exchange among the Shiwiar of Equadorian Amazonia. Proceedings of the National Academy of Sciences, 99, 11537—11542.
-
-Sulloway, F. (1979). Freud: Biologist of the mind. New York: Basic Books.
-
-Sulloway, F. (1996). Born to rebel. New York: Pantheon.
-
-Surbey, M. K. (1998). Developmental psychology and modern Darwinism. In C. Crawford & D. Krebs (Eds.), Handbook of evolutionary psychology (pp. 369—403). Mahwah, NJ: Erlbaum.
-
-Surbey, M. K. (1998). Parent and offspring strategies in the transition at adolescence. Human Nature, 9, 67—94.
-
-Surbey, M. K., & Conohan, C. D. (2000). Willingness to engage in casual sex: The role of parental qualities and perceived risk of aggression. Human Nature, 11, 367—386.
-
-Symons, D. (1979). The evolution of human sexuality. New York: Oxford.
-
-Symons, D. (1987). If we're all Darwinians, what's the fuss about. In C. Crawford, D. Krebs, & M. Smith (Eds.), Sociobiology and psychology (pp. 121—145). Hillsdale, NJ: Erlbaum. mating than women? Psychology, Evolution, & Gender, 3, 211—239.
-
-Scott, P. D. (1973). Fatal battered baby cases. Medicine, Science, and the Law, 13, 120—126.
-
-Segal, N. L., Wilson, S. M., Bouchard, T. J., & Gitlin, D. G. (1995). Comparative grief experiences of bereaved twins and other bereaved relatives. Personality and Individual Differences, 18, 511—524.
-
-Segal, N. L., Weisfeld, G. E., & Weisfeld, C. C. (1997). Uniting psychology and biology: Integrative perspectives on human development. Washington, DC: American Psychological Association.
-
-Seligman, M., & Hager, J. (1972). Biological boundaries of learning. New York: Appleton-Century-Crofts.
-
-Seyfarth, R. M., & Cheney, D. L. (1984). Grooming, alliances and reciprocal altruism in vervet monkeys. Nature, 308, 541—543.
-
-Shackelford, T. K., & Buss, D. M. (1996). Betrayal in mateships, friendships, and coalitions. Personality and Social Psychology Bulletin, 22, 1151—1164.
-
-Shackelford, T. K., Buss, D. M., & Bennett, K. (2002). Forgiveness or breakup: Sex differences in responses to a partner's infidelity. Cognition and Emotion, 16, 299—307.
-
-Shackelford, T. K., Buss, D. M., & Peters, J. (2000). Wife killing: Risk to women as a function of age. Violence and Victims, 15, 273—282.
-
-Shackelford, T. K., Buss, D. M., & Weeks-Shackelford, V. (2003). Wife-killings committed in the context of a "lovers triangle." Journal of Basic and Applied Social Psychology, 25, 137—143.
-
-Shackelford, T. K., & Larsen, R. J. (1997). Facial asymmetry as indicator of psychological, emotional, and physiological distress. Journal of Personality and Social Psychology, 72, 456—466.
-
-Sheets, V. L., Fredendall, L. L., & Claypool, H. M. (1997). Jealousy evocation, partner reassurance, and relationship stability: An exploration of potential benefits of jealousy. Evolution and Human Behavior, 18, 387—402.
-
-Shepard, R. N. (1992). The perceptual organization of colors: An adaptation to regularities of the terrestrial world? In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 495—532). New York: Oxford University Press.
-
-Sherman, P. W. (1997). Nepotism and the evolution of alarm calls. Science, 197, 1246—1253.
-
-Sherman, P. W. (1981). Kinship, demography and Belding's ground squirrel nepotism. Behavioral Ecology and Sociobiology, 8, 251—259.
-
-Sherman, P. W., & Flaxman, S. M. (2001). Protecting ourselves from food. American Scientist, 89, 142—151.
-
-Sherman, P. W., & Hash, G. A. (2001). Why vegetable recipes are not very spicy. Evolution and Human Behavior, 22, 147—164.
-
-Shipman, P. (1985). The ancestor that wasn't. The Sciences, 25, 43—48.
-
-Short, R. V. (1979). Sexual selection and its component parts, somatic and genital selection, as illustrated by man and great apes. Advances in the Study of Behavior, 9, 131—158.
-
-Shostak, M. (1981). Nisa: The life and words of a! Kung woman. Cambridge, MA: Harvard University Press.
-
-Sigall, H., & Landy, D. (1973). Radiating beauty: The effects of having a physically attractive partner on person perception. Journal of Personality and Social Psychology, 28, 218—224.
-
-Silverman, I., Choi, J., Mackewn, A., Fisher, M., Moro, J., & Olshansky, E. (2000). Evolved mechanisms underlying wayfinding: Further studies on the huntergatherer theory of spatial sex differences. Evolution and Human Behavior, 21, 201—213.
-
-Silverman, I., & Eals, M. (1992). Sex differences in spatial abilities: Evolutionary theory and data. In J. H. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 533—549). New York: Oxford University Press.
-
-Silverman, I., & Phillips, K. (1998). The evolutionary psychology of spatial sex differences. In C. Crawford & D. L. Krebs (Eds.), Handbook of evolutionary psychology (pp. 595—612). Mahwah, NJ: Erlbaum.
-
-Simpson, G. G. (1944). Tempo and mode in evolution. New York: Columbia University Press.
-
-Simpson, J. A. (in press). Attachment theory in a modern evolutionary perspective. In J. Cassidy & P. R. Shaver (Eds.) Handbook of attachment theory and research. New York: Guliford.
-
-Simpson, J. A., & Kenrick, D. T. (1997). Evolutionary social psychology. Mahwah, NJ: Erlbaum.
-
-Simpson, J. A., & Weiner, W. S. C. (1989). The Oxford English Dictionary (Second ed.). Oxford: Clarendon Press.
-
-Singh, D., (1993). Adaptive significance of waist-to-hip ratio and female physical attactiveness. Journal of Personality and Social Psychology, 65, 293—307.
-
-Singh, D., (2000). Waist-to-hip ratio: An indicator of female mate value. International Research Center for Japanese Studies, International Symposium 16, pp. 79—99.
-
-Singh, D., & Luis, S. (1995). Ethnic and gender consensus for the effect of waist-to-hip ratio on judgments of women's attractiveness. Human Nature, 6, 51—65.
-
-Todd, P. M. (2000). The ecological rationality of mechanisms evolved to make up minds. American Behavioral Scientist, 43, 940—956.
-
-Tomarken, A. J., Mineka, S., & Cook, M. (1989). Fearrelevant selective associations and covariation bias. Journal of Abnormal Psychology, 98, 381—394.
-
-Tooby, J., & Cosmides, L. (1988). The evolution of war and its cognitive foundations. Institute for Evolutionary Studies, Technical Report #88—1.
-
-Tooby, J., & Cosmides, L. (1990). On the universality of human nature and the uniqueness of the individual: The role of genetics and adaptation. Journal of Personality, 58, 17—68.
-
-Tooby, J., & Cosmides, L. (1992). Psychological foundations of culture. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind (pp. 19—136). New York: Oxford University Press.
-
-Tooby, J., & Cosmides, L. (1996). Friendship and the banker's paradox: Other pathways to the evolution of adaptations for altruism. Proceedings of the British Academy, 88, 119—143.
-
-Tooby, J., & Cosmides, L. (1998). Ecological rationality and the multimodidar mind: Grounding normative theories in adaptive problems. Unpublished manuscript, University of California, Santa Barbara, CA.
-
-Tooby, J., & DeVore, I. (1987). The reconstruction of hominid behavioral evolution through strategic modeling. In W. G. Kinzey (Ed.), The evolution of human behavior (pp. 183—237). New York: State University of New York Press.
-
-Tooke, W., & Camire, L. (1991). Patterns of deception in intersexual and intrasexual mating strategies. Ethology and Sociobiology, 12, 345—364.
-
-Townsend, J. M. (1989). Mate selection criteria: A pilot study. Ethology and Sociobiology, 10, 241—253.
-
-Townsend, J. M. (1995). Sex without emotional involvement; An evolutionary interpretation of sex differences. Archives of Sexual Behavior, 24, 173—206.
-
-Townsend, J. M. (1998). What women want—whtat men want: Why the sexes still see love and commitments so differently. New York: Oxford University Press.
-
-Townsend, J. M., & Levy, G. D. (1990). Effects of potential partners' physical attractiveness and socioeconomic status on sexuality and partner selection. Archives of Sexual Behavior, 19, 149—164.
-
-Townsend, J. M., & Wasserman, T. (1998). Sexual attractiveness: Sex differences in assessment criteria. Evolution and Human Behavior, 19, 171—191.
-
-Trinkaus, E., & Zimmerman, M. R. (1982). Trauma among the Shanidar Neandertals. American Journal of Physical Anthropology, 57, 61—76.
-
-Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly Review of Biology, 46, 35—57.
-
-Trivers, R. L. (1972). Parental investment and sexual selection. In B. Campbell (Ed.), Sexual selection and the descent of man: 1871—1971 (pp. 136—179) 421. Chicago: Aldine.
-
-Trivers, R. (1974). Parent-offspring conflict. American Zoologist, 14, 249—264.
-
-Trivers, R. (1985). Social evolution. Menlo Park, CA: Benjamin/Cummings.
-
-Trivers, R. L., & Willard, D. E. (1973). Natural selection of parental ability to vary the sex ratio of offspring. Science, 179, 90—92.
-
-Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185, 1124—1131.
-
-Udry, J. R., & Eckland, B. K. (1984). Benefits of being attractive: Differential payoffs for men and women. Psychological Reports, 54, 47—56.
-
-Ulrich, R. (1983). Aesthetic and affective response to natural environment. In I. Altman & J. F. Wohlwill (Eds.), Behavior and the natural environment (pp. 85—125). New York: Plenum.
-
-Ulrich, R. (1984). View through a window may influence recovery from surgery. Science, 224, 420—421.
-
-Ulrich, R. (1986). Human response to vegetation and landscapes. Landscape and Urban Planning, 13, 29—44.
-
-U. S. Bureau of the Census (1978). 1976 survey of institutionalized persons: A study of persons receiving longterm care. Current population reports. (Special Studies Series P-23, No. 69.) Washington, DC: U. S. Government Printing Office.
-
-van den Berghe, P. L., & Frost, P. (1986). Skin color preference, Sexual dimorphism and sexual selection: A case of gene culture coevolution. Ethnic and Racial Studies, 9, 87—113.
-
-van der Dennen, J. M. G. (1995). The origin of war (Vols. 1 & 2). Groningen, The Netherlands: Origin Press.
-
-van Gulik, R. H. (1974). Sexual life in ancient China. London; E. J. Brill.
-
-Vayda, A. P. (1961). A re-examination of Northwest Coast economic systems. Transactions of the New York Academy of Sciences, (Series 2), 23, 618—624.
-
-Voland, E. (1984). Human sex ratio manipulation: Historical data from a German parish. Journal of Human Evolution, 13, 99—77.
-
-Symons, D. (1989). The psychology of human mate preferences. Behavioral and Brain Sciences, 12, 34—35.
-
-Symons, D. (1992). On the use and misuse of Darwinism in the study of human behavior. In J. Barkow, L. Cosmides, & J. Tooby (Eds.) The adapted mind (pp. 137—159). New York: Oxford University Press.
-
-Symons, D. (1993). How risky is sex? The Journal of Sex Research, 30, 344—346.
-
-Symons, D. (1995). Beauty is in the adaptations of the beholder: The evolutionary psychology of human female sexual attractiveness. In P. R. Abramson & S. D. Pinkerton (Eds.), Sexual nature, sexual culture (pp. 80—118). Chicago: University of Chicago Press.
-
-Tanner, N. M. (1983). Hunters, gatherers, and sex roles in space and time. American Anthropologist, 85, 335—341.
-
-Tanner, N. M., & Zihlman, A. (1976). Women in evolution part 1: Innovation and selection in human origins. Signs: Women, Culture, and Society, 1, 585—608.
-
-Tattersall, I. (2000). Paleoanthropology: The last half-century. Evolutionary Anthropology, 9, 2—16.
-
-Taylor, P. A., & Glenn, N. D. (1976). The utility of education and attractiveness for females' status attainment through marriage. American Sociological Review, 41, 484—498.
-
-Taylor, S. E., Klein, L. C., Lewis, B. P., Gruenewald, T. L., Gurung, R. A. R., & Updegraff, J. A. (2000). Biobehavioral responses to stress in females: Tend-and-befriend, not fight-or-flight. Psychological Review, 107, 411—429.
-
-Teisman, M. W., & Moser, D. L. (1978). Jealous conflict in dating couples. Psychological Reports, 42, 1211—1216.
-
-Terpstra, D. E., & Cook, S. E. (1985). Complainant characteristics and reported behaviors and consequences associated with formal sexual harassment charges. Personnel Psychology, 38, 559—574.
-
-Thakerar, J. N., & Iwawaki, S. (1979). Cross-cultural comparisons in interpersonal attraction of females toward males, Journal of Social Psychology, 108, 121—122.
-
-Thiessen. D. D. (1972). A move toward species-specific analysis in behavior genetics. Behavior Genetics, 2, 115—126.
-
-Thiessen. D. D., Young, R. K., & Burroughs, R. (1993). Lonely hearts advertisements reflect sexually dimorphic mating strategies. Ethology and Sociobiology, 14, 209—229.
-
-Thompson, A. P. (1983). Extramarital sex: A review of the research literature. Journal of Sex Research, 19, 1—22.
-
-Thompson, S. (1955). Motif-index of folk-literature. Vols. 1—6. Bloomington, IN: Indiana University Press.
-
-Thornhill, N. (1992). Human inbreeding (Research Report No. 10/92). Bielefeld, Germany: Research Group on Biological Foundations of Human Culture, Genter for Interdisciplinary Research, University of Bielefeld.
-
-Thornhill, N. (1996). Psychological adaptation to sexual coercion in victims and offenders. In D. M. Buss & N. M. Malamuth (Eds.), Sex, power, conflict: Evolutionary and feminist perspectives (pp. 90—104). New York: Oxford University Press.
-
-Thornhill, R. (1980). Rape in Panorpa scorpionflies and a general rape hypothesis. Animal Behavior, 28, 52—59.
-
-Thornhill, R. (1997). The concept of an evolved adaptation. In G. R. Bock & G. Cardew (Eds.), Characterizing human psychological adaptations (pp. 4—22). Chichester, England: Wiley.
-
-Thornhill, R., & Gangestad, S. W. (1999). The scent of symmetry: A human sex pheromone that signals fitness? Evolution & Human Behavior, 20, 175—201.
-
-Thornhill, R., & M0eller, A. P. (1997). Developmental stability, disease, and medicine. Biological Review, 72, 497—548.
-
-Thornhill, R., & Palmer, C. (2000). A natural history of rape: Biological bases of sexual coercion. Cambridge, MA: MIT Press.
-
-Thornhill, R., & Thornhill, N. (1983). Human rape: An evolutionary perspective. Ethology and Sociobiology, 4, 137—173.
-
-Thornhill, R., & Thornhill, N. (1992). The evolutionary psychology of men's coercive sexuality. Behavioral and Brain Sciences, 15, 363—421.
-
-Thornhill, R. Thornhill, N., & Dizinno, G. (1986). The biology of rape. In S, Tomaselli & R. Porter (Eds.), Rape. London: Basic Blackwell.
-
-Tierson, F. D., Olsen, C. L., & Hook, E. B. (1985). Influence of cravings and aversions on diet in pregnancy. Ecology of Food and Nutrition, 17, 117—129.
-
-Tierson, F. D., Olsen, C. L., & Hook, E. B. (1986). Nausea and vomiting of pregnancy and association with pregnancy outcome. American Journal of Obstetrics and Gynecology, 155, 1017—1022.
-
-Tiger, L. (1996). My life in the human nature wars. The Wilson Quarterly, 20, 14—25.
-
-Tiger, L., & Fox, R. (1971). The imperial animal. New York: Holt, Rinehart, & Winston.
-
-Tinbergen, N. (1951). The study of instinct. New York: Oxford University Press.
-
-Tinbergen, N. (1963). The shell menace. Natural History, 72, 28—35.
-
-Voland, E., & Engel, C. (1990). Female choice in humans: A conditional mate selection strategy of the Krummerhörn women (Germany 1720—1874). Ethology, 84, 144—154.
-
-Wade, N. (1997, June 24). Dainty worm tells secrets on the human genetic code. New York Times, p. B9.
-
-Wakefield, J. C. (1992). The concept of mental disorder: On the boundary between biological facts and social values. American Psychologist, 47, 373—388.
-
-Walker, P. (1995). Documenting patterns of violence in earlier societies: The problems and promise of using bioarchaeological data for testing evolutionary theories. Paper presented at the Annual Conference of the Human Behavior and Evolution Society, Santa Barbara, CA: July 2.
-
-Wallace, A. R. (1858). On the tendency of varieties to depart indefinitely from the original type. Journal of the Proceedings of the Linnean Society (Zoology), 3, 53—62.
-
-Waller, A. L. (1993). The Hatfield-McCoy feud. In W. Graebner (Ed.), True stories from the American past (pp. 35—54). New York: McGraw-Hill.
-
-Walsh, A. (1995). Parental attachment, drug use, and facultative sexual strategies. Social Biology, 42, 95—107.
-
-Walsh, A. (1999). Life history theory and female readers of pornography. Personality and Individual Differences, 27, 779—787.
-
-Wang, X. T. (1996). Evolutionary hypotheses of risk-sensitive choice: Age differences and perspective change. Ethology and Sociobiology, 17, 1—15.
-
-Wang. X. T. (2001). Bounded rationality of economic man: New frontiers in evolutionary psychology. Journal of Bioeconomics, 3, 83—90.
-
-Wason, P. (1966). Reasoning. In B. M. Foss (Ed.), New horizons in psychology. London: Penguin.
-
-Watson, D., & Burlingame, A. W. (1960). Therapy through horticulture. New York: Macmillan.
-
-Watson, J. B. (1924). Behaviorism. New York: Norton.
-
-Watson, N. V. (2001). Sex differences in throwing: Monkeys having a fling. Trends in Cognitive Science, 5, 98—99.
-
-Waynforth, D., & Dunbar, R. I. M. (1995). Conditional mate choice strategies in humans: Evidence from "lonely hearts" advertisements. Behaviour, 132, 755—779.
-
-Waynforth, D., Hurtado, A. M., & Hillk, K. (1998). Environmentally contingent reproductive strategies in Mayan and Ache males. Evolution and Human Behavior, 19, 369—385.
-
-Weinberg, E. D. (1984). Iron withholding: A defense against infection and neoplasia. Physiological Review, 64, 65—102.
-
-Weisfeld, G. (1997). Puberty rites as clues to the nature of human adolescence. Cross-Cultural Research, 31, 27—54.
-
-Weisfeld, G. E., & Billings, R. (1988). Observations on adolescence. In K. B. MacDonald (Ed.), Sociobiological perspectives on human development (pp. 207—233). New York: Springer-Verlag.
-
-Weisfeld, G. E. (1997). Discrete emotions theory with specific reference to pride and shame. In N. L. Segal, G. E. Weisfeld, & C. C. Weisfeld (Eds.), Uniting psychology and biology (pp. 419—443). Washington, DC: American Psychological Association.
-
-Weiss, D. L., & Slosnerick, M. (1981). Attitudes toward sexual and nonsexual extramarital involvements among a sample of college students. Journal of Marriage and the Family, 43, 349—358.
-
-Weissner, P. (1982). Risk, reciprocity and social influences on! Kung San economics. In E. Leacock & R. B. Lee (Eds.), Politics and history in band societies. Cambridge, UK: Cambridge University Press.
-
-Wellman. H. (1990). The child's theory of mind. Cambridge, MA: MIT Press.
-
-White, G. L. (1980). Inducing jealousy: A power perspective. Personality and Social Psychology Bulletin, 6, 222—227.
-
-White, G. L. (1981). Some correlates of romantic jealousy. Journal of Personality, 49, 129—147.
-
-Whitehurst, R. N. (1971). Violence potential in extramarital sexual responses. Journal of Marriage and the Family, 33, 683—691.
-
-Whiting, B., & Edwanls, C. P. (1988). Children of different worlds. Cambridge, MA: Harvard University Press.
-
-Whyte, M. K. (1990). Changes in mate choice in Chengdu. In D. Davis & E. Vogel (Eds.), China on the eve of Tiananmen. Cambridge, MA: Harvard University Press.
-
-Wicker, F. W., Payne, G. C., & Morgan, R. D. (1983). Participant descriptions of guilt and shame. Motivation and Emotion, 7, 25—39.
-
-Wiederman, M. W. (1993). Evolved gender differences in mate preferences: Evidence from personal advertisements. Ethology and Sociobiology, 14, 331—352.
-
-Wiederman, M. W., & Allgeier, E. R. (1992). Gender differences in mate selection criteria: Sociobiological or socioeconomic explanation? Ethology and Sociobiology, 13, 115—124.
-
-Wiessner, P. (2002). Hunting, healing, and hzaro exchange: A long-term perspective on! Kung (Ju/'hoansi) largegame hunting. Evolution and Human Behavior, 23, 407—436.
-
-Wilkinson, G. W. (1984). Reciprocal food sharing in the vampire bat. Nature, 308, 181—184.
-
-Willerman, L. (1979). The psychology of individual and group differences. San Francisco: Freeman.
-
-Willerman, L., Loehlin, J. C., & Horn, J. M. (1992). An adoption and a cross-fostering study of the Minnesota Multiphasic Personality Inventory (MMPI) Psychopathic Deviate scale. Behavior Genetics, 22, 515—529.
-
-Williams, G. C. (1957). Pieiotropy, natural selection, and the evolution of senescence. Evolution, 11, 398—411.
-
-Williams, G. C. (1966). Adaptation and natural selection. Princeton, NJ: Princeton University Press.
-
-Williams, G. C. (1975). Sex and evolution. Princeton, NJ: Princeton University Press.
-
-Williams, G. C. (1992). Natural selection. New York: Oxford University Press.
-
-Williams, G. C., & Nesse, R. M. (1991). The dawn of Darwinian medicine. Quarterly Review of Biology, 66, 1—22.
-
-Williams, K. D., Cheung, C. K. T., & Choi, W. (2000). Cyberostracism: Effects of being ignored over the internet. Journal of personality and Social Psychology, 79, 748—762.
-
-Wilson, D. S. (1994). Adaptive genetic variation and human evolutionary psychology. Ethology and Sociobiology, 15, 219—235.
-
-Wilson, D. S. (1995). Sociopathy within and between small groups. Behavioral and Brain Sciences, 18, 577.
-
-Wilson, D. S. (1998). Game theory and human behavior. In L. A. Dugatkin & H. K. Reeve (Eds.), Came theory and animal behavior (pp. 261—282). New York: Oxford University Press.
-
-Wilson, D. S., Near, D., & Miller, R. R. (1996). Machiavellianism: A snthesis of the evolutionary and psychological literatures. Psychological Bulletin, 119, 285—299.
-
-Wilson, D. S., & Sober, E. (1994). Reintroducing group selection to the human behavioral sciences. Behavioral and Brain Sciences, 17, 585—654.
-
-Wilson, E. O. (1975). Sociobiology: The new synthesis. Cambridge, MA: Harvard University Press.
-
-Wilson, E. O. (1998). Consilience: The unity of knowledge. New York: knopf.
-
-Wilson, G. D. (1987). Male-female differences in sexual activity, enjoyment, and fantasies, Personality and Individual Differences, 8, 125—126.
-
-Wilson, M., & Daly, M. (1985). Competitveness, risk-taking, and violence: The young male syndrome. Ethology and Sociobiology, 6, 59—73.
-
-Wilson, M., & Daly, M. (1992). The man who mistook his wife for a chattel. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted mind: Evolutionary psychology and the generation of culture (pp. 289—322). New York: Oxford University Press.
-
-Wilson, M., & Daly, M. (1993). An evolutionary psychological perspective on male sexual proprietariness and violence against wives. Violence and Victims, 8, 271—294.
-
-Wilson, M., & Daly, M. (1996). Male sexual proprietariness and violence against wives. Current Directions in Psychological Science, 5, 2—7.
-
-Wilson, M., Johnson, H., & Daly, M. (1995). Lethal and nonlethal violence against wives. Canadian Journal of Criminology, 37, 331—361.
-
-Wilson, M., & Mesnick, S. L. (1997). An empirical test of the bodyguard hypothesis. In P. A. Gowaty (Ed.), Feminism and evolutionary biology: boundaries, intersections, and frontiers. New York: Chapman & Hall.
-
-Wilson, P. R. (1968). Perceptual distortion of height as a function of ascribed academic status. Journal of Social Psychology, 74, 97.
-
-Wolpoff, M. H., & Caspari, R. (1996). Race and human evolution: A fatal attraction. New York: Simon & Schuster.
-
-Wolpoff, M. H., Hawks, J., Frayer, D. W., & Huntley, K. (2001). Modem human ancestry at the peripheries: A test of the replacement theory. Science, 291, 293—297.
-
-Wrangham, R. W. (1993). The evolution of sexuality in chimpanzees and bonobos. Human Nature, 4, 47—79.
-
-Wrangham, R. W., Jones, J. H., Laden, G., Pilbeam, D, & Conklin-Brittain, N. (1999). The raw and the stolen; Cooking and the ecology of human origins. Current Anthropology, 40, 567—594.
-
-Wrangham, R., & Peterson, D. (1996). Demonic males. Boston: Houghton Mifflin.
-
-Wright, R. (1995). The biology of violence. The New Yorker, pp. 68—77, March 13.
-
-Wynne-Edwards, V. C. (1962). Animal dispersion in relation to social behavior. Edinburgh: Oliver & Boyd.
-
-Yerushalmy, J., & Milkovich, L. (1965). Evaluation of the teratogenic effects of meclizine in man. American Journal of Obstertrics and Gynecology, 93, 553—562.
-
-Yosef, R. (1991, June). Female seek males with ready cache. Natural History, 37.
-
-Young, R. R., & Thiessen, D. (1982). The Texas rape scale. Ethology and Sociobiology, 13, 19—33.
-
-Yu, D. W., & Shepard, G. H. (1998). Is beauty in the eye of the beholder? Nature, 396, 321—322.
-
-Zahavi, A. (1977). The costs of honesty (Further remarks on the handicap principle). Journal of Theoretical Biology, 67, 603—605.
-
-Zahavi, A., & Zahavi, A. (1996). The handicap principle. New York: Oxford University Press.
-
-Zihlman, A. L. (1981). Women as shapers of the human adaptation. In F. Dahlberg (Ed.), Woman the gatherer (pp. 77—120). New Haven, CT: Yale University Press.
-
-
-
-
-
-索　引
-
-
+# 索引
 注：下文中的斜体字f和t分别表示图形和表格。
 
 未翻译的皆为英文人名。页码为原书页码，见本书的边码。
