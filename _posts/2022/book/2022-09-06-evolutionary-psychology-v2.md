@@ -2,9 +2,9 @@
 
 layout: post
 title: 进化心理学（第二版）
-categories: Orwell
-description: Orwell
-keywords: Orwell
+categories: 进化心理学
+description: 进化心理学
+keywords: 进化心理学
 
 ---
 
