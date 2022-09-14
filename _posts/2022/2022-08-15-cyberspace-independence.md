@@ -1,11 +1,9 @@
 ---
-
 layout: post
 title: A Declaration of the Independence of Cyberspace
 categories: 
 description: 
 keywords: 
-
 ---
 
 by John Perry Barlow
