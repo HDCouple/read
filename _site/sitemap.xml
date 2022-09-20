@@ -109,6 +109,10 @@
 <lastmod>2022-09-13T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/bitwu-eth/</loc>
+<lastmod>2022-09-14T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/podcast/</loc>
 <lastmod>2022-09-14T00:00:00+08:00</lastmod>
 </url>
@@ -122,7 +126,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/wiki/template/</loc>
-<lastmod>2022-09-19T17:50:24+08:00</lastmod>
+<lastmod>2022-09-20T21:40:42+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -153,5 +157,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page4/</loc>
 </url>
 </urlset>
