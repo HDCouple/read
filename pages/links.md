@@ -11,6 +11,7 @@ permalink: /links/
 # News
 [https://news.ycombinator.com/](https://news.ycombinator.com/)  
 [https://www.bloomberg.com/](https://www.bloomberg.com/)  
+[https://www.wired.com/](https://www.wired.com/)  
 [https://chinadigitaltimes.net/chinese/](https://chinadigitaltimes.net/chinese/)  
 
 # Read
