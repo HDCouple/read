@@ -8,6 +8,10 @@ menu: 链接
 permalink: /links/
 ---
 
+# Blog
+卢昌海 [https://www.changhai.org/](https://www.changhai.org/)  
+
+
 # News
 [https://news.ycombinator.com/](https://news.ycombinator.com/)  
 [https://www.bloomberg.com/](https://www.bloomberg.com/)  
