@@ -11,6 +11,9 @@ permalink: /links/
 # Blog
 卢昌海 [https://www.changhai.org/](https://www.changhai.org/)  
 
+# Dev
+[https://www.bmpi.dev/self/](https://www.bmpi.dev/self/)
+
 
 # News
 [https://news.ycombinator.com/](https://news.ycombinator.com/)  
