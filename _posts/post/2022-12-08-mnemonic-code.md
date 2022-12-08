@@ -3,18 +3,18 @@ layout: post
 title: 助记词使用指南
 categories: 助记词
 description: 助记词
-keywords: 助记词
+keywords: 助记词··
 ---
 
-1 why
+# 1 why
 1.1 not your keys,not your coins.
 1.2 from private key to mnemonic code.
 
-2 what is it and how it works
+# 2 what is it and how it works
 2.1 bip39
 2.2 bip44
 
-3 how to use
+# 3 how to use
 3.1 分场景
 3.1.1 Saving Account 储蓄账户 - 助记词卡片
 3.1.2 Checking Account 支票账户 - 硬件钱包，手机APP，浏览器插件
