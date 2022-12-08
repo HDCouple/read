@@ -3,7 +3,7 @@ layout: post
 title: 助记词使用指南
 categories: 助记词
 description: 助记词
-keywords: 助记词··
+keywords: 助记词
 ---
 
 # 1 why
