@@ -25,3 +25,6 @@ keywords: 助记词
 3.2.2 介质安全：无酸纸、助记词板  
 3.2.3 环境安全：电脑、手机、硬件钱包、房间摄像头  
 3.2.4 进一步防护 bip39 中 passphrase 的使用（密码学不能自造轮子、哨兵钱包）  
+
+more info：  
+[https://shop.ledger.com/zh-cn/products/cryptosteel-capsule-solo](https://shop.ledger.com/zh-cn/products/cryptosteel-capsule-solo)
