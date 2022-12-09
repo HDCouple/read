@@ -27,4 +27,5 @@ keywords: 助记词
 3.2.4 进一步防护 bip39 中 passphrase 的使用（密码学不能自造轮子、哨兵钱包）  
 
 more info：  
-[https://shop.ledger.com/zh-cn/products/cryptosteel-capsule-solo](https://shop.ledger.com/zh-cn/products/cryptosteel-capsule-solo)
+别致  
+[https://shop.ledger.com/zh-cn/products/cryptosteel-capsule-solo](https://shop.ledger.com/zh-cn/products/cryptosteel-capsule-solo)  
