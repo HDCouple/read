@@ -23,6 +23,7 @@ permalink: /links/
 
 # Read
 [https://z-lib.org/](https://z-lib.org/)  
+[https://zebra.9farm.com/](https://zebra.9farm.com/)  
 [https://www.marxists.org/chinese/maozedong/index.htm](https://www.marxists.org/chinese/maozedong/index.htm)  
 [https://www.marxists.org/chinese/reference-books/luxun/index.htm](https://www.marxists.org/chinese/reference-books/luxun/index.htm)  
 
