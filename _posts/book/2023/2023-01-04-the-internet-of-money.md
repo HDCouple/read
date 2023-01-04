@@ -1,51 +1,27 @@
 ---
 layout: post
-title: 真名实姓
-categories: 真名实姓
-description: 真名实姓
-keywords: 真名实姓
+title: The Internet of Money
+categories: The Internet of Money
+description: The Internet of Money
+keywords: The Internet of Money
 ---
-
-The Internet of Money
-
-
-
-
-
-* * *
-
-
-
-
 
 Praise for "The Internet of Money"
 
-I’ve always wondered what would have happened if we had built one-click payments into the browser from the very beginning. With bitcoin, we finally get this Internet of Money. But this book isn’t just an ode to bitcoin — it’s an ode to open protocols, what happens when you connect people online, and the power of innovation on the internet.
-
+> I’ve always wondered what would have happened if we had built one-click payments into the browser from the very beginning. With bitcoin, we finally get this Internet of Money. But this book isn’t just an ode to bitcoin — it’s an ode to open protocols, what happens when you connect people online, and the power of innovation on the internet.  
 — Marc Andreessen, co-founder Netscape and Andreessen Horowitz
 
 
 
-With Mastering Bitcoin, Andreas M. Antonopoulos wrote one of the best technical books on digital currency. With The Internet of Money, he’s matched that feat by compiling his talks into one of the best books on Bitcoin for a broad audience. Highly recommended!
-
+> With Mastering Bitcoin, Andreas M. Antonopoulos wrote one of the best technical books on digital currency. With The Internet of Money, he’s matched that feat by compiling his talks into one of the best books on Bitcoin for a broad audience. Highly recommended!  
 — Balaji Srinavasan, CEO 21.co
 
 
 
-Over the past three years, awareness of the sweeping, transformative potential of bitcoin and its underlying blockchain technology has grown exponentially. That required people to grasp not only how this unorthodox technology worked but also its profound promise for society. No one has done more than Andreas Antonopoulos to get them over that hurdle. Read him. It will make you wiser.
-
+> Over the past three years, awareness of the sweeping, transformative potential of bitcoin and its underlying blockchain technology has grown exponentially. That required people to grasp not only how this unorthodox technology worked but also its profound promise for society. No one has done more than Andreas Antonopoulos to get them over that hurdle. Read him. It will make you wiser.  
 — Michael J. Casey, co-author The Age of Cryptocurrency: How Bitcoin and Digital Money are Challenging the Global Economic Order
 
-
-
-
-
 # Foreword
-
-
-
-
-
 By Don Tapscott
 
 In early 2014, my son Alex and I began the research for our book Blockchain Revolution. I had been working on the 20th anniversary edition of The Digital Economy and reflecting on the last two decades and what’s next, I had become fascinated by Bitcoin and cryptocurrencies. Meanwhile, Alex was an executive with the investment bank Canaccord Genuity. He noticed the growing enthusiasm of early stage bitcoin and blockchain companies in 2013 and began leading his firm’s efforts in the space. During a father-son ski trip to Mt. Tremblant in early 2014, we brainstormed over dinner about collaborating on this topic and to make a long story short decided to write a book.
@@ -78,7 +54,7 @@ Don Tapscott is the author of 15 books on new technology in society, including P
 
 
 
-Preface
+# Preface
 
 
 
@@ -116,7 +92,7 @@ You’ll find a robust index at the end of the book. One of the things we’re m
 
 
 
-Chapter 1. What Is Bitcoin?
+# Chapter 1. What Is Bitcoin?
 
 
 
@@ -332,7 +308,7 @@ Thank you.
 
 
 
-Chapter 2. Peer-to-Peer Money
+# Chapter 2. Peer-to-Peer Money
 
 
 
@@ -586,7 +562,7 @@ Thank you.
 
 
 
-Chapter 3. Privacy, Identity, Surveillance and Money
+# Chapter 3. Privacy, Identity, Surveillance and Money
 
 
 
@@ -912,7 +888,7 @@ Thank you.
 
 
 
-Chapter 4. Innovators, Disruptors, Misfits, and Bitcoin
+# Chapter 4. Innovators, Disruptors, Misfits, and Bitcoin
 
 
 
@@ -1158,7 +1134,7 @@ Thank you.
 
 
 
-Chapter 5. Dumb Networks, Innovation, and the Festival of the Commons
+# Chapter 5. Dumb Networks, Innovation, and the Festival of the Commons
 
 
 
@@ -1340,7 +1316,7 @@ Thank you.
 
 
 
-Chapter 6. Infrastructure Inversion
+# Chapter 6. Infrastructure Inversion
 
 
 
@@ -1564,7 +1540,7 @@ Thank you.
 
 
 
-Chapter 7. Currency as a Language
+# Chapter 7. Currency as a Language
 
 
 
@@ -1826,7 +1802,7 @@ Thank you.
 
 
 
-Chapter 8. Bitcoin Design Principles
+# Chapter 8. Bitcoin Design Principles
 
 
 
@@ -2210,7 +2186,7 @@ Thank you.
 
 
 
-Chapter 9. Money as a Content Type
+# Chapter 9. Money as a Content Type
 
 
 
@@ -2450,7 +2426,7 @@ Note from Andreas to the reader: In this talk I foolishly attempted to improvise
 
 
 
-Chapter 10. Elements of Trust: Unleashing Creativity
+# Chapter 10. Elements of Trust: Unleashing Creativity
 
 
 
@@ -2632,7 +2608,7 @@ Thank you.
 
 
 
-Chapter 11. Scaling Bitcoin
+# Chapter 11. Scaling Bitcoin
 
 
 
@@ -2878,7 +2854,7 @@ Thank you.
 
 
 
-Appendix A. Video Links
+# Appendix A. Video Links
 
 
 
