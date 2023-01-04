@@ -2914,7 +2914,7 @@ Bitcoin Meetup at Paralelni Polis; Prague, Czech; March 2016; https://www.youtub
 
 
 
-Colophon
+# Colophon
 
 
 Talks by Andreas M. Antonopoulos https://antonopoulos.com/ @aantonop
@@ -2941,7 +2941,7 @@ Almost all of Andreas’s original work is distributed under creative commons li
 
 
 
-Index
+# Index
 
 
 
