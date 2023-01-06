@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Internet of Money
-categories: The Internet of Money
-description: The Internet of Money
-keywords: The Internet of Money
+categories: Bitcoin
+description: Bitcoin
+keywords: Bitcoin
 ---
 
 Praise for "The Internet of Money"
