@@ -1902,7 +1902,7 @@ War is over...
 
 
 
-BOX1｜谁在那里唱反战歌？
+## BOX1｜谁在那里唱反战歌？
 
 
 2003年3月，伦敦举行了一场名为“One Big No”的演唱会，这是此波反战运动中少见的明星串联演唱会，表演者包括酷玩乐队、保罗·维尔、Faithless、Ian McCulloch （Echo and the Bunnymen的主唱）和Ronan Keating，埃尔顿·约翰和小野洋子则以录像带的形式发表他们的抗议。
@@ -1955,7 +1955,7 @@ BOX1｜谁在那里唱反战歌？
 
 
 
-BOX2｜把大兵带回家
+## BOX2｜把大兵带回家
 
 
 2006年3月20日，我在纽约参加了一场反战演唱会“现在把他们带回家”（Bring' em Home Now）。
@@ -1990,7 +1990,7 @@ So if you love this land of the free, Bring' em home
 
 
 
-BOX3｜尼尔·杨的“与战争共存”
+## BOX3｜尼尔·杨的“与战争共存”
 
 
 我们在草地上唱着歌练习抗议的姿势。
